@@ -1,0 +1,276 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif), Georgia, "Times New Roman", serif;
+
+  --color-cream-50: #fafbfc;
+  --color-cream-100: #f1f3f5;
+  --color-cream-200: #e5e7eb;
+  --color-cream-300: #d1d5db;
+  --color-cream-400: #b0b6c0;
+
+  --color-warm-50: #f5f6f8;
+  --color-warm-100: #e5e7ec;
+  --color-warm-200: #cbd0d8;
+  --color-warm-300: #9ca3af;
+  --color-warm-400: #7b8290;
+  --color-warm-500: #5c6370;
+  --color-warm-600: #454b57;
+  --color-warm-700: #333842;
+  --color-warm-800: #1f2329;
+  --color-warm-900: #131619;
+}
+
+html {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--color-cream-100);
+  color: var(--color-warm-800);
+}
+
+:where(.dark) body {
+  background-color: var(--color-warm-900);
+  color: var(--color-cream-200);
+}
+
+/* ── Prose Reading Surface ─────────────────────────────── */
+
+.prose-kindle {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  line-height: 1.78;
+  color: var(--color-warm-700);
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1, "liga" 1;
+  word-spacing: 0.01em;
+  hanging-punctuation: first last;
+}
+
+:where(.dark) .prose-kindle {
+  color: var(--color-cream-200);
+}
+
+/* ── Drop Cap ──────────────────────────────────────────── */
+
+.prose-kindle > p:first-child::first-letter {
+  float: left;
+  font-size: 3.6em;
+  line-height: 0.78;
+  margin-right: 0.1em;
+  margin-top: 0.06em;
+  font-weight: 700;
+  color: var(--color-warm-600);
+}
+
+:where(.dark) .prose-kindle > p:first-child::first-letter {
+  color: var(--color-cream-400);
+}
+
+/* ── Headings ──────────────────────────────────────────── */
+
+.prose-kindle h2 {
+  font-family: var(--font-sans);
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--color-cream-300);
+  color: var(--color-warm-800);
+}
+
+:where(.dark) .prose-kindle h2 {
+  color: var(--color-cream-100);
+  border-top-color: var(--color-warm-700);
+}
+
+.prose-kindle h3 {
+  font-family: var(--font-sans);
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-warm-700);
+}
+
+:where(.dark) .prose-kindle h3 {
+  color: var(--color-cream-200);
+}
+
+/* ── Paragraphs ────────────────────────────────────────── */
+
+.prose-kindle p {
+  margin-bottom: 1.5em;
+}
+
+/* ── Links ─────────────────────────────────────────────── */
+
+.prose-kindle a {
+  color: var(--color-warm-600);
+  text-decoration: underline;
+  text-decoration-color: var(--color-cream-400);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+
+.prose-kindle a:hover {
+  color: var(--color-warm-500);
+  text-decoration-color: var(--color-warm-500);
+}
+
+:where(.dark) .prose-kindle a {
+  color: var(--color-cream-400);
+  text-decoration-color: var(--color-warm-600);
+}
+
+:where(.dark) .prose-kindle a:hover {
+  color: var(--color-cream-300);
+  text-decoration-color: var(--color-cream-300);
+}
+
+/* ── Blockquotes ───────────────────────────────────────── */
+
+.prose-kindle blockquote {
+  border-left: 3px solid var(--color-cream-400);
+  background: var(--color-cream-50);
+  padding: 1.25rem 1.75rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin: 2rem 0;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: var(--color-warm-600);
+}
+
+.prose-kindle blockquote p:first-child::first-letter {
+  float: none !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+  margin: 0 !important;
+}
+
+:where(.dark) .prose-kindle blockquote {
+  border-left-color: var(--color-warm-600);
+  background: rgba(241, 243, 245, 0.04);
+  color: var(--color-warm-300);
+}
+
+/* ── Inline Emphasis ───────────────────────────────────── */
+
+.prose-kindle strong {
+  font-weight: 700;
+  color: var(--color-warm-800);
+}
+
+:where(.dark) .prose-kindle strong {
+  color: var(--color-cream-100);
+}
+
+.prose-kindle em {
+  font-style: italic;
+}
+
+/* ── Lists ─────────────────────────────────────────────── */
+
+.prose-kindle ul,
+.prose-kindle ol {
+  margin: 1.25em 0;
+  padding-left: 1.5em;
+}
+
+.prose-kindle li {
+  margin-bottom: 0.4em;
+  line-height: 1.7;
+}
+
+.prose-kindle li::marker {
+  color: var(--color-warm-400);
+}
+
+:where(.dark) .prose-kindle li::marker {
+  color: var(--color-warm-500);
+}
+
+/* ── Images ────────────────────────────────────────────── */
+
+.prose-kindle img {
+  border-radius: 0.5rem;
+  margin: 2rem auto;
+}
+
+/* ── Horizontal Rules ──────────────────────────────────── */
+
+.prose-kindle hr {
+  border: none;
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.prose-kindle hr::after {
+  content: "* * *";
+  display: block;
+  letter-spacing: 1em;
+  font-size: 0.85rem;
+  color: var(--color-warm-400);
+}
+
+:where(.dark) .prose-kindle hr::after {
+  color: var(--color-warm-600);
+}
+
+/* ── Ornamental Section Divider ────────────────────────── */
+
+.article-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0 0;
+  padding-top: 0.5rem;
+  color: var(--color-cream-400);
+}
+
+.article-divider::before,
+.article-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(
+    to var(--dir, right),
+    transparent,
+    var(--color-cream-300)
+  );
+}
+
+.article-divider::before {
+  --dir: right;
+}
+
+.article-divider::after {
+  --dir: left;
+}
+
+:where(.dark) .article-divider {
+  color: var(--color-warm-600);
+}
+
+:where(.dark) .article-divider::before,
+:where(.dark) .article-divider::after {
+  background: linear-gradient(
+    to var(--dir, right),
+    transparent,
+    var(--color-warm-700)
+  );
+}

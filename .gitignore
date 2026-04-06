@@ -1,0 +1,8 @@
+node_modules/
+site/out/
+site/.next/
+site/node_modules/
+scraper/__pycache__/
+scraper/venv/
+*.pyc
+.env
