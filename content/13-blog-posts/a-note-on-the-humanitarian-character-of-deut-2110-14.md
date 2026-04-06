@@ -7,7 +7,7 @@ wordCount: 2585
 readTime: 13
 subcategory: Christology
 series: Humanity of Christ
-part: A note on the humanitarian character of Deut 21.10-14
+part: 1
 ---
 
 # A note on the humanitarian character of Deut 21.10-14

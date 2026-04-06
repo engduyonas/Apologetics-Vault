@@ -7,7 +7,7 @@ wordCount: 4423
 readTime: 22
 subcategory: Church & Sacraments
 series: Mary Studies
-part: Mary in the Talmud
+part: 3
 ---
 
 # Mary in the Talmud

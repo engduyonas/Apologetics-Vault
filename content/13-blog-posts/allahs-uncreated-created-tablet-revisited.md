@@ -7,7 +7,7 @@ wordCount: 4015
 readTime: 20
 subcategory: Quranic Analysis
 series: Uncreated Studies
-part: 'Allah's Uncreated Created Tablet Revisited'
+part: 1
 ---
 
 # Allah's Uncreated Created Tablet Revisited

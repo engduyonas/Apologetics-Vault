@@ -7,7 +7,7 @@ wordCount: 9940
 readTime: 50
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Is Allah the God of the Bible?'
+part: 12
 ---
 
 ### IS ALLAH THE GOD OF BIBLE?

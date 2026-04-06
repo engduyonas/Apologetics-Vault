@@ -7,7 +7,7 @@ wordCount: 2377
 readTime: 12
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'Allah and Satan: Who Misleads Whom?'
+part: 11
 ---
 
 # Allah and Satan: Who Misleads Whom?

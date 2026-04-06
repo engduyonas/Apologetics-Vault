@@ -7,7 +7,7 @@ wordCount: 2086
 readTime: 10
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'MUHAMMAD’S GOD: A YOUNG CURLY HAIRED, BEARDLESS BOY!'
+part: 13
 ---
 
 # MUHAMMAD’S GOD: A YOUNG CURLY HAIRED, BEARDLESS BOY!

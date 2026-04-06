@@ -7,7 +7,7 @@ wordCount: 4134
 readTime: 21
 subcategory: Muhammad & Islam
 series: Aisha Studies
-part: 'Aisha’s Condition: Post-Pubescent Maiden or Premature Minor?'
+part: 3
 ---
 
 # Aisha’s Condition: Post-Pubescent Maiden or Premature Minor?

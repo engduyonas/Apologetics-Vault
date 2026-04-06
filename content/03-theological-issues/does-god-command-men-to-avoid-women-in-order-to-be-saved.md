@@ -7,7 +7,7 @@ wordCount: 8055
 readTime: 40
 subcategory: Salvation & Eschatology
 series: Saved Studies
-part: 'Does God Command Men To Avoid Women In Order To Be Saved?'
+part: 1
 ---
 
 ### **Does the Bible Really Teach That  

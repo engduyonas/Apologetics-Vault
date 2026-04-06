@@ -7,7 +7,7 @@ wordCount: 2458
 readTime: 12
 subcategory: Church & Sacraments
 series: John Studies
-part: 'John 6 & the Holy Eucharist'
+part: 4
 ---
 
 # John 6 & the Holy Eucharist

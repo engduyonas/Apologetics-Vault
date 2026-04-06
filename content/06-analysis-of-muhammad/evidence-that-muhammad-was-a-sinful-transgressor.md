@@ -7,7 +7,7 @@ wordCount: 2829
 readTime: 14
 subcategory: Character & Morality
 series: Muhammad Studies
-part: Evidence that Muhammad was a Sinful Transgressor
+part: 3
 ---
 
 # Evidence that Muhammad was a Sinful Transgressor

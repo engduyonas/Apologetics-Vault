@@ -7,7 +7,7 @@ wordCount: 536
 readTime: 3
 subcategory: Church & Sacraments
 series: Catholic Studies
-part: LUTHER ON THE CATHOLIC CHURCH
+part: 1
 ---
 
 # LUTHER ON THE CATHOLIC CHURCH

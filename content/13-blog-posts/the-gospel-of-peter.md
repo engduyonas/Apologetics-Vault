@@ -7,7 +7,7 @@ wordCount: 3374
 readTime: 17
 subcategory: Biblical Studies
 series: New Testament
-part: The Gospel of Peter
+part: 2
 ---
 
 # The Gospel of Peter

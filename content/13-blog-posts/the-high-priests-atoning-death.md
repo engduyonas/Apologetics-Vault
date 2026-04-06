@@ -7,7 +7,7 @@ wordCount: 2353
 readTime: 12
 subcategory: General Topics
 series: Death Studies
-part: The High Priest’s Atoning Death
+part: 4
 ---
 
 # The High Priest’s Atoning Death

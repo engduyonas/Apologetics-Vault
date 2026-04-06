@@ -7,7 +7,7 @@ wordCount: 3285
 readTime: 16
 subcategory: Biblical Studies
 series: New Testament
-part: 'Does the Quran confirm the Bible & the Canonical Gospels?'
+part: 1
 ---
 
 # Does the Quran confirm the Bible & the Canonical Gospels?

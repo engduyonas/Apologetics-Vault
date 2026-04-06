@@ -7,7 +7,7 @@ wordCount: 1844
 readTime: 9
 subcategory: Christology
 series: Deity of Christ
-part: 'Justin Affirms: Christ is God’s Uncreated Word'
+part: 12
 ---
 
 # Justin Affirms: Christ is God’s Uncreated Word

@@ -7,7 +7,7 @@ wordCount: 9424
 readTime: 47
 subcategory: Christology
 series: Deity of Christ
-part: 'Christ: God of God'
+part: 5
 ---
 
 # Christ: God of God

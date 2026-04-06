@@ -7,7 +7,7 @@ wordCount: 1511
 readTime: 8
 subcategory: Christology
 series: Jesus Studies
-part: 'NWT PROVES JESUS IS UNCREATED!'
+part: 29
 ---
 
 # NWT PROVES JESUS IS UNCREATED!

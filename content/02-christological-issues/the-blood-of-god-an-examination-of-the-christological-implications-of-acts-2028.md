@@ -8,7 +8,7 @@ wordCount: 6685
 readTime: 33
 subcategory: Christ's Deity & Identity
 series: Examination Studies
-part: 'The Blood of God: An Examination of the Christological Impli'
+part: 2
 ---
 
 ### The Blood of God

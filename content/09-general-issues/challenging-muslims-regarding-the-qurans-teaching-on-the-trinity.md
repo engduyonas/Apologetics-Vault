@@ -7,7 +7,7 @@ wordCount: 3782
 readTime: 19
 subcategory: Quran & Bible
 series: Quran Studies
-part: Challenging Muslims regarding the Quran’s teaching on the Tr
+part: 2
 ---
 
 ### Challenging Muslims regarding the Quran’s teaching on the Trinity

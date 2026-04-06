@@ -7,7 +7,7 @@ wordCount: 4711
 readTime: 24
 subcategory: Quran & the Bible
 series: Quran Studies
-part: The Mistakes of the Quran regarding the Biblical Patriarchs
+part: 3
 ---
 
 ### The Quran’s Mistakes regarding the Biblical Patriarchs

@@ -7,7 +7,7 @@ wordCount: 1337
 readTime: 7
 subcategory: Christology
 series: Messiah Studies
-part: 'Ps. 16:10: Messiah’s Incorruption'
+part: 7
 ---
 
 # Ps. 16:10: Messiah’s Incorruption

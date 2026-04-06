@@ -7,7 +7,7 @@ wordCount: 388
 readTime: 2
 subcategory: General Topics
 series: John Studies
-part: 'John Calvin & the Book of Baruch'
+part: 2
 ---
 
 # John Calvin & the Book of Baruch

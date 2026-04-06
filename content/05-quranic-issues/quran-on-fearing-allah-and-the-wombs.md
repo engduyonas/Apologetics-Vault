@@ -7,7 +7,7 @@ wordCount: 4995
 readTime: 25
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: Quran on Fearing Allah and the Wombs
+part: 6
 ---
 
 # Does the Quran really enjoin fearing Allah alone?

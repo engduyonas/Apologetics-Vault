@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/adam_and_eve_shirk.htm
 wordCount: 2918
 readTime: 15
 series: Quran Studies
-part: The Quran On Adam and Eve Committing Shirk
+part: 2
 ---
 
 ### Adam and Eve: The First of the Polytheists and Associators?

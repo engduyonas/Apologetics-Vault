@@ -7,7 +7,7 @@ wordCount: 3433
 readTime: 17
 subcategory: Christology
 series: Unitarian Studies
-part: 'Another Unitarian Dilemma: How Many Saviors?'
+part: 1
 ---
 
 # Another Unitarian Dilemma: How Many Saviors?

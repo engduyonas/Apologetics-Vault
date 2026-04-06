@@ -7,7 +7,7 @@ wordCount: 2616
 readTime: 13
 subcategory: Quran & the Bible
 series: Quran Studies
-part: 'The Challenge of the Quran & Its Implications for the Muslim'
+part: 1
 ---
 
 ## The Challenge of the Quran

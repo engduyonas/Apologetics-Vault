@@ -7,7 +7,7 @@ wordCount: 3692
 readTime: 18
 subcategory: Bible & Quran
 series: Muhammad Studies
-part: ‘Ishmael Is Not the Father Of Muhammad’ Revisited
+part: 3
 ---
 
 ### ‘Ishmael Is Not the Father Of Muhammad’ Revisited

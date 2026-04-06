@@ -7,7 +7,7 @@ wordCount: 7081
 readTime: 35
 subcategory: Patristic Theology
 series: Origen Studies
-part: 'Origen & the Worship of Angels'
+part: 4
 ---
 
 # Origen & the Worship of Angels

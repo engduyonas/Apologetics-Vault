@@ -7,7 +7,7 @@ wordCount: 1875
 readTime: 9
 subcategory: Muhammad & Islam
 series: Islamic Studies
-part: Islamic Procreation As Sex Jihad
+part: 5
 ---
 
 # Islamic Procreation As Sex Jihad

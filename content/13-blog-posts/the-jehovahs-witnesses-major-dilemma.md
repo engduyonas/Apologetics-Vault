@@ -7,7 +7,7 @@ wordCount: 3834
 readTime: 19
 subcategory: Christology
 series: Jehovah Studies
-part: The Jehovah’s Witnesses’ Major Dilemma
+part: 2
 ---
 
 # The Jehovah’s Witnesses’ Major Dilemma

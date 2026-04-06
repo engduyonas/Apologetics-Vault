@@ -7,7 +7,7 @@ wordCount: 1570
 readTime: 8
 subcategory: Nature of Allah
 series: Allah Studies
-part: Allah’s Pride
+part: 8
 ---
 
 ### Allah’s Pride

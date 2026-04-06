@@ -7,7 +7,7 @@ wordCount: 5810
 readTime: 29
 subcategory: Christology
 series: Deity of Christ
-part: 'Christ: God’s Word/Wisdom Incarnate'
+part: 6
 ---
 
 # Christ: God’s Word/Wisdom Incarnate

@@ -7,7 +7,7 @@ wordCount: 6500
 readTime: 32
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Examining Islam's Teaching that Allah Prays and Worships'
+part: 11
 ---
 
 # Islam and the prayers of Allah

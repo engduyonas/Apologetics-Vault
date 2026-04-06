@@ -7,7 +7,7 @@ wordCount: 179
 readTime: 1
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: 'ISLAM & ARABIC MASCULINE PRONOUNS'
+part: 3
 ---
 
 # ISLAM & ARABIC MASCULINE PRONOUNS

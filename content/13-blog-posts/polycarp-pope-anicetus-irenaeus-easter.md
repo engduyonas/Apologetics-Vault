@@ -7,7 +7,7 @@ wordCount: 1979
 readTime: 10
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'Polycarp, Pope Anicetus, Irenaeus & Easter'
+part: 8
 ---
 
 # Polycarp, Pope Anicetus, Irenaeus & Easter

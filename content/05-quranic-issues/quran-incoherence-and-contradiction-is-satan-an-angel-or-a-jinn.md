@@ -7,7 +7,7 @@ wordCount: 3802
 readTime: 19
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Qur''an Incoherence and Contradiction: Is Satan an Angel or '
+part: 8
 ---
 
 **Qur'an Incoherence and Contradiction**

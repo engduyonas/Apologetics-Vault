@@ -7,7 +7,7 @@ wordCount: 7834
 readTime: 39
 subcategory: Patristic Theology
 series: Early Church
-part: 'APOSTOLIC SUCCESSION & TRADITION'
+part: 1
 ---
 
 # APOSTOLIC SUCCESSION & TRADITION

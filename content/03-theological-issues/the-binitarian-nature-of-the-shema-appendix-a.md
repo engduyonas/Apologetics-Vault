@@ -4,7 +4,7 @@ slug: the-binitarian-nature-of-the-shema-appendix-a
 category: theological-issues
 source: https://answeringislam.info/authors/shamoun/binity_app_a.html
 series: The Binitarian Nature of the Shema
-part: A
+part: 8
 wordCount: 5441
 readTime: 27
 subcategory: Trinity & Monotheism

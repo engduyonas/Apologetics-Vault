@@ -7,7 +7,7 @@ wordCount: 5953
 readTime: 30
 subcategory: Nature of Allah
 series: Allah Studies
-part: At the Service of Allah and his Associate
+part: 9
 ---
 
 # Muslims at the service of Allah and Muhammad his associate

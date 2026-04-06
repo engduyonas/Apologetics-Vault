@@ -7,7 +7,7 @@ wordCount: 2128
 readTime: 11
 subcategory: Christology
 series: Messiah Studies
-part: 'Judaism’s Dying & Rising Messiah'
+part: 3
 ---
 
 # Judaism’s Dying & Rising Messiah

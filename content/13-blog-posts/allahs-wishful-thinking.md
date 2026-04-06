@@ -7,7 +7,7 @@ wordCount: 1574
 readTime: 8
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: Allah’s Wishful Thinking
+part: 15
 ---
 
 # Allah’s Wishful Thinking

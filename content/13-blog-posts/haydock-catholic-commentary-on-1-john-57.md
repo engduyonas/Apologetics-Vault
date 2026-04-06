@@ -7,7 +7,7 @@ wordCount: 626
 readTime: 3
 subcategory: Church & Sacraments
 series: John Studies
-part: 'Haydock Catholic Commentary on 1 John 5:7'
+part: 3
 ---
 
 # Haydock Catholic Commentary on 1 John 5:7

@@ -7,7 +7,7 @@ wordCount: 3925
 readTime: 20
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: Revisiting Christ’s Ignorance of the Day or Hour
+part: 6
 ---
 
 # Revisiting Christ’s Ignorance of the Day or Hour

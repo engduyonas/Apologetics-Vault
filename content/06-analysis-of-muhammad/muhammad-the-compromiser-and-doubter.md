@@ -7,7 +7,7 @@ wordCount: 7731
 readTime: 39
 subcategory: Character & Morality
 series: Muhammad Studies
-part: Muhammad the Compromiser and Doubter
+part: 10
 ---
 
 ### Muhammad the Compromiser and Doubter

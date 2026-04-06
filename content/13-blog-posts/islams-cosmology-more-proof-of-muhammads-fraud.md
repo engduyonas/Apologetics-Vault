@@ -7,7 +7,7 @@ wordCount: 2657
 readTime: 13
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'ISLAM’S COSMOLOGY: MORE PROOF OF MUHAMMAD’S FRAUD'
+part: 5
 ---
 
 # ISLAM’S COSMOLOGY: MORE PROOF OF MUHAMMAD’S FRAUD

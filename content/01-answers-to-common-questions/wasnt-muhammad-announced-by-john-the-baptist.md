@@ -7,7 +7,7 @@ wordCount: 7922
 readTime: 40
 subcategory: Bible & Quran
 series: Muhammad Studies
-part: 'Wasn't Muhammad announced by John the Baptist?'
+part: 2
 ---
 
 **A Series of Answers to Common Questions**

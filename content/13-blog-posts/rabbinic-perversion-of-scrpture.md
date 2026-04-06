@@ -7,7 +7,7 @@ wordCount: 1377
 readTime: 7
 subcategory: General Topics
 series: Rabbinic Studies
-part: RABBINIC PERVERSION OF SCRPTURE
+part: 3
 ---
 
 # RABBINIC PERVERSION OF SCRPTURE

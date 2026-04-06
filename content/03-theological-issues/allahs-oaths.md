@@ -7,7 +7,7 @@ wordCount: 6034
 readTime: 30
 subcategory: Nature of Allah
 series: Allah Studies
-part: Allah’s Oaths
+part: 6
 ---
 
 ### Allah’s Oaths

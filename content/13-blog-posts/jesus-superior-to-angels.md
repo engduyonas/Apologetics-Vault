@@ -7,7 +7,7 @@ wordCount: 3881
 readTime: 19
 subcategory: Christology
 series: Jesus Studies
-part: JESUS SUPERIOR TO ANGELS
+part: 13
 ---
 
 # JESUS SUPERIOR TO ANGELS

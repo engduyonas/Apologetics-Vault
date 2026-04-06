@@ -7,7 +7,7 @@ wordCount: 1612
 readTime: 8
 subcategory: Christology
 series: Messiah Studies
-part: MESSIAH IN THE ARAMAIC PSALMS
+part: 4
 ---
 
 #  MESSIAH IN THE ARAMAIC PSALMS

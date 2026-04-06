@@ -7,7 +7,7 @@ wordCount: 7757
 readTime: 39
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: 'The Real Truth of John 1:1 : A Muslim Becomes a Bible Exposi'
+part: 8
 ---
 
 ### The Real Truth of John 1:1

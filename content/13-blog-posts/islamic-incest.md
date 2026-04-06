@@ -7,7 +7,7 @@ wordCount: 750
 readTime: 4
 subcategory: Muhammad & Islam
 series: Islamic Studies
-part: ISLAMIC INCEST
+part: 4
 ---
 
 # ISLAMIC INCEST

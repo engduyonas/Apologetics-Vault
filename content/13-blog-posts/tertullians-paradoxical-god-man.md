@@ -7,7 +7,7 @@ wordCount: 2875
 readTime: 14
 subcategory: Patristic Theology
 series: Tertullian Studies
-part: Tertullian’s Paradoxical God-Man
+part: 2
 ---
 
 # Tertullian’s Paradoxical God-Man

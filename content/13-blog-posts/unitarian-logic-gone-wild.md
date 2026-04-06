@@ -7,7 +7,7 @@ wordCount: 4411
 readTime: 22
 subcategory: Christology
 series: Unitarian Studies
-part: 'Unitarian Logic Gone Wild!'
+part: 4
 ---
 
 # Unitarian Logic Gone Wild!

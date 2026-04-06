@@ -7,7 +7,7 @@ wordCount: 2649
 readTime: 13
 subcategory: Church & Sacraments
 series: Mary Studies
-part: MARY AS QUEEN MOTHER
+part: 1
 ---
 
 # MARY AS QUEEN MOTHER

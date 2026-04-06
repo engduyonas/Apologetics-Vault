@@ -7,7 +7,7 @@ wordCount: 6531
 readTime: 33
 subcategory: Patristic Theology
 series: Jerome Studies
-part: St. Jerome on Illustrious Men
+part: 2
 ---
 
 # St. Jerome on Illustrious Men

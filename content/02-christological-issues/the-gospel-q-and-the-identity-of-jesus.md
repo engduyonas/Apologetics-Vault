@@ -7,7 +7,7 @@ wordCount: 5925
 readTime: 30
 subcategory: NT Christology
 series: Gospel Studies
-part: The Gospel Q and the Identity of Jesus
+part: 3
 ---
 
 ### The Hypothetical Gospel Q  

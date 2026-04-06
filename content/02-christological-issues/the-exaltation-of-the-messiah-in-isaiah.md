@@ -7,7 +7,7 @@ wordCount: 1848
 readTime: 9
 subcategory: Messianic Prophecies
 series: 'Isaiah & the Messiah'
-part: The Exaltation of the Messiah in Isaiah
+part: 2
 ---
 
 ### The Exaltation of the Messiah in Isaiah

@@ -7,7 +7,7 @@ wordCount: 6057
 readTime: 30
 subcategory: Character & Morality
 series: Muhammad Studies
-part: Muhammad and Idolatry
+part: 7
 ---
 
 ### Muhammad and Idolatry

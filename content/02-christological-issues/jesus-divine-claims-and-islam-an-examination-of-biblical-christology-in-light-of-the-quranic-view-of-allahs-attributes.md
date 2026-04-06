@@ -8,7 +8,7 @@ wordCount: 5507
 readTime: 28
 subcategory: Christ's Deity & Identity
 series: Examination Studies
-part: 'Jesus' Divine Claims and Islam: An Examination of Biblical C'
+part: 1
 ---
 
 ## Jesus’ Divine Claims and Islam

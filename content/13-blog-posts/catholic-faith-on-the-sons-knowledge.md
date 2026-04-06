@@ -7,7 +7,7 @@ wordCount: 4622
 readTime: 23
 subcategory: Atonement & Salvation
 series: Faith Studies
-part: CATHOLIC FAITH ON THE SON’S KNOWLEDGE
+part: 1
 ---
 
 # CATHOLIC FAITH ON THE SON’S KNOWLEDGE

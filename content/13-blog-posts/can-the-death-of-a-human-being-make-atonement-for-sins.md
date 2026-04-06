@@ -7,7 +7,7 @@ wordCount: 1300
 readTime: 6
 subcategory: Atonement & Salvation
 series: Atonement Studies
-part: 'Can the death of a human being make atonement for sins?'
+part: 3
 ---
 
 # Can the death of a human being make atonement for sins?

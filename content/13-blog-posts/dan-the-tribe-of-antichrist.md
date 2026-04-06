@@ -7,7 +7,7 @@ wordCount: 3662
 readTime: 18
 subcategory: Christology
 series: Antichrist Studies
-part: 'Dan: The Tribe of Antichrist'
+part: 2
 ---
 
 # Dan: The Tribe of Antichrist

@@ -7,7 +7,7 @@ wordCount: 1527
 readTime: 8
 subcategory: Christology
 series: Christ Studies
-part: 'When Was Christ Crucified?'
+part: 9
 ---
 
 # When Was Christ Crucified?

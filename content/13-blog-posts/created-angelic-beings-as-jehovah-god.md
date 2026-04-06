@@ -7,7 +7,7 @@ wordCount: 5133
 readTime: 26
 subcategory: Christology
 series: Deity of Christ
-part: 'CREATED ANGELIC BEINGS AS JEHOVAH GOD?'
+part: 4
 ---
 
 # CREATED ANGELIC BEINGS AS JEHOVAH GOD?

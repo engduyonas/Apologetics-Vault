@@ -7,7 +7,7 @@ wordCount: 2211
 readTime: 11
 subcategory: Character & Morality
 series: Muhammad Studies
-part: Muhammad Cursed and Abused His Followers
+part: 6
 ---
 
 # Muhammad – The Cruel and Abusive “Prophet” 

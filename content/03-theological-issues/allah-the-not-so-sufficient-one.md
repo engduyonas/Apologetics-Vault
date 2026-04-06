@@ -7,7 +7,7 @@ wordCount: 6533
 readTime: 33
 subcategory: Nature of Allah
 series: Allah Studies
-part: Allah - The Not So Sufficient One
+part: 3
 ---
 
 # Allah – the not so sufficient one

@@ -8,7 +8,7 @@ wordCount: 2554
 readTime: 13
 subcategory: Nature of Allah
 series: 'Allah & Deception'
-part: 'Allah as a Deceiver: Examining Satan’s Accusations Against t'
+part: 1
 ---
 
 ### Allah as a Deceiver

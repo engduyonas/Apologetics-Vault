@@ -7,7 +7,7 @@ wordCount: 5661
 readTime: 28
 subcategory: Muhammad & Islam
 series: Mormon Studies
-part: 'THE MORMON SATAN & PREMORTALITY'
+part: 3
 ---
 
 # THE MORMON SATAN & PREMORTALITY

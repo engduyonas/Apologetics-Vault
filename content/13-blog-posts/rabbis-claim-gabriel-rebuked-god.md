@@ -7,7 +7,7 @@ wordCount: 710
 readTime: 4
 subcategory: General Topics
 series: Rabbis Studies
-part: 'RABBIS CLAIM: GABRIEL REBUKED GOD!'
+part: 1
 ---
 
 # RABBIS CLAIM: GABRIEL REBUKED GOD!

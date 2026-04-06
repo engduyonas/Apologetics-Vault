@@ -7,7 +7,7 @@ wordCount: 193
 readTime: 1
 subcategory: Translations
 series: Islam Studies
-part: 'Answering Islam Deutschland: Startseite'
+part: 5
 ---
 
 Seid aber jederzeit bereit zur Verantwortung jedem gegenüber,  

@@ -7,7 +7,7 @@ wordCount: 5083
 readTime: 25
 subcategory: Christology
 series: Jesus Studies
-part: 'Abraham’s Seed that Blesses the World: Jesus Christ!'
+part: 2
 ---
 
 # Abraham’s Seed that Blesses the World: Jesus Christ!

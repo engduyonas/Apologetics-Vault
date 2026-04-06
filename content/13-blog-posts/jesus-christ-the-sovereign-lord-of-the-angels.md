@@ -7,7 +7,7 @@ wordCount: 5221
 readTime: 26
 subcategory: Christology
 series: Jesus Studies
-part: 'Jesus Christ: The Sovereign Lord of the Angels'
+part: 23
 ---
 
 # Jesus Christ: The Sovereign Lord of the Angels

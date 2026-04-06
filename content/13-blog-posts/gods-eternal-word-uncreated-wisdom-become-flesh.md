@@ -7,7 +7,7 @@ wordCount: 4550
 readTime: 23
 subcategory: General Topics
 series: Word Studies
-part: 'GOD’S ETERNAL WORD & UNCREATED WISDOM BECOME FLESH!'
+part: 1
 ---
 
 # GOD’S ETERNAL WORD & UNCREATED WISDOM BECOME FLESH!

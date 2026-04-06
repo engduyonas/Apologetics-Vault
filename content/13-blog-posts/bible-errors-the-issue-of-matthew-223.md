@@ -7,7 +7,7 @@ wordCount: 1661
 readTime: 8
 subcategory: Biblical Studies
 series: Bible Studies
-part: 'BIBLE ERRORS: THE ISSUE OF MATTHEW 2:23'
+part: 1
 ---
 
 # BIBLE ERRORS: THE ISSUE OF MATTHEW 2:23

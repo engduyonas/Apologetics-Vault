@@ -7,7 +7,7 @@ wordCount: 2233
 readTime: 11
 subcategory: Theology of the Quran
 series: Quran Studies
-part: Tauhid versus I’jaz al-Quran
+part: 5
 ---
 
 # Tauhid versus I’jaz al-Quran –

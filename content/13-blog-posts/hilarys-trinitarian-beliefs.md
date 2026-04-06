@@ -7,7 +7,7 @@ wordCount: 4309
 readTime: 22
 subcategory: Patristic Theology
 series: Trinitarian Studies
-part: HILARY’S TRINITARIAN BELIEFS
+part: 2
 ---
 
 # HILARY’S TRINITARIAN BELIEFS

@@ -7,7 +7,7 @@ wordCount: 3453
 readTime: 17
 subcategory: Christology
 series: Deity of Christ
-part: 'Christ: Israel’s Divine Lord Incarnate'
+part: 7
 ---
 
 # Christ: Israel’s Divine Lord Incarnate

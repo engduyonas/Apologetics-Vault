@@ -7,7 +7,7 @@ wordCount: 4282
 readTime: 21
 subcategory: Patristic Theology
 series: Origen Studies
-part: Eusebius on Origen
+part: 3
 ---
 
 # Eusebius on Origen 

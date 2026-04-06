@@ -7,7 +7,7 @@ wordCount: 6877
 readTime: 34
 subcategory: General Topics
 series: Bible Studies
-part: 'Q. 2:75-79 & BIBLE CORRUPTION'
+part: 3
 ---
 
 # Q. 2:75-79 & BIBLE CORRUPTION

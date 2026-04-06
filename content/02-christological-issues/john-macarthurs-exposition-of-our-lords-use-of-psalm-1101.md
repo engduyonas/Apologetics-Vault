@@ -7,7 +7,7 @@ wordCount: 2021
 readTime: 10
 subcategory: Messianic Prophecies
 series: Psalmic Prophecies
-part: 'John MacArthur’s Exposition of our Lord’s Use of Psalm 110:1'
+part: 2
 ---
 
 #  John MacArthur’s Exposition of our Lord’s Use of Psalm 110:1 

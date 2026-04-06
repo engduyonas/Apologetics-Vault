@@ -7,7 +7,7 @@ wordCount: 1710
 readTime: 9
 subcategory: Biblical Studies
 series: Acts Studies
-part: 'ACTS 8:37 & BAPTISMAL CONFESSION'
+part: 1
 ---
 
 # ACTS 8:37 & BAPTISMAL CONFESSION

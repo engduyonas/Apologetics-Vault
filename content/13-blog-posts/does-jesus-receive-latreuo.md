@@ -7,7 +7,7 @@ wordCount: 3072
 readTime: 15
 subcategory: Christology
 series: Jesus Studies
-part: 'Does Jesus Receive Latreuo?'
+part: 4
 ---
 
 # Does Jesus Receive Latreuo?

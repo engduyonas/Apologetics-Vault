@@ -7,7 +7,7 @@ wordCount: 3739
 readTime: 19
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: Some Unusual Proofs for the Trinity
+part: 2
 ---
 
 # Some Unusual Proofs for the Trinity

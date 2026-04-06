@@ -7,7 +7,7 @@ wordCount: 3997
 readTime: 20
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'RAMBAM ON MUHAMMAD & THE ARABS'
+part: 21
 ---
 
 # RAMBAM ON MUHAMMAD & THE ARABS

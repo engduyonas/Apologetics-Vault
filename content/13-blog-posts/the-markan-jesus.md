@@ -7,7 +7,7 @@ wordCount: 2328
 readTime: 12
 subcategory: Christology
 series: Jesus Studies
-part: The Markan Jesus
+part: 34
 ---
 
 # The Markan Jesus

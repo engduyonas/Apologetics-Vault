@@ -7,7 +7,7 @@ wordCount: 3061
 readTime: 15
 subcategory: Trinity & Godhead
 series: Patristic Views
-part: ALLAH’S DIVINE COUNCIL
+part: 1
 ---
 
 # ALLAH’S DIVINE COUNCIL

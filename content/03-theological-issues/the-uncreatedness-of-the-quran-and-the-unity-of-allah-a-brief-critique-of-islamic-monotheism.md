@@ -8,7 +8,7 @@ wordCount: 2565
 readTime: 13
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'The Uncreatedness of the Quran and the Unity of Allah: A Bri'
+part: 18
 ---
 
 ### The Uncreatedness of the Quran and the Unity of Allah: A Brief Critique of Islamic Monotheism

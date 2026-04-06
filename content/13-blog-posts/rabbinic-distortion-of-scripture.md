@@ -7,7 +7,7 @@ wordCount: 2196
 readTime: 11
 subcategory: General Topics
 series: Rabbinic Studies
-part: RABBINIC DISTORTION OF SCRIPTURE
+part: 2
 ---
 
 # RABBINIC DISTORTION OF SCRIPTURE

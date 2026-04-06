@@ -7,7 +7,7 @@ wordCount: 5126
 readTime: 26
 subcategory: Atonement & Salvation
 series: Baptism Studies
-part: 'The Fruits of Sola Scriptura: Water Baptism'
+part: 2
 ---
 
 # The Fruits of Sola Scriptura: Water Baptism

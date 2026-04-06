@@ -7,7 +7,7 @@ wordCount: 4104
 readTime: 21
 subcategory: Christology
 series: Jesus Studies
-part: 'LET EVERY THING THAT HAS BREATH PRAISE JAH JESUS!'
+part: 28
 ---
 
 # LET EVERY THING THAT HAS BREATH PRAISE JAH JESUS!

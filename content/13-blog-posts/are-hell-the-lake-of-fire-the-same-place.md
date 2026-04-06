@@ -7,7 +7,7 @@ wordCount: 2157
 readTime: 11
 subcategory: General Topics
 series: Same Studies
-part: 'Are Hell & the Lake of Fire the Same Place?'
+part: 1
 ---
 
 # Are Hell & the Lake of Fire the Same Place?

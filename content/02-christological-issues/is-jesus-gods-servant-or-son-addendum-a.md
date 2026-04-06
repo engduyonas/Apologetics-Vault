@@ -4,7 +4,7 @@ slug: is-jesus-gods-servant-or-son-addendum-a
 category: christological-issues
 source: https://answeringislam.info/authors/shamoun/pais_add_a.html
 series: Is Jesus God’s Servant or Son?
-part: A
+part: 14
 wordCount: 2024
 readTime: 10
 subcategory: Christ's Deity & Identity

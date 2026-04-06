@@ -7,7 +7,7 @@ wordCount: 10472
 readTime: 52
 subcategory: NT Christology
 series: Gospel Studies
-part: The Christology of Luke
+part: 2
 ---
 
 # The Christology of Luke-Acts

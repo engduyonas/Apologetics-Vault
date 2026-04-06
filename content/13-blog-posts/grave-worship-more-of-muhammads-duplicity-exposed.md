@@ -7,7 +7,7 @@ wordCount: 3540
 readTime: 18
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Grave Worship: More of Muhammad’s Duplicity Exposed'
+part: 4
 ---
 
 # Grave Worship: More of Muhammad’s Duplicity Exposed

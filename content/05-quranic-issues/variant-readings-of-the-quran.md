@@ -7,7 +7,7 @@ wordCount: 10042
 readTime: 50
 subcategory: Textual History
 series: Quran Studies
-part: Variant Readings of the Quran
+part: 6
 ---
 
 ### Variant Readings of the Quran

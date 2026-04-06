@@ -7,7 +7,7 @@ wordCount: 7941
 readTime: 40
 subcategory: Church & Sacraments
 series: Mary Studies
-part: 'PROTESTANT SCHOLARSHIP ON LUKE 1:26-56 & MARY AS GOD’S ARK'
+part: 5
 ---
 
 # PROTESTANT SCHOLARSHIP ON LUKE 1:26-56 & MARY AS GOD’S ARK

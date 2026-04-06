@@ -7,7 +7,7 @@ wordCount: 2450
 readTime: 12
 subcategory: Christology
 series: Christ Studies
-part: 'Christ: The Physical Seed of David'
+part: 6
 ---
 
 # Christ: The Physical Seed of David

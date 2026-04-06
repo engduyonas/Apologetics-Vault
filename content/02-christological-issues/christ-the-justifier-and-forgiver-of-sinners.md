@@ -7,7 +7,7 @@ wordCount: 1435
 readTime: 7
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: 'Christ, the Justifier and Forgiver of Sinners'
+part: 5
 ---
 
 ### Christ, the Justifier and Forgiver of Sinners

@@ -7,7 +7,7 @@ wordCount: 3925
 readTime: 20
 subcategory: Christology
 series: Messiah Studies
-part: 'RAMBAM & MESSIAH’S ADVENT'
+part: 8
 ---
 
 # RAMBAM & MESSIAH’S ADVENT

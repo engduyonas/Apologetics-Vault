@@ -7,7 +7,7 @@ wordCount: 3282
 readTime: 16
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'Does the Quran Teach a Local Flood?'
+part: 1
 ---
 
 ### DOES THE QURAN TEACH A LOCAL FLOOD?

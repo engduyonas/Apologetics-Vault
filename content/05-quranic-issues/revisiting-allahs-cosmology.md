@@ -7,7 +7,7 @@ wordCount: 1618
 readTime: 8
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: Revisiting Allah’s Cosmology
+part: 7
 ---
 
 # Revisiting Allah’s Cosmology

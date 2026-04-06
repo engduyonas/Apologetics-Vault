@@ -7,7 +7,7 @@ wordCount: 3300
 readTime: 16
 subcategory: Christology
 series: Yhwh Studies
-part: YHWH MAKES THE MOST HIGH HIS REFUGE
+part: 5
 ---
 
 # YHWH MAKES THE MOST HIGH HIS REFUGE

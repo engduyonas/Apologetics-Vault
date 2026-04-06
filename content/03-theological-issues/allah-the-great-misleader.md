@@ -7,7 +7,7 @@ wordCount: 7406
 readTime: 37
 subcategory: Nature of Allah
 series: Allah Studies
-part: Allah - The Great Misleader
+part: 2
 ---
 
 # Allah – The Great Misleader

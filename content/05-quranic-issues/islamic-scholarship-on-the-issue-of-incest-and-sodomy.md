@@ -7,7 +7,7 @@ wordCount: 3586
 readTime: 18
 subcategory: Contradictions & Errors
 series: Islamic Studies
-part: Islamic Scholarship on the Issue of Incest and Sodomy
+part: 2
 ---
 
 ### Islamic Scholarship on the Issue of Incest and Sodomy

@@ -7,7 +7,7 @@ wordCount: 6380
 readTime: 32
 subcategory: Muhammad's Wives & Marriages
 series: Zainab
-part: 'Zaid, Zaynab and Muhammad'
+part: 2
 ---
 
 ### Zaid, Zaynab and Muhammad

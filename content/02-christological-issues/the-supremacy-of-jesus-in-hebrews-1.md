@@ -7,7 +7,7 @@ wordCount: 3019
 readTime: 15
 subcategory: Christ's Deity & Identity
 series: Hebrews Christology
-part: The Supremacy of Jesus in Hebrews 1
+part: 1
 ---
 
 ### The Supremacy of Jesus

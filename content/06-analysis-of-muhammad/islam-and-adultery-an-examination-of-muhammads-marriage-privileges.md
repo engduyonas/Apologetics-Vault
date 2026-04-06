@@ -7,7 +7,7 @@ wordCount: 1660
 readTime: 8
 subcategory: Muhammad's Wives & Marriages
 series: Multiple Wives
-part: 'Islam and Adultery: An Examination of Muhammad’s Marriage Pr'
+part: 1
 ---
 
 ### Islam and Adultery

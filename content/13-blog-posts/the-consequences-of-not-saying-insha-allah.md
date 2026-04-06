@@ -7,7 +7,7 @@ wordCount: 2087
 readTime: 10
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'The Consequences of Not Saying Insha Allah!'
+part: 20
 ---
 
 # The Consequences of Not Saying Insha Allah!

@@ -7,7 +7,7 @@ wordCount: 2258
 readTime: 11
 subcategory: Patristic Theology
 series: Deity Studies
-part: 'Ignatius’s Proclamation of Christ's Essential Deity'
+part: 2
 ---
 
 # Ignatius’s Proclamation of Christ's Essential Deity

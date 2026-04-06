@@ -7,7 +7,7 @@ wordCount: 3412
 readTime: 17
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'MUHAMMAD SAID MUSLIM WOMEN ARE STUPID, CROOKED PRISONERS!'
+part: 9
 ---
 
 # MUHAMMAD SAID MUSLIM WOMEN ARE STUPID, CROOKED PRISONERS!

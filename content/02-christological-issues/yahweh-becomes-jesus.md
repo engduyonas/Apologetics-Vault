@@ -7,7 +7,7 @@ wordCount: 6033
 readTime: 30
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: Yahweh Becomes Jesus
+part: 8
 ---
 
 # Yeshua (Jesus) – the Name above all names! 

@@ -7,7 +7,7 @@ wordCount: 1030
 readTime: 5
 subcategory: Theology of the Quran
 series: Quran Studies
-part: Quran on Moses as the Most High
+part: 4
 ---
 
 # Moses Most High

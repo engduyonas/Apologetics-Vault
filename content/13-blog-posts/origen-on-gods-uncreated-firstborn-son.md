@@ -7,7 +7,7 @@ wordCount: 1106
 readTime: 6
 subcategory: Patristic Theology
 series: Origen Studies
-part: Origen on God’s Uncreated Firstborn Son
+part: 5
 ---
 
 # Origen on God’s Uncreated Firstborn Son

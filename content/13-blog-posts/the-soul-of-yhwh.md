@@ -7,7 +7,7 @@ wordCount: 282
 readTime: 1
 subcategory: Christology
 series: Yhwh Studies
-part: The Soul of YHWH
+part: 4
 ---
 
 # The Soul of YHWH

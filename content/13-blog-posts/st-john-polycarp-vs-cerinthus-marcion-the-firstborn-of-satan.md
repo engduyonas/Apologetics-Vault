@@ -7,7 +7,7 @@ wordCount: 1363
 readTime: 7
 subcategory: Patristic Theology
 series: Polycarp Studies
-part: 'St. John & Polycarp vs. Cerinthus & Marcion the firstborn of'
+part: 2
 ---
 
 # St. John & Polycarp vs. Cerinthus & Marcion the firstborn of Satan

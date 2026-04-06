@@ -7,7 +7,7 @@ wordCount: 2458
 readTime: 12
 subcategory: Church & Sacraments
 series: Mary Studies
-part: WHITE’S WAR ON MARY FULL OF GRACE
+part: 7
 ---
 
 # WHITE’S WAR ON MARY FULL OF GRACE

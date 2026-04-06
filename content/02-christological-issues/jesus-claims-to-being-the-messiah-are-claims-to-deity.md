@@ -7,7 +7,7 @@ wordCount: 6952
 readTime: 35
 subcategory: Messianic Prophecies
 series: Messiah Studies
-part: 'Jesus' Claims to being the Messiah are claims to Deity'
+part: 1
 ---
 
 # The Divine Messiah Has Come!

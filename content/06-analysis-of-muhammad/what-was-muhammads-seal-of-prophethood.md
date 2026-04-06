@@ -7,7 +7,7 @@ wordCount: 1537
 readTime: 8
 subcategory: False Prophecies
 series: Prophethood Studies
-part: 'What was Muhammad's Seal of Prophethood?'
+part: 2
 ---
 
 ### Muhammad and the Seal of Prophethood

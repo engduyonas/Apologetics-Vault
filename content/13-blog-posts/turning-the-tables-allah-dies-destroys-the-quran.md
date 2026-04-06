@@ -7,7 +7,7 @@ wordCount: 1397
 readTime: 7
 subcategory: Rebuttals & Debates
 series: Turning Studies
-part: 'Turning the Tables: Allah Dies & Destroys the Quran?'
+part: 2
 ---
 
 # Turning the Tables: Allah Dies & Destroys the Quran?

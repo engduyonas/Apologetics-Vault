@@ -7,7 +7,7 @@ wordCount: 1504
 readTime: 8
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'Tatian, Irenaeus, Clement on the Trinity'
+part: 11
 ---
 
 # Tatian, Irenaeus, Clement on the Trinity

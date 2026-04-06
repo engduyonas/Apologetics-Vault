@@ -7,7 +7,7 @@ wordCount: 1532
 readTime: 8
 subcategory: Church & Sacraments
 series: Christ Studies
-part: 'Christ as Begotten & Divine Hierarchy'
+part: 2
 ---
 
 # Christ as Begotten & Divine Hierarchy

@@ -7,7 +7,7 @@ wordCount: 4305
 readTime: 22
 subcategory: Christology
 series: Deity of Christ
-part: Biblical Witness to the Deity of the Holy Spirit
+part: 2
 ---
 
 # Biblical Witness to the Deity of the Holy Spirit

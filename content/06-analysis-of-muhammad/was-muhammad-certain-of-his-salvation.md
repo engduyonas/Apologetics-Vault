@@ -7,7 +7,7 @@ wordCount: 9770
 readTime: 49
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: 'Was Muhammad certain of his Salvation?'
+part: 8
 ---
 
 # Was Muhammad certain of his Salvation?

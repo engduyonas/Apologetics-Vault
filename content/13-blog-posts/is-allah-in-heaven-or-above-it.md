@@ -7,7 +7,7 @@ wordCount: 1713
 readTime: 9
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'IS ALLAH IN HEAVEN OR ABOVE IT?'
+part: 17
 ---
 
 # IS ALLAH IN HEAVEN OR ABOVE IT?

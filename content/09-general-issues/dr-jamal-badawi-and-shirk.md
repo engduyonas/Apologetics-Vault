@@ -7,7 +7,7 @@ wordCount: 4880
 readTime: 24
 subcategory: Rebuttals & Debates
 series: Badawi Studies
-part: Dr. Jamal Badawi and Shirk
+part: 2
 ---
 
 ****

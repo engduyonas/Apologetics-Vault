@@ -7,7 +7,7 @@ wordCount: 5529
 readTime: 28
 subcategory: Quranic Analysis
 series: Quran Studies
-part: The Third Caliph’s Abuse of the Quran’s Greatest Compiler
+part: 18
 ---
 
 # The Third Caliph’s Abuse of the Quran’s Greatest Compiler

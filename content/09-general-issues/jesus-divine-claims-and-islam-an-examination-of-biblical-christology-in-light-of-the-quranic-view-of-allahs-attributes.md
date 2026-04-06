@@ -8,7 +8,7 @@ wordCount: 3484
 readTime: 17
 subcategory: Quran & Bible
 series: Islam Studies
-part: 'Jesus' Divine Claims and Islam: An Examination of Biblical C'
+part: 2
 ---
 
 ### The Holy Bible on the Age of Marriage

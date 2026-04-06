@@ -7,7 +7,7 @@ wordCount: 4690
 readTime: 23
 subcategory: Atonement & Salvation
 series: Baptism Studies
-part: 'THE RELATION OF BELIEF & BAPTISM'
+part: 1
 ---
 
 # THE RELATION OF BELIEF & BAPTISM

@@ -7,7 +7,7 @@ wordCount: 3160
 readTime: 16
 subcategory: Character & Morality
 series: Muhammad Studies
-part: Another Clear Example of Muhammad’s Inconsistency
+part: 1
 ---
 
 # Another Case of Muhammad’s Inconsistency –

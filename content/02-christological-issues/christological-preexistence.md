@@ -7,7 +7,7 @@ wordCount: 8675
 readTime: 43
 subcategory: Son of Man & Preexistence
 series: Preexistence
-part: Christological Preexistence
+part: 1
 ---
 
 ### Christological Preexistence

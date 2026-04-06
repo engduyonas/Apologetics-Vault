@@ -7,7 +7,7 @@ wordCount: 8973
 readTime: 45
 subcategory: Muhammad's Wives & Marriages
 series: Multiple Wives
-part: Muhammad and the treatment of wives
+part: 3
 ---
 
 ### Muhammad and the treatment of wives

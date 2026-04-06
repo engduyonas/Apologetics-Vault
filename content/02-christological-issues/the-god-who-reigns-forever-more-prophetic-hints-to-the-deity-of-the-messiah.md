@@ -7,7 +7,7 @@ wordCount: 7699
 readTime: 38
 subcategory: Messianic Prophecies
 series: Messiah Studies
-part: 'The God who reigns forever: More prophetic hints to the Deit'
+part: 2
 ---
 
 # The God who reigns forever

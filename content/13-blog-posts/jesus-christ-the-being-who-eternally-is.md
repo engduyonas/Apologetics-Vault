@@ -7,7 +7,7 @@ wordCount: 3913
 readTime: 20
 subcategory: Christology
 series: Jesus Studies
-part: 'Jesus Christ: The Being Who Eternally Is'
+part: 21
 ---
 
 # Jesus Christ: The Being Who Eternally Is

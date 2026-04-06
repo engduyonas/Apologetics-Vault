@@ -7,7 +7,7 @@ wordCount: 2120
 readTime: 11
 subcategory: General Topics
 series: Father Studies
-part: 'Mary’s Father: Eli or Joakim?'
+part: 5
 ---
 
 # Mary’s Father: Eli or Joakim?

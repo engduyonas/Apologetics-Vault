@@ -7,7 +7,7 @@ wordCount: 3197
 readTime: 16
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'The Days of Creation in the Quran: Literal or Indefinite Per'
+part: 6
 ---
 
 **THE DAYS OF CREATION IN THE QURAN:**

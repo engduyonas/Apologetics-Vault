@@ -7,7 +7,7 @@ wordCount: 2212
 readTime: 11
 subcategory: Christology
 series: Deity of Christ
-part: 'CHRIST: GOD’S CREATED WISDOM?'
+part: 3
 ---
 
 # CHRIST: GOD’S CREATED WISDOM?

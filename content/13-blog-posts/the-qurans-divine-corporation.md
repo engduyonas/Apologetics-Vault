@@ -7,7 +7,7 @@ wordCount: 3587
 readTime: 18
 subcategory: Quranic Analysis
 series: Quran Studies
-part: The Quran’s Divine Corporation
+part: 17
 ---
 
 # The Quran’s Divine Corporation

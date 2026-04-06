@@ -7,7 +7,7 @@ wordCount: 2971
 readTime: 15
 subcategory: Christology
 series: Messianic Studies
-part: 'Messianic Prophecy and the Quran: Another Muhammadan Dilemma'
+part: 1
 ---
 
 # Messianic Prophecy and the Quran: Another Muhammadan Dilemma

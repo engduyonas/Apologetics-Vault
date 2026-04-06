@@ -7,7 +7,7 @@ wordCount: 22106
 readTime: 111
 subcategory: Apologetics & Defense
 series: Christian Studies
-part: A Christian Defense of the Gospel to the Muslims
+part: 1
 ---
 
 ### A Christian Defense of the Gospel to the Muslims

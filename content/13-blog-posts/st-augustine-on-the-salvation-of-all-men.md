@@ -7,7 +7,7 @@ wordCount: 2976
 readTime: 15
 subcategory: Patristic Theology
 series: Augustine Studies
-part: St. Augustine on the Salvation of all Men
+part: 2
 ---
 
 # St. Augustine on the Salvation of all Men

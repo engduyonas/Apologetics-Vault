@@ -4,7 +4,7 @@ slug: refuting-adnan-rashid-pt-2b
 category: blog-posts
 source: https://www.samshmnthelogy.net/post/refuting-adnan-rashid-pt-2b
 series: REFUTING ADNAN RASHID
-part: 2B
+part: 5
 wordCount: 2257
 readTime: 11
 subcategory: Rebuttals & Debates

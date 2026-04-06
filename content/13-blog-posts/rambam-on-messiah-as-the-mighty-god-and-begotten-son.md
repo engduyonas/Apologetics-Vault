@@ -7,7 +7,7 @@ wordCount: 431
 readTime: 2
 subcategory: Christology
 series: Deity of Christ
-part: 'RAMBAM ON MESSIAH AS THE MIGHTY GOD AND BEGOTTEN SON!'
+part: 17
 ---
 
 # RAMBAM ON MESSIAH AS THE MIGHTY GOD AND BEGOTTEN SON!

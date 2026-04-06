@@ -7,7 +7,7 @@ wordCount: 5765
 readTime: 29
 subcategory: General Topics
 series: Bible Studies
-part: OT Verses on Hell in the King James Bible
+part: 2
 ---
 
 # OT Verses on Hell in the King James Bible

@@ -7,7 +7,7 @@ wordCount: 6155
 readTime: 31
 subcategory: Quran & the Bible
 series: Corruption Studies
-part: A Christian Scholar Chimes In On The Islamic View Of Biblica
+part: 1
 ---
 
 # The Quran, the Holy Bible, and the Issue of Corruption –

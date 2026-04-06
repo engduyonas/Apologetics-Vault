@@ -7,7 +7,7 @@ wordCount: 786
 readTime: 4
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'St. Irenaeus, Scripture & the Church'
+part: 9
 ---
 
 # St. Irenaeus, Scripture & the Church

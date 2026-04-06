@@ -7,7 +7,7 @@ wordCount: 3885
 readTime: 19
 subcategory: Islamic Theology Critiqued
 series: Quran Studies
-part: 'The Unintelligibility and Incompleteness of the Quran : As-S'
+part: 3
 ---
 
 **Quran’s Incoherence and Unintelligibility**

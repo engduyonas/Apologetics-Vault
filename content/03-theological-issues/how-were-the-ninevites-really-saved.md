@@ -7,7 +7,7 @@ wordCount: 2883
 readTime: 14
 subcategory: Salvation & Eschatology
 series: Saved Studies
-part: 'How Were the Ninevites Really Saved?'
+part: 2
 ---
 
 # How Were the Ninevites Really Saved?

@@ -8,7 +8,7 @@ wordCount: 10205
 readTime: 51
 subcategory: Trinity & Monotheism
 series: Trinity Studies
-part: 'Responding to a Muslim Apologist's Critique of the Trinity, '
+part: 2
 ---
 
 # The Triune God – The Greatest Conceivable Being that Exists

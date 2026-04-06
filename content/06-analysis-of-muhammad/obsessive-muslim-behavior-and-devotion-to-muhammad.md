@@ -7,7 +7,7 @@ wordCount: 2358
 readTime: 12
 subcategory: Deification of Muhammad
 series: Muhammad Studies
-part: Obsessive Muslim Behavior and Devotion to Muhammad
+part: 4
 ---
 
 # OBSESSIVE MUSLIM BEHAVIOUR AND DEVOTION TO MUHAMMAD

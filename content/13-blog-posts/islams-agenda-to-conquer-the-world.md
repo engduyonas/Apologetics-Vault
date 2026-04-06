@@ -7,7 +7,7 @@ wordCount: 1686
 readTime: 8
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: Islam’s Agenda to Conquer the World
+part: 9
 ---
 
 # Islam’s Agenda to Conquer the World

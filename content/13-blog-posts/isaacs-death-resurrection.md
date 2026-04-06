@@ -7,7 +7,7 @@ wordCount: 1581
 readTime: 8
 subcategory: General Topics
 series: Death Studies
-part: 'Isaac's Death & Resurrection'
+part: 3
 ---
 
 # Isaac's Death & Resurrection

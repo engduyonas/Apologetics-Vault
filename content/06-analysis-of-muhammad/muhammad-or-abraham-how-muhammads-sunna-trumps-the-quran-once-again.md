@@ -7,7 +7,7 @@ wordCount: 1408
 readTime: 7
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: 'Muhammad or Abraham? — How Muhammad’s Sunna Trumps the Quran'
+part: 6
 ---
 
 # How Muhammad’s Sunna Trumps the Quran Once Again!

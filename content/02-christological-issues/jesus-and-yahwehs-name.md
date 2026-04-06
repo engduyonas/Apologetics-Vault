@@ -7,7 +7,7 @@ wordCount: 4442
 readTime: 22
 subcategory: Christ's Deity & Identity
 series: 'Names & Titles of Christ'
-part: 'Jesus and Yahweh's Name'
+part: 1
 ---
 
 # Yahweh is one, Yahweh alone

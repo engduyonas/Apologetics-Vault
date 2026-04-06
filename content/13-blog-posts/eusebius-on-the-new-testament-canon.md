@@ -7,7 +7,7 @@ wordCount: 2136
 readTime: 11
 subcategory: Patristic Theology
 series: Eusebius Studies
-part: Eusebius on the New Testament Canon
+part: 3
 ---
 
 # Eusebius on the New Testament Canon

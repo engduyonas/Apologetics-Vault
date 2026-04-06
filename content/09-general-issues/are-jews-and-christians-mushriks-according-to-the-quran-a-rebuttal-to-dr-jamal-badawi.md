@@ -8,7 +8,7 @@ wordCount: 8771
 readTime: 44
 subcategory: Quran & Bible
 series: Quran Studies
-part: 'Are Jews and Christians Mushriks according to the Quran? A r'
+part: 1
 ---
 
 ### Are Jews and Christians _Mushriks_ according to the Quran?

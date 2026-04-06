@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/jinn_dragons.htm
 wordCount: 4321
 readTime: 22
 series: Islam Studies
-part: Islam and the Magical World of Genies and Dragons
+part: 1
 ---
 
 ### Islam and the Magical World of Genies and Dragons

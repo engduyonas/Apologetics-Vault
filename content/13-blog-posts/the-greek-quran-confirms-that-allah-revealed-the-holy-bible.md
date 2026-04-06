@@ -7,7 +7,7 @@ wordCount: 4425
 readTime: 22
 subcategory: Quranic Analysis
 series: Quran Studies
-part: The Greek Quran Confirms That Allah Revealed the Holy Bible
+part: 12
 ---
 
 # The Greek Quran Confirms That Allah Revealed the Holy Bible

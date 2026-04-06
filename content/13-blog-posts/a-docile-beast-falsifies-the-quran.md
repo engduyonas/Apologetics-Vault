@@ -7,7 +7,7 @@ wordCount: 1156
 readTime: 6
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'A Docile Beast Falsifies the Quran!'
+part: 2
 ---
 
 # A Docile Beast Falsifies the Quran!

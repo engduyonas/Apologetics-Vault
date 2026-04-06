@@ -7,7 +7,7 @@ wordCount: 4499
 readTime: 22
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: TRINITY IN TARGUM NEOFITI
+part: 4
 ---
 
 # TRINITY IN TARGUM NEOFITI

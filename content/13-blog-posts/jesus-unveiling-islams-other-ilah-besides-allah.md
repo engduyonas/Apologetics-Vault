@@ -7,7 +7,7 @@ wordCount: 2353
 readTime: 12
 subcategory: Christology
 series: Jesus Studies
-part: 'JESUS: UNVEILING ISLAM’S OTHER ILAH BESIDES ALLAH'
+part: 15
 ---
 
 # JESUS: UNVEILING ISLAM’S OTHER ILAH BESIDES ALLAH

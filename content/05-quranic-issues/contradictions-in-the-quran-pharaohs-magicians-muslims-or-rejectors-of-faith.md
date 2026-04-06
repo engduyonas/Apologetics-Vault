@@ -8,7 +8,7 @@ wordCount: 3113
 readTime: 16
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Contradictions in the Qur''an: Pharaoh''s Magicians - Muslim'
+part: 5
 ---
 
 **Qur'an Contradiction:**

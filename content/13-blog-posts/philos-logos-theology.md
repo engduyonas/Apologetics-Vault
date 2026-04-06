@@ -7,7 +7,7 @@ wordCount: 1989
 readTime: 10
 subcategory: General Topics
 series: Theology Studies
-part: Philo’s Logos Theology
+part: 1
 ---
 
 # Philo’s Logos Theology

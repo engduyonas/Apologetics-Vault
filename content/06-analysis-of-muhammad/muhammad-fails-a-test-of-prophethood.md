@@ -7,7 +7,7 @@ wordCount: 2663
 readTime: 13
 subcategory: False Prophecies
 series: Prophethood Studies
-part: Muhammad Fails A Test Of Prophethood
+part: 1
 ---
 
 # Islamic Genetics

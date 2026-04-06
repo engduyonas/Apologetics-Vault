@@ -7,7 +7,7 @@ wordCount: 3510
 readTime: 18
 subcategory: General Topics
 series: Death Studies
-part: 'Enoch, Death, Afterlife & Hell'
+part: 2
 ---
 
 # Enoch, Death, Afterlife & Hell

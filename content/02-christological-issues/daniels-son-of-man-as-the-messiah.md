@@ -7,7 +7,7 @@ wordCount: 6102
 readTime: 31
 subcategory: Son of Man & Preexistence
 series: Son of Man
-part: 'Daniel's Son of Man as the Messiah'
+part: 1
 ---
 
 # The Son of Man as the Son of David

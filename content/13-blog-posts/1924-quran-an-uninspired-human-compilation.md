@@ -7,7 +7,7 @@ wordCount: 1533
 readTime: 8
 subcategory: Quranic Analysis
 series: Quran Studies
-part: '1924 QURAN: AN UNINSPIRED HUMAN COMPILATION'
+part: 1
 ---
 
 # 1924 QURAN: AN UNINSPIRED HUMAN COMPILATION

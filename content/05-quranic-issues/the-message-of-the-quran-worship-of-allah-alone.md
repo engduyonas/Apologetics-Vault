@@ -7,7 +7,7 @@ wordCount: 8190
 readTime: 41
 subcategory: Quran Stories & Figures
 series: Allah Studies
-part: 'The Message of the Qur''an: Worship of Allah Alone?'
+part: 2
 ---
 
 ### The Message of the Qur'an: Worship of Allah Alone?

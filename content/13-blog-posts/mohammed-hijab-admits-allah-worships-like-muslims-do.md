@@ -7,7 +7,7 @@ wordCount: 925
 readTime: 5
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: 'Mohammed Hijab Admits Allah Worships like Muslims do!'
+part: 1
 ---
 
 # Mohammed Hijab Admits Allah Worships like Muslims do!

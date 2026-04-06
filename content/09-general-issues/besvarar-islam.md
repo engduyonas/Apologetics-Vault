@@ -7,7 +7,7 @@ wordCount: 411
 readTime: 2
 subcategory: Translations
 series: Islam Studies
-part: Besvarar Islam
+part: 7
 ---
 
 Prenumerera på Besvarar Islams [Youtube-kanal](<http://www.youtube.com/besvararislam> "Opens external link in new window") där kommer vi att dela med oss intressanta klipp om Kristendomen och Islam. 

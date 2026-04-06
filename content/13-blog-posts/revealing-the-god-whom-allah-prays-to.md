@@ -7,7 +7,7 @@ wordCount: 2394
 readTime: 12
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'Revealing the God Whom Allah Prays To!'
+part: 18
 ---
 
 # Revealing the God Whom Allah Prays To!

@@ -318,14 +318,16 @@ def process_folder(folder_path):
         cluster_rules = TOPIC_CLUSTERS.get(subcat, [])
         still_unmatched = []
 
+        cluster_counters = defaultdict(int)
         for a in unmatched:
             title_lower = a["title"].lower()
             assigned = False
 
             for group_name, keywords in cluster_rules:
                 if any(kw in title_lower for kw in keywords):
+                    cluster_counters[group_name] += 1
                     a["fm"] = set_field(a["fm"], "series", group_name)
-                    a["fm"] = set_field(a["fm"], "part", a["title"][:60])
+                    a["fm"] = set_field(a["fm"], "part", str(cluster_counters[group_name]))
                     write_frontmatter(a["path"], a["fm"], a["body"])
                     updated += 1
                     assigned = True
@@ -361,9 +363,9 @@ def process_folder(folder_path):
                         grouped.add(id(a))
 
             for group_name, cluster_articles in clusters:
-                for a in cluster_articles:
+                for i, a in enumerate(cluster_articles, 1):
                     a["fm"] = set_field(a["fm"], "series", group_name)
-                    a["fm"] = set_field(a["fm"], "part", a["title"][:60])
+                    a["fm"] = set_field(a["fm"], "part", str(i))
                     write_frontmatter(a["path"], a["fm"], a["body"])
                     updated += 1
 

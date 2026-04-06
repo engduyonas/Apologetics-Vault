@@ -7,7 +7,7 @@ wordCount: 2430
 readTime: 12
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: TATIAN ON THE HOLY TRINITY
+part: 3
 ---
 
 # TATIAN ON THE HOLY TRINITY

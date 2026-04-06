@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/nursing_of_adults.htm
 wordCount: 1600
 readTime: 8
 series: Islam Studies
-part: Islam and The Nursing of Adults
+part: 3
 ---
 
 ### Islam and The Nursing of Adults

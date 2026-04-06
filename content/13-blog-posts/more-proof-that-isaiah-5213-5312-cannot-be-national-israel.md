@@ -7,7 +7,7 @@ wordCount: 1786
 readTime: 9
 subcategory: Biblical Studies
 series: Old Testament
-part: 'More Proof that Isaiah 52:13-53:12 Cannot Be National Israel'
+part: 1
 ---
 
 # More Proof that Isaiah 52:13-53:12 Cannot Be National Israel

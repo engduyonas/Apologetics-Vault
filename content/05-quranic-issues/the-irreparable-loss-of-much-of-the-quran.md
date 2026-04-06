@@ -7,7 +7,7 @@ wordCount: 4375
 readTime: 22
 subcategory: Textual History
 series: Quran Studies
-part: The Irreparable Loss of Much of the Quran
+part: 5
 ---
 
 # Much of the Quran has disappeared and the Muslims can’t do anything about it!

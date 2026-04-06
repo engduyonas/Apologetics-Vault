@@ -7,7 +7,7 @@ wordCount: 1564
 readTime: 8
 subcategory: Patristic Theology
 series: Trinitarian Studies
-part: Gregory of Nazianzus on Trinitarian Monarchy
+part: 1
 ---
 
 # Gregory of Nazianzus on Trinitarian Monarchy

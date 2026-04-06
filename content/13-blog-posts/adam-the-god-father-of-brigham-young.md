@@ -7,7 +7,7 @@ wordCount: 3373
 readTime: 17
 subcategory: General Topics
 series: Father Studies
-part: 'Adam: The God & Father of Brigham Young'
+part: 2
 ---
 
 # Adam: The God & Father of Brigham Young

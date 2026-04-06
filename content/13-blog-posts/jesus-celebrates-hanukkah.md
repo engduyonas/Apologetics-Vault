@@ -7,7 +7,7 @@ wordCount: 2563
 readTime: 13
 subcategory: Christology
 series: Jesus Studies
-part: JESUS CELEBRATES HANUKKAH
+part: 9
 ---
 
 # JESUS CELEBRATES HANUKKAH

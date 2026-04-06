@@ -7,7 +7,7 @@ wordCount: 2152
 readTime: 11
 subcategory: Atonement & Salvation
 series: Faith Studies
-part: TRUE FAITH IS FAITHFUL OBEDIENCE
+part: 2
 ---
 
 # TRUE FAITH IS FAITHFUL OBEDIENCE

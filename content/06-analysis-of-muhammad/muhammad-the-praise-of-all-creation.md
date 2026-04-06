@@ -7,7 +7,7 @@ wordCount: 1834
 readTime: 9
 subcategory: Deification of Muhammad
 series: 'Muhammad's Exaltation'
-part: 'Muhammad – The Praise of all Creation!?'
+part: 1
 ---
 
 # Muhammad – The Praise of all Creation!?

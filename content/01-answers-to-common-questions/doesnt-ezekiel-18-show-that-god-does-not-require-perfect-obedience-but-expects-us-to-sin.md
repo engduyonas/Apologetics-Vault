@@ -8,7 +8,7 @@ wordCount: 4736
 readTime: 24
 subcategory: Salvation & Atonement
 series: 'Doesn't Studies'
-part: 'Doesn't Ezekiel 18 show that God does not require perfect ob'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

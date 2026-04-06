@@ -7,7 +7,7 @@ wordCount: 9810
 readTime: 49
 subcategory: Patristic Theology
 series: Hermas Studies
-part: 'HERMAS: REFUTING THE HERETICS'
+part: 1
 ---
 
 # HERMAS: REFUTING THE HERETICS

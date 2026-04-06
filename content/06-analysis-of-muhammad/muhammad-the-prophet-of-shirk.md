@@ -7,7 +7,7 @@ wordCount: 3346
 readTime: 17
 subcategory: Deification of Muhammad
 series: Muhammad Studies
-part: Muhammad – The Prophet of Shirk
+part: 3
 ---
 
 ### Muhammad — The Prophet of Shirk

@@ -7,7 +7,7 @@ wordCount: 3670
 readTime: 18
 subcategory: Quranic Analysis
 series: Quran Studies
-part: THE QURAN’S SLANDER AGAINST THE PROPHETS
+part: 11
 ---
 
 # THE QURAN’S SLANDER AGAINST THE PROPHETS

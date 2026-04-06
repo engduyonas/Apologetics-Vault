@@ -8,7 +8,7 @@ wordCount: 2065
 readTime: 10
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'Why did Jesus curse the fig tree for not bearing fruit, alth'
+part: 7
 ---
 
 **A Series of Answers to Common Questions**

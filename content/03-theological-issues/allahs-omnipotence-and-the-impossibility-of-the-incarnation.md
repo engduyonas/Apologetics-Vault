@@ -7,7 +7,7 @@ wordCount: 4413
 readTime: 22
 subcategory: Nature of Allah
 series: Allah Studies
-part: Allah’s Omnipotence and the Impossibility of the Incarnation
+part: 7
 ---
 
 ### Allah’s Omnipotence and the Incarnation

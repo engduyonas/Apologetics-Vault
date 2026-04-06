@@ -7,7 +7,7 @@ wordCount: 9704
 readTime: 49
 subcategory: Deification of Muhammad
 series: Allah Studies
-part: 'Allah & Mo., Inc. – Islam’s Foundational Partnership'
+part: 1
 ---
 
 # Allah & Mo., Inc.

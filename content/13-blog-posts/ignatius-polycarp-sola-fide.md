@@ -7,7 +7,7 @@ wordCount: 2355
 readTime: 12
 subcategory: Patristic Theology
 series: Polycarp Studies
-part: 'IGNATIUS, POLYCARP & SOLA FIDE'
+part: 1
 ---
 
 # IGNATIUS, POLYCARP & SOLA FIDE

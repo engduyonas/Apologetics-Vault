@@ -7,7 +7,7 @@ wordCount: 4594
 readTime: 23
 subcategory: Atonement & Salvation
 series: Atonement Studies
-part: The Quran Confirms Vicarious Atonement
+part: 5
 ---
 
 # The Quran Confirms Vicarious Atonement

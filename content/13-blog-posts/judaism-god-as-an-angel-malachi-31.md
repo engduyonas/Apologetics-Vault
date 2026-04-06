@@ -7,7 +7,7 @@ wordCount: 1292
 readTime: 6
 subcategory: General Topics
 series: Judaism Studies
-part: 'Judaism, God as an Angel & Malachi 3:1'
+part: 3
 ---
 
 # Judaism, God as an Angel & Malachi 3:1

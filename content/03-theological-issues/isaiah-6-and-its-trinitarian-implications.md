@@ -7,7 +7,7 @@ wordCount: 5087
 readTime: 25
 subcategory: Trinity & Monotheism
 series: Trinitarian Studies
-part: Isaiah 6 and its Trinitarian Implications
+part: 2
 ---
 
 ### A Look at Isaiah 6 and its Trinitarian Implications

@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/sins_of_prophets.htm
 wordCount: 6277
 readTime: 31
 series: Islam Studies
-part: Islam and the Sins of the Prophets
+part: 4
 ---
 
 ### Islam and the Sins of the Prophets

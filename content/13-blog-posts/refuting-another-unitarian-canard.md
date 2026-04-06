@@ -7,7 +7,7 @@ wordCount: 1555
 readTime: 8
 subcategory: Christology
 series: Unitarian Studies
-part: Refuting Another Unitarian Canard
+part: 2
 ---
 
 # Refuting Another Unitarian Canard

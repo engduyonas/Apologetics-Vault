@@ -7,7 +7,7 @@ wordCount: 4995
 readTime: 25
 subcategory: Quran & Bible
 series: Quran Studies
-part: 'The Quran as Guardian of the Bible: Revisiting the Meaning o'
+part: 3
 ---
 
 ### The Quran as Guardian of the Bible

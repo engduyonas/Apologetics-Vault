@@ -7,7 +7,7 @@ wordCount: 4405
 readTime: 22
 subcategory: General Topics
 series: Mary Studies
-part: Mary’s Purity and Sinlessness in the Church Fathers
+part: 3
 ---
 
 # Mary’s Purity and Sinlessness in the Church Fathers

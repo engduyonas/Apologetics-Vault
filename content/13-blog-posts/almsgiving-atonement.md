@@ -7,7 +7,7 @@ wordCount: 1100
 readTime: 6
 subcategory: Atonement & Salvation
 series: Atonement Studies
-part: 'ALMSGIVING & ATONEMENT'
+part: 1
 ---
 
 # ALMSGIVING & ATONEMENT

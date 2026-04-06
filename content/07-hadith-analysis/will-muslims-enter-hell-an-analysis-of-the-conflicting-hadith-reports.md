@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/muslims_in_hell_ahadith.htm
 wordCount: 2031
 readTime: 10
 series: Hadith Studies
-part: 'Will Muslims Enter Hell? An Analysis of the Conflicting Hadi'
+part: 2
 ---
 
 ### Will Muslims Enter Hell?

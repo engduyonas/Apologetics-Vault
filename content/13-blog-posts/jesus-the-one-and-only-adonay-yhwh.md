@@ -7,7 +7,7 @@ wordCount: 1983
 readTime: 10
 subcategory: Christology
 series: Jesus Studies
-part: 'JESUS: THE ONE AND ONLY ADONAY YHWH'
+part: 14
 ---
 
 # JESUS: THE ONE AND ONLY ADONAY YHWH

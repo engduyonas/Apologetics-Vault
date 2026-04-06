@@ -7,7 +7,7 @@ wordCount: 1714
 readTime: 9
 subcategory: Rebuttals & Debates
 series: Turning Studies
-part: 'Turning the Tables Pt. 9: Allah Needs Carrying!'
+part: 1
 ---
 
 # Turning the Tables Pt. 9: Allah Needs Carrying!

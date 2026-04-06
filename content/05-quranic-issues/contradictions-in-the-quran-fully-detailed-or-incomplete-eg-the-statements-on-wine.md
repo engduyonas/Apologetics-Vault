@@ -8,7 +8,7 @@ wordCount: 1384
 readTime: 7
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Contradictions in the Qur''an: Fully Detailed Or Incomplete?'
+part: 4
 ---
 
 **Qur'an Contradiction:**

@@ -7,7 +7,7 @@ wordCount: 2031
 readTime: 10
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'A Puppy Trumps Allah, Jibril, & Muhammad!'
+part: 1
 ---
 
 # A Puppy Trumps Allah, Jibril, & Muhammad!

@@ -7,7 +7,7 @@ wordCount: 6564
 readTime: 33
 subcategory: Holy Spirit
 series: Personhood
-part: 'Ante-Nicene Fathers & theWorship of the Holy Spirit'
+part: 2
 ---
 
 # Ante-Nicene Fathers & theWorship of the Holy Spirit

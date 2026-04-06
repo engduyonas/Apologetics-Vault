@@ -7,7 +7,7 @@ wordCount: 2010
 readTime: 10
 subcategory: Nature of Allah
 series: 'Allah's Studies'
-part: 'Allah's Imperfection and Mutability'
+part: 1
 ---
 
 ### Allah's Imperfection and Mutability

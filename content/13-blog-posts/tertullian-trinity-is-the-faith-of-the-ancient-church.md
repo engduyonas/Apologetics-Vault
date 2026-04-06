@@ -7,7 +7,7 @@ wordCount: 2919
 readTime: 15
 subcategory: Patristic Theology
 series: Trinity Studies
-part: 'Tertullian: Trinity is the Faith of the Ancient Church'
+part: 3
 ---
 
 # Tertullian: Trinity is the Faith of the Ancient Church

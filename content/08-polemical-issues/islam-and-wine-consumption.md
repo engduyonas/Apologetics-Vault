@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/wine_consumption.htm
 wordCount: 5295
 readTime: 26
 series: Islam Studies
-part: Islam And Wine Consumption
+part: 2
 ---
 
 ### Islam And Wine Consumption

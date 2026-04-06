@@ -7,7 +7,7 @@ wordCount: 4048
 readTime: 20
 subcategory: General Topics
 series: Word Studies
-part: 'IS PROTOTOKOS INTRINSICALLY A SO-CALLED “PARTITIVE WORD”?'
+part: 2
 ---
 
 # IS PROTOTOKOS INTRINSICALLY A SO-CALLED “PARTITIVE WORD”?

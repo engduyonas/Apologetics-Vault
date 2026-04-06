@@ -7,7 +7,7 @@ wordCount: 1405
 readTime: 7
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Muhammad: Islam’s Human Idol'
+part: 18
 ---
 
 # Muhammad: Islam’s Human Idol

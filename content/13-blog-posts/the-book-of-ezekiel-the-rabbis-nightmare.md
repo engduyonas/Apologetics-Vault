@@ -7,7 +7,7 @@ wordCount: 3297
 readTime: 16
 subcategory: General Topics
 series: Rabbis Studies
-part: 'The Book of Ezekiel: The Rabbis’ Nightmare'
+part: 4
 ---
 
 # The Book of Ezekiel: The Rabbis’ Nightmare 

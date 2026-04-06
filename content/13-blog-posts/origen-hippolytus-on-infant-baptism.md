@@ -7,7 +7,7 @@ wordCount: 1650
 readTime: 8
 subcategory: Patristic Theology
 series: Origen Studies
-part: 'Origen, Hippolytus on Infant Baptism'
+part: 8
 ---
 
 # Origen, Hippolytus on Infant Baptism

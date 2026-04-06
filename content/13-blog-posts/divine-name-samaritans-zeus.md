@@ -7,7 +7,7 @@ wordCount: 6222
 readTime: 31
 subcategory: General Topics
 series: Divine Studies
-part: 'DIVINE NAME, SAMARITANS & ZEUS'
+part: 2
 ---
 
 # DIVINE NAME, SAMARITANS & ZEUS

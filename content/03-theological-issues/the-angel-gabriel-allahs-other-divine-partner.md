@@ -7,7 +7,7 @@ wordCount: 7911
 readTime: 40
 subcategory: Nature of Allah
 series: Allah Studies
-part: The Angel Gabriel – Allah’s Other Divine Partner
+part: 15
 ---
 
 # The Angel Gabriel – Allah’s Other Divine Partner

@@ -8,7 +8,7 @@ wordCount: 3579
 readTime: 18
 subcategory: Deity of Christ
 series: Only Studies
-part: 'God spoke through his Son only \"in these last days\", \nthu'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

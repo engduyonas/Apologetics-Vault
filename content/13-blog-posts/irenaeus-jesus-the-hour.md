@@ -7,7 +7,7 @@ wordCount: 7407
 readTime: 37
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'Irenaeus, Jesus & the Hour'
+part: 6
 ---
 
 # Irenaeus, Jesus & the Hour

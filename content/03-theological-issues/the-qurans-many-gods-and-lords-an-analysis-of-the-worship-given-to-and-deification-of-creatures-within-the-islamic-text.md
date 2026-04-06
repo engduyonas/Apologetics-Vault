@@ -8,7 +8,7 @@ wordCount: 9884
 readTime: 49
 subcategory: Islamic Theology Critiqued
 series: Quran Studies
-part: 'The Quran’s many Gods and Lords: An Analysis of the Worship '
+part: 2
 ---
 
 ### The Quran’s many Gods and Lords

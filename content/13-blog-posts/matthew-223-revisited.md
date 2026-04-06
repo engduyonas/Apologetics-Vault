@@ -7,7 +7,7 @@ wordCount: 2940
 readTime: 15
 subcategory: General Topics
 series: Revisited Studies
-part: 'Matthew 2:23 Revisited'
+part: 3
 ---
 
 # Matthew 2:23 Revisited

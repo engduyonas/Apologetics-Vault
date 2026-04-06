@@ -7,7 +7,7 @@ wordCount: 1298
 readTime: 6
 subcategory: Christology
 series: Humanity of Christ
-part: 'JESUS: WISDOM’S HUMAN EMBODIMENT & TABERNACLE'
+part: 2
 ---
 
 # JESUS: WISDOM’S HUMAN EMBODIMENT & TABERNACLE

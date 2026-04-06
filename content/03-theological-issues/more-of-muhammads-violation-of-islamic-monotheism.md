@@ -7,7 +7,7 @@ wordCount: 5895
 readTime: 29
 subcategory: Trinity & Monotheism
 series: Monotheism Studies
-part: 'More of Muhammad's Violation of Islamic Monotheism'
+part: 3
 ---
 
 # Revisiting the Issue of Islamic Monotheism

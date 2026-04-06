@@ -7,7 +7,7 @@ wordCount: 544
 readTime: 3
 subcategory: Christology
 series: Jesus Studies
-part: 'Jesus: The Balaam of the Talmud'
+part: 26
 ---
 
 # Jesus: The Balaam of the Talmud

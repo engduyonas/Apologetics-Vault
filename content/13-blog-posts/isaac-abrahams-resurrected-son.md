@@ -7,7 +7,7 @@ wordCount: 563
 readTime: 3
 subcategory: General Topics
 series: Abraham Studies
-part: 'Isaac: Abraham’s Resurrected Son'
+part: 1
 ---
 
 # Isaac: Abraham’s Resurrected Son

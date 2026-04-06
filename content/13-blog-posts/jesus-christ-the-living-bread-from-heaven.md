@@ -7,7 +7,7 @@ wordCount: 3629
 readTime: 18
 subcategory: Christology
 series: Jesus Studies
-part: 'Jesus Christ: The Living Bread From Heaven'
+part: 22
 ---
 
 # Jesus Christ: The Living Bread From Heaven

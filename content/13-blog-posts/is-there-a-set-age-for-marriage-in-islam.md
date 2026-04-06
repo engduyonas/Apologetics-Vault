@@ -7,7 +7,7 @@ wordCount: 629
 readTime: 3
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: 'Is there a set age for marriage in Islam?'
+part: 6
 ---
 
 # Is there a set age for marriage in Islam?

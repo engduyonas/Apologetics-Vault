@@ -7,7 +7,7 @@ wordCount: 1063
 readTime: 5
 subcategory: Patristic Theology
 series: Jerome Studies
-part: 'Jerome: A Saint After My Heart'
+part: 1
 ---
 
 # Jerome: A Saint After My Heart

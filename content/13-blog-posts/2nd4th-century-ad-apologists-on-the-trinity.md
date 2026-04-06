@@ -7,7 +7,7 @@ wordCount: 3451
 readTime: 17
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: 2nd–4th Century AD Apologists on the Trinity
+part: 1
 ---
 
 # 2nd–4th Century AD Apologists on the Trinity

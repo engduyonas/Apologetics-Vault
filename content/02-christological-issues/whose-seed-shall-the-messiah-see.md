@@ -7,7 +7,7 @@ wordCount: 6516
 readTime: 33
 subcategory: Messianic Prophecies
 series: Messiah Studies
-part: 'Whose Seed Shall the Messiah See?'
+part: 4
 ---
 
 # Whose Seed Shall the Messiah See?

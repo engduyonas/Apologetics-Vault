@@ -7,7 +7,7 @@ wordCount: 1260
 readTime: 6
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'AHAD: “ALLAH ONE OF”'
+part: 1
 ---
 
 # AHAD: “ALLAH ONE OF”

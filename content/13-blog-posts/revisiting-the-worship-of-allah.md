@@ -7,7 +7,7 @@ wordCount: 2022
 readTime: 10
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: Revisiting the Worship of Allah
+part: 19
 ---
 
 # Revisiting the Worship of Allah

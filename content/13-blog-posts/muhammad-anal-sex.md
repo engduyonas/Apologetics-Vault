@@ -7,7 +7,7 @@ wordCount: 4829
 readTime: 24
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'MUHAMMAD & ANAL SEX'
+part: 8
 ---
 
 # MUHAMMAD & ANAL SEX

@@ -7,7 +7,7 @@ wordCount: 5946
 readTime: 30
 subcategory: General Topics
 series: Islam Studies
-part: Islam’s Other god – The Muslim Deification of Muhammad
+part: 4
 ---
 
 ## Islam’s Other god

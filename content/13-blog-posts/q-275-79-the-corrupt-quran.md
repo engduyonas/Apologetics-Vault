@@ -7,7 +7,7 @@ wordCount: 2066
 readTime: 10
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'Q. 2:75-79 & THE CORRUPT QURAN'
+part: 8
 ---
 
 # Q. 2:75-79 & THE CORRUPT QURAN

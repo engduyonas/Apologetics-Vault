@@ -7,7 +7,7 @@ wordCount: 5597
 readTime: 28
 subcategory: Church & Sacraments
 series: John Studies
-part: Catholic Commentary on John
+part: 1
 ---
 
 # Catholic Commentary on John

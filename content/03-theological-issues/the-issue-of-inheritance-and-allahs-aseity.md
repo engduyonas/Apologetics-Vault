@@ -7,7 +7,7 @@ wordCount: 1873
 readTime: 9
 subcategory: Nature of Allah
 series: 'Allah's Studies'
-part: 'The Issue of Inheritance and Allah's Aseity'
+part: 4
 ---
 
 # Is Allah truly eternal and absolutely self-sufficient?

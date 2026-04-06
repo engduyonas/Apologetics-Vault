@@ -7,7 +7,7 @@ wordCount: 1533
 readTime: 8
 subcategory: Nature of Allah
 series: 'Allah's Studies'
-part: 'Satan on Allah's throne'
+part: 3
 ---
 
 # Satan: A Co-Occupier of Allah’s Throne or Allah in Disguise?

@@ -4,7 +4,7 @@ slug: jesus-superior-to-the-heavenly-host-appendix-b
 category: christological-issues
 source: https://answeringislam.info/authors/shamoun/jesus_superior_app_b.html
 series: Jesus Superior To The Heavenly Host
-part: B
+part: 5
 wordCount: 2542
 readTime: 13
 subcategory: Christ's Deity & Identity

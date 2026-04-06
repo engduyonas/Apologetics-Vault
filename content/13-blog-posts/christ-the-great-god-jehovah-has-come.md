@@ -7,7 +7,7 @@ wordCount: 2641
 readTime: 13
 subcategory: Christology
 series: Deity of Christ
-part: 'Christ: The Great God Jehovah Has Come!'
+part: 8
 ---
 
 # Christ: The Great God Jehovah Has Come!

@@ -7,7 +7,7 @@ wordCount: 2536
 readTime: 13
 subcategory: Character & Morality
 series: Muhammad Studies
-part: Muhammad and Poison
+part: 8
 ---
 
 ### Muhammad and Poison

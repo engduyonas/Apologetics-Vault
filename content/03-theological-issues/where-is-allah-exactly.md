@@ -7,7 +7,7 @@ wordCount: 2492
 readTime: 12
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Where is Allah Exactly?'
+part: 19
 ---
 
 ### Where is Allah Exactly?

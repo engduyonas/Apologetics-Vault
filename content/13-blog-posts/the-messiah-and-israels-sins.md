@@ -7,7 +7,7 @@ wordCount: 732
 readTime: 4
 subcategory: Christology
 series: Messiah Studies
-part: THE MESSIAH AND ISRAEL’S SINS
+part: 9
 ---
 
 # THE MESSIAH AND ISRAEL’S SINS

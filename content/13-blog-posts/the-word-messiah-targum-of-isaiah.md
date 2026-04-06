@@ -7,7 +7,7 @@ wordCount: 2749
 readTime: 14
 subcategory: Christology
 series: Messiah Studies
-part: 'THE WORD, MESSIAH & TARGUM OF ISAIAH'
+part: 11
 ---
 
 # THE WORD, MESSIAH & TARGUM OF ISAIAH

@@ -7,7 +7,7 @@ wordCount: 2530
 readTime: 13
 subcategory: Salvation & Atonement
 series: Sins Studies
-part: 'Does the Apostles' ability to forgive sins imply their deity'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

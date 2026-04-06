@@ -8,7 +8,7 @@ wordCount: 7397
 readTime: 37
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'The Quran and the Holy Trinity: Islam’s Mistaken Views of Ba'
+part: 8
 ---
 
 ### The Quran and the Holy Trinity

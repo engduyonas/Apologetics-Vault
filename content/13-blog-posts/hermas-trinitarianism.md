@@ -7,7 +7,7 @@ wordCount: 3687
 readTime: 18
 subcategory: Patristic Theology
 series: Hermas Studies
-part: Hermas’ Trinitarianism
+part: 3
 ---
 
 # Hermas’ Trinitarianism

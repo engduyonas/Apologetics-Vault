@@ -7,7 +7,7 @@ wordCount: 935
 readTime: 5
 subcategory: Muhammad & Islam
 series: Islamic Studies
-part: MORE ON ISLAMIC PEDOPHILIA
+part: 6
 ---
 
 # MORE ON ISLAMIC PEDOPHILIA

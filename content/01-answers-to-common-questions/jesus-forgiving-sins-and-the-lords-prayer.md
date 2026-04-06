@@ -7,7 +7,7 @@ wordCount: 6186
 readTime: 31
 subcategory: Salvation & Atonement
 series: Sins Studies
-part: 'Jesus Forgiving Sins And The Lord's Prayer'
+part: 2
 ---
 
 # Jesus Forgiving Sins In Light of the Lord's Prayer

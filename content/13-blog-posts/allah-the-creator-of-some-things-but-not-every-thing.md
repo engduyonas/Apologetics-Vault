@@ -7,7 +7,7 @@ wordCount: 1501
 readTime: 8
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH: THE CREATOR OF SOME THINGS BUT NOT EVERY THING'
+part: 7
 ---
 
 # ALLAH: THE CREATOR OF SOME THINGS BUT NOT EVERY THING

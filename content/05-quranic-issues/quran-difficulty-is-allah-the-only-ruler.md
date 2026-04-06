@@ -7,7 +7,7 @@ wordCount: 4094
 readTime: 20
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: 'Quran Difficulty: Is Allah the only ruler?'
+part: 4
 ---
 
 # Quran Difficulty

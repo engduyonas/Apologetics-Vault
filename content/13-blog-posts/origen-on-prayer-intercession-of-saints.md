@@ -7,7 +7,7 @@ wordCount: 4092
 readTime: 20
 subcategory: Patristic Theology
 series: Origen Studies
-part: 'Origen on Prayer & Intercession of Saints'
+part: 6
 ---
 
 # Origen on Prayer & Intercession of Saints

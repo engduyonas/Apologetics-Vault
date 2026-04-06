@@ -7,7 +7,7 @@ wordCount: 7999
 readTime: 40
 subcategory: Quran & the Bible
 series: Quran Studies
-part: 'The Quran, Bible Preservation and the Crucifixion'
+part: 6
 ---
 
 ### The Quran, Bible Preservation and the Crucifixion

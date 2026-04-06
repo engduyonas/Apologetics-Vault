@@ -4,7 +4,7 @@ slug: the-biblical-god-versus-the-mormon-gods-pt-2b
 category: blog-posts
 source: https://www.samshmnthelogy.net/post/the-biblical-god-versus-the-mormon-gods-pt-2b
 series: THE BIBLICAL GOD VERSUS THE MORMON GODS
-part: 2B
+part: 5
 wordCount: 6461
 readTime: 32
 subcategory: Muhammad & Islam

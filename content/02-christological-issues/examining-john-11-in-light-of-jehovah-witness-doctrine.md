@@ -7,7 +7,7 @@ wordCount: 9170
 readTime: 46
 subcategory: Christ's Deity & Identity
 series: 'John & Johannine Theology'
-part: 'Examining John 1:1 In Light of Jehovah Witness Doctrine'
+part: 2
 ---
 
 # Jesus as “a god” alongside God: Jehovah’s Witnesses and John 1:1

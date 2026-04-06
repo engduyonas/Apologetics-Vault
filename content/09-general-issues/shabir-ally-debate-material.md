@@ -7,7 +7,7 @@ wordCount: 23435
 readTime: 117
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: 'SHABIR ALLY - DEBATE MATERIAL:'
+part: 2
 ---
 
 ### SHABIR ALLY - DEBATE MATERIAL: 

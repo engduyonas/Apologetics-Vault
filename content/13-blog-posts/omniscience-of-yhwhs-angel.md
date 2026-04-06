@@ -7,7 +7,7 @@ wordCount: 3604
 readTime: 18
 subcategory: Christology
 series: Yhwh Studies
-part: OMNISCIENCE OF YHWH’S ANGEL
+part: 2
 ---
 
 # OMNISCIENCE OF YHWH’S ANGEL

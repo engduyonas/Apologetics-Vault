@@ -7,7 +7,7 @@ wordCount: 1616
 readTime: 8
 subcategory: Christology
 series: Christ Studies
-part: 'CHRIST & CREATIO EX NIHILO'
+part: 1
 ---
 
 # CHRIST & CREATIO EX NIHILO

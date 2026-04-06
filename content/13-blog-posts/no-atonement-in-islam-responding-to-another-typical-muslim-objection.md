@@ -7,7 +7,7 @@ wordCount: 2833
 readTime: 14
 subcategory: Atonement & Salvation
 series: Atonement Studies
-part: 'No Atonement in Islam? Responding to Another Typical Muslim '
+part: 4
 ---
 
 # No Atonement in Islam? Responding to Another Typical Muslim Objection

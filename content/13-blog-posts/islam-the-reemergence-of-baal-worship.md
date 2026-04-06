@@ -7,7 +7,7 @@ wordCount: 5160
 readTime: 26
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: 'ISLAM: THE REEMERGENCE OF BAAL WORSHIP'
+part: 4
 ---
 
 # ISLAM: THE REEMERGENCE OF BAAL WORSHIP

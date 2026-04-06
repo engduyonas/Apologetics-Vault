@@ -7,7 +7,7 @@ wordCount: 6637
 readTime: 33
 subcategory: Muhammad & Islam
 series: Islamic Studies
-part: PAUL IN EARLY ISLAMIC EXEGESIS
+part: 7
 ---
 
 # PAUL IN EARLY ISLAMIC EXEGESIS

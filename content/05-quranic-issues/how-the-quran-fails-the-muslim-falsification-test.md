@@ -7,7 +7,7 @@ wordCount: 2460
 readTime: 12
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'How the Quran Fails the Muslim "Falsification Test'
+part: 2
 ---
 
 # Islamic Dilemma –

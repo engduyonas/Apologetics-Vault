@@ -7,7 +7,7 @@ wordCount: 4392
 readTime: 22
 subcategory: Christology
 series: Yhwh Studies
-part: YHWH The Most Highs Revealed
+part: 6
 ---
 
 # YHWH The Most Highs Revealed

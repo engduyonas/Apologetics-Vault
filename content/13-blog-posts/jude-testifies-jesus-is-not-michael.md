@@ -7,7 +7,7 @@ wordCount: 10150
 readTime: 51
 subcategory: Christology
 series: Jesus Studies
-part: 'JUDE TESTIFIES: JESUS IS NOT MICHAEL!'
+part: 17
 ---
 
 # JUDE TESTIFIES: JESUS IS NOT MICHAEL!

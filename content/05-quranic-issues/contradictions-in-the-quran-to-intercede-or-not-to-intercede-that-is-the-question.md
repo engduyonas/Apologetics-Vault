@@ -8,7 +8,7 @@ wordCount: 5999
 readTime: 30
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Contradictions in the Qur''an: To Intercede or Not To Interc'
+part: 6
 ---
 
 **Qur'an Contradiction:**

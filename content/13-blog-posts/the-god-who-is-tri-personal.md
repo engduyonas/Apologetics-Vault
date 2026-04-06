@@ -7,7 +7,7 @@ wordCount: 6614
 readTime: 33
 subcategory: Trinity & Godhead
 series: Personal Studies
-part: The God Who Is Tri-Personal
+part: 2
 ---
 
 # The God Who Is Tri-Personal

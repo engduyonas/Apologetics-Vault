@@ -7,7 +7,7 @@ wordCount: 9105
 readTime: 46
 subcategory: Quran & the Bible
 series: Quran Studies
-part: The Crucifixion of Christ - A Christian Critique of the Qura
+part: 2
 ---
 
 ### The Crucifixion of Christ - 

@@ -7,7 +7,7 @@ wordCount: 7953
 readTime: 40
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: 'Jesus' Divine Claims in light of Islamic Monotheism'
+part: 2
 ---
 
 # Revisiting the Deity of Christ and Islam

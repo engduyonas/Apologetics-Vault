@@ -7,7 +7,7 @@ wordCount: 1825
 readTime: 9
 subcategory: Christology
 series: Deity of Christ
-part: 'METATRON: ISRAEL’S SECOND GOD REVISITED'
+part: 14
 ---
 
 # METATRON: ISRAEL’S SECOND GOD REVISITED

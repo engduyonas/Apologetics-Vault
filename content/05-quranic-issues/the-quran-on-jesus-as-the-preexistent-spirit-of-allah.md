@@ -7,7 +7,7 @@ wordCount: 4987
 readTime: 25
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: The Quran on Jesus as the Preexistent Spirit of Allah
+part: 8
 ---
 
 ### The Quran on Jesus as the Preexistent Spirit of Allah

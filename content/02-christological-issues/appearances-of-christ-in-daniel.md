@@ -7,7 +7,7 @@ wordCount: 13597
 readTime: 68
 subcategory: Messianic Prophecies
 series: 'Daniel & Prophecy'
-part: Appearances of Christ in Daniel
+part: 1
 ---
 
 # Divine Encounters of the OT –

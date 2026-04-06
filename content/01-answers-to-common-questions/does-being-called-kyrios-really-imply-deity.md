@@ -7,7 +7,7 @@ wordCount: 2057
 readTime: 10
 subcategory: Deity of Christ
 series: Deity Studies
-part: 'Does being called "Kyrios" really imply Deity?'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

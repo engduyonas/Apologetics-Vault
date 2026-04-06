@@ -8,7 +8,7 @@ wordCount: 10733
 readTime: 54
 subcategory: Messianic Prophecies
 series: Psalmic Prophecies
-part: 'Examining Psalm 110:1 \x97 A look at Its Implications on God'
+part: 1
 ---
 
 **Examining Psalm 110:1**

@@ -7,7 +7,7 @@ wordCount: 6052
 readTime: 30
 subcategory: Christology
 series: Yhwh Studies
-part: David’s Throne = The Throne of YHWH
+part: 1
 ---
 
 # David’s Throne = The Throne of YHWH

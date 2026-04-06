@@ -7,7 +7,7 @@ wordCount: 3259
 readTime: 16
 subcategory: Christology
 series: Jehovah Studies
-part: JEHOVAH BECOMES OUR BROTHER
+part: 1
 ---
 
 # JEHOVAH BECOMES OUR BROTHER

@@ -7,7 +7,7 @@ wordCount: 1728
 readTime: 9
 subcategory: General Topics
 series: Judaism Studies
-part: 'Rabbinic Judaism & God's Plurality'
+part: 4
 ---
 
 # Rabbinic Judaism & God's Plurality

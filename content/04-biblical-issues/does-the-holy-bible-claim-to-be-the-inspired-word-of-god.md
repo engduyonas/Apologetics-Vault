@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/inspired_word.html
 wordCount: 4028
 readTime: 20
 series: Holy Studies
-part: 'Does the Holy Bible claim to be the inspired Word of God?'
+part: 2
 ---
 
 # Does the Holy Bible claim to be the inspired Word of God?

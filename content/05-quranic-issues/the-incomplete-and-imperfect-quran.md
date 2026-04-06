@@ -7,7 +7,7 @@ wordCount: 4182
 readTime: 21
 subcategory: Textual History
 series: Quran Studies
-part: The Incomplete and Imperfect Quran
+part: 4
 ---
 
 # The Incomplete and Imperfect Quran

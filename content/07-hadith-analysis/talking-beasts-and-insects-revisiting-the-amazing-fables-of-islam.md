@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/talking_beast.htm
 wordCount: 2850
 readTime: 14
 series: Islam Studies
-part: 'Talking Beasts and Insects: Revisiting the Amazing Fables of'
+part: 2
 ---
 
 ### Talking Beasts and Insects: Revisiting the Amazing Fables of Islam

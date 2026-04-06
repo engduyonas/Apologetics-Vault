@@ -8,7 +8,7 @@ wordCount: 12051
 readTime: 60
 subcategory: Christ in the Quran
 series: Badawi Responses
-part: 'Christian Response to:  Dr. Jamal Badawi''s "Jesus in the Qu'
+part: 3
 ---
 
 ****

@@ -7,7 +7,7 @@ wordCount: 4780
 readTime: 24
 subcategory: Christ's Deity & Identity
 series: Deity Studies
-part: 'Jesus' Deity in light of the Psalms'
+part: 1
 ---
 
 # Examining the Deity of the Lord Jesus in light of the theology of Psalms

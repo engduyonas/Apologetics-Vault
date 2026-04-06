@@ -7,7 +7,7 @@ wordCount: 2129
 readTime: 11
 subcategory: Christology
 series: Messiah Studies
-part: 'Jeconiah’s Curse Becomes Messiah’s Blessing!'
+part: 2
 ---
 
 # Jeconiah’s Curse Becomes Messiah’s Blessing!

@@ -7,7 +7,7 @@ wordCount: 4825
 readTime: 24
 subcategory: General Topics
 series: Father Studies
-part: 'Call No Man Father?'
+part: 3
 ---
 
 # Call No Man Father?

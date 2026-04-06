@@ -7,7 +7,7 @@ wordCount: 2671
 readTime: 13
 subcategory: Atonement & Salvation
 series: Offering Studies
-part: The Son Becomes God’s Sin-Offering
+part: 2
 ---
 
 # The Son Becomes God’s Sin-Offering

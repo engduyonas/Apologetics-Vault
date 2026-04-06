@@ -7,7 +7,7 @@ wordCount: 1410
 readTime: 7
 subcategory: General Topics
 series: Jesus Studies
-part: 'Jesus Christ – God’s Salvation Has Come!'
+part: 2
 ---
 
 # Jesus Christ – God’s Salvation Has Come!

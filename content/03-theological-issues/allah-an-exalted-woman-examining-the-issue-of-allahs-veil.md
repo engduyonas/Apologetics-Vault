@@ -7,7 +7,7 @@ wordCount: 2113
 readTime: 11
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Allah: An Exalted Woman? Examining the Issue of Allah’s Veil'
+part: 5
 ---
 
 ****

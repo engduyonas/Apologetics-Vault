@@ -7,7 +7,7 @@ wordCount: 518
 readTime: 3
 subcategory: Patristic Theology
 series: Early Church
-part: 'JEROME, TRADTION & APOSTOLIC SUCCESSION'
+part: 4
 ---
 
 # JEROME, TRADTION & APOSTOLIC SUCCESSION

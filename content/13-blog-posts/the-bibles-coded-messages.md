@@ -7,7 +7,7 @@ wordCount: 1101
 readTime: 6
 subcategory: General Topics
 series: Bible Studies
-part: THE BIBLE’S CODED MESSAGES
+part: 4
 ---
 
 # THE BIBLE’S CODED MESSAGES

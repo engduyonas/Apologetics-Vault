@@ -8,7 +8,7 @@ wordCount: 5594
 readTime: 28
 subcategory: Son of Man & Preexistence
 series: Preexistence
-part: 'Lukan Christological Preexistence: More Evidence for the Dei'
+part: 2
 ---
 
 ### Lukan Christological Preexistence

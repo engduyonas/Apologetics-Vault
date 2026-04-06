@@ -7,7 +7,7 @@ wordCount: 3916
 readTime: 20
 subcategory: Christology
 series: Deity of Christ
-part: A HYMN TO THE DIVINE CHRIST
+part: 1
 ---
 
 # A HYMN TO THE DIVINE CHRIST

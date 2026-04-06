@@ -7,7 +7,7 @@ wordCount: 3477
 readTime: 17
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'The Quran Testifies – Satan is a lot like Allah!'
+part: 14
 ---
 
 # The Quran Testifies – Satan is a lot like Allah!

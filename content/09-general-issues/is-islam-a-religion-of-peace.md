@@ -7,7 +7,7 @@ wordCount: 17270
 readTime: 86
 subcategory: Quran & Bible
 series: Islam Studies
-part: 'Is Islam a religion of Peace?'
+part: 1
 ---
 
 ## Is Islam a religion of Peace?

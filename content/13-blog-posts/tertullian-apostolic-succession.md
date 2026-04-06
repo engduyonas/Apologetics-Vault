@@ -7,7 +7,7 @@ wordCount: 1282
 readTime: 6
 subcategory: Patristic Theology
 series: Early Church
-part: 'Tertullian & Apostolic Succession'
+part: 5
 ---
 
 # Tertullian & Apostolic Succession

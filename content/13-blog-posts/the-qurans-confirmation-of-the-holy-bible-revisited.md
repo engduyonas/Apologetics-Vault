@@ -7,7 +7,7 @@ wordCount: 4901
 readTime: 25
 subcategory: Quranic Analysis
 series: Quran Studies
-part: THE QURAN’S CONFIRMATION OF THE HOLY BIBLE REVISITED
+part: 10
 ---
 
 # THE QURAN’S CONFIRMATION OF THE HOLY BIBLE REVISITED

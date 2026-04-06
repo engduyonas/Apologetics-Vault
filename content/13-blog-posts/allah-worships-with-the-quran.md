@@ -7,7 +7,7 @@ wordCount: 1243
 readTime: 6
 subcategory: Quranic Analysis
 series: Quran Studies
-part: ALLAH WORSHIPS WITH THE QURAN
+part: 3
 ---
 
 # ALLAH WORSHIPS WITH THE QURAN

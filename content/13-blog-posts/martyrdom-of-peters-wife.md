@@ -7,7 +7,7 @@ wordCount: 427
 readTime: 2
 subcategory: General Topics
 series: Peter Studies
-part: Martyrdom of Peter’s Wife
+part: 2
 ---
 
 # Martyrdom of Peter’s Wife

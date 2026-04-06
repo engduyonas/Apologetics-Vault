@@ -7,7 +7,7 @@ wordCount: 6997
 readTime: 35
 subcategory: NT Christology
 series: Apostolic Christology
-part: Scholars on the Christology of James and Jude
+part: 1
 ---
 
 # The Christology of James and Jude

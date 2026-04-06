@@ -7,7 +7,7 @@ wordCount: 2797
 readTime: 14
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: Did Muhammad Teach that Women are Stupid and Inferior to Men
+part: 2
 ---
 
 # Did Muhammad Teach that Women are Stupid and Inferior to Men? 

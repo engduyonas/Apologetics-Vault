@@ -7,7 +7,7 @@ wordCount: 4384
 readTime: 22
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: 'Quran Inconsistency: Does Allah sanction and permit lust or '
+part: 5
 ---
 
 **Quran Inconsistency**

@@ -8,7 +8,7 @@ wordCount: 3276
 readTime: 16
 subcategory: Trinity & Monotheism
 series: Trinitarian Studies
-part: 'Eusebius and the Trinitarian Baptismal Formula: Exposing Jam'
+part: 1
 ---
 
 ### Eusebius and the Trinitarian Baptismal Formula

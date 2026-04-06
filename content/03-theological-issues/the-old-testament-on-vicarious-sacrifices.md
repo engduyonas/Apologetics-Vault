@@ -7,7 +7,7 @@ wordCount: 9633
 readTime: 48
 subcategory: Salvation & Eschatology
 series: Atonement
-part: The Old Testament on Vicarious Sacrifices
+part: 1
 ---
 
 # I Desire Mercy Not Sacrifice?

@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/gabriel.htm
 wordCount: 13294
 readTime: 66
 series: Islam Studies
-part: 'Rebuttal to Understanding-Islam : Regarding the Christian Co'
+part: 6
 ---
 
 ### Is "the Holy Spirit" Only Another Name for the Angel Gabriel?

@@ -7,7 +7,7 @@ wordCount: 1028
 readTime: 5
 subcategory: Christology
 series: Jesus Studies
-part: Talmud Confirms Jesus’ Messiahship
+part: 33
 ---
 
 # Talmud Confirms Jesus’ Messiahship

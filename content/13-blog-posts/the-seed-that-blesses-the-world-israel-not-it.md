@@ -7,7 +7,7 @@ wordCount: 7085
 readTime: 35
 subcategory: Biblical Studies
 series: Old Testament
-part: 'The Seed that Blesses the World: Israel Not It!'
+part: 2
 ---
 
 # The Seed that Blesses the World: Israel Not It!

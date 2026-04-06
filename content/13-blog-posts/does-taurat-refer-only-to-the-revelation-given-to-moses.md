@@ -7,7 +7,7 @@ wordCount: 2322
 readTime: 12
 subcategory: General Topics
 series: Refer Studies
-part: 'Does Taurat Refer Only to the Revelation Given to Moses?'
+part: 2
 ---
 
 # Does Taurat Refer Only to the Revelation Given to Moses?

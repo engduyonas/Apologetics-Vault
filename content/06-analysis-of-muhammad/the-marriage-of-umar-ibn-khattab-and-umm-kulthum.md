@@ -7,7 +7,7 @@ wordCount: 3400
 readTime: 17
 subcategory: Muhammad's Wives & Marriages
 series: Multiple Wives
-part: The Marriage of Umar ibn Khattab and Umm Kulthum
+part: 6
 ---
 
 ### The Marriage of Umar ibn Khattab and Umm Kulthum

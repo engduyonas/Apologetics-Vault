@@ -7,7 +7,7 @@ wordCount: 693
 readTime: 3
 subcategory: Christology
 series: Jesus Studies
-part: 'Jehovah’s Witnesses & Jesus’ Sonship'
+part: 19
 ---
 
 # Jehovah’s Witnesses & Jesus’ Sonship

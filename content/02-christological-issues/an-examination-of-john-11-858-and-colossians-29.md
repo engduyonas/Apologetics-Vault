@@ -7,7 +7,7 @@ wordCount: 4243
 readTime: 21
 subcategory: Christ's Deity & Identity
 series: 'John & Johannine Theology'
-part: 'AN EXAMINATION OF JOHN 1:1, 8:58 AND COLOSSIANS 2:9'
+part: 1
 ---
 
 **AN EXAMINATION OF JOHN 1:1, 8:58 AND COLOSSIANS 2:9**

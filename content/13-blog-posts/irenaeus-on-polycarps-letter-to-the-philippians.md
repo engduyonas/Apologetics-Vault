@@ -7,7 +7,7 @@ wordCount: 517
 readTime: 3
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: Irenaeus on Polycarp’s Letter to the Philippians
+part: 4
 ---
 
 # Irenaeus on Polycarp’s Letter to the Philippians

@@ -8,7 +8,7 @@ wordCount: 12274
 readTime: 61
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: 'Muhammad and the Daughters of Allah: A Summation of the Evid'
+part: 3
 ---
 
 ****

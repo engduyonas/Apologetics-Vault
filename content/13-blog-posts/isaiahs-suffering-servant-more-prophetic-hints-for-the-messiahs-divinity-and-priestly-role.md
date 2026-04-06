@@ -8,7 +8,7 @@ wordCount: 3974
 readTime: 20
 subcategory: Christology
 series: Messiah Studies
-part: 'Isaiah’s Suffering Servant: More Prophetic Hints for the Mes'
+part: 1
 ---
 
 # Isaiah’s Suffering Servant: More Prophetic Hints for the Messiah’s Divinity and Priestly Role

@@ -7,7 +7,7 @@ wordCount: 6335
 readTime: 32
 subcategory: Worship of Christ
 series: NT Worship
-part: 'Jesus And Latreuo: Examining The NT on Christ Receiving Sacr'
+part: 1
 ---
 
 ### Jesus And Latreuo

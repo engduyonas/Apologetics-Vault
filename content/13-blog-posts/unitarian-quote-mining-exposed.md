@@ -7,7 +7,7 @@ wordCount: 14307
 readTime: 72
 subcategory: Christology
 series: Unitarian Studies
-part: UNITARIAN QUOTE-MINING EXPOSED
+part: 3
 ---
 
 # UNITARIAN QUOTE-MINING EXPOSED

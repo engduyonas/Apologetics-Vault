@@ -7,7 +7,7 @@ wordCount: 1684
 readTime: 8
 subcategory: Patristic Theology
 series: Christology Studies
-part: Athanasius Confirms Ignatius’ Christology
+part: 1
 ---
 
 # Athanasius Confirms Ignatius’ Christology

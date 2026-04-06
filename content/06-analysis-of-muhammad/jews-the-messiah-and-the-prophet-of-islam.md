@@ -7,7 +7,7 @@ wordCount: 4458
 readTime: 22
 subcategory: False Prophecies
 series: Islam Studies
-part: 'Jews, the Messiah, and the Prophet of Islam'
+part: 2
 ---
 
 ### Jews, the Messiah, and the Prophet of Islam

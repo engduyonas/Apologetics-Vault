@@ -7,7 +7,7 @@ wordCount: 3403
 readTime: 17
 subcategory: Messianic Prophecies
 series: Davidic Prophecies
-part: Jesus is from the Seed of David
+part: 1
 ---
 
 **Shahid Bin Waheed’s Lies Exposed:**

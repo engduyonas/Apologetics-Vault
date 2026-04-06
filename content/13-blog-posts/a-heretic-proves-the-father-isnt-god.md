@@ -7,7 +7,7 @@ wordCount: 5193
 readTime: 26
 subcategory: General Topics
 series: Father Studies
-part: 'A HERETIC PROVES THE FATHER ISN'T GOD'
+part: 1
 ---
 
 # A HERETIC PROVES THE FATHER ISN'T GOD

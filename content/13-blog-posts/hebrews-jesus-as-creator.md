@@ -7,7 +7,7 @@ wordCount: 6055
 readTime: 30
 subcategory: Christology
 series: Jesus Studies
-part: 'Hebrews & Jesus as Creator'
+part: 5
 ---
 
 # Hebrews & Jesus as Creator

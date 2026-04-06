@@ -7,7 +7,7 @@ wordCount: 6780
 readTime: 34
 subcategory: Christology
 series: Jesus Studies
-part: 'The Talmud: Jesus is Burning in Dung!'
+part: 36
 ---
 
 # The Talmud: Jesus is Burning in Dung!

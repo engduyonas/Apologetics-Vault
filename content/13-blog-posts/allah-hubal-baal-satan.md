@@ -7,7 +7,7 @@ wordCount: 2679
 readTime: 13
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: ALLAH= HUBAL= BAAL= SATAN
+part: 8
 ---
 
 # ALLAH= HUBAL= BAAL= SATAN

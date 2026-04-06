@@ -7,7 +7,7 @@ wordCount: 5164
 readTime: 26
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: An Examination of the Uniqueness of Christ In A Pluralistic 
+part: 1
 ---
 
 ### An Examination of the Uniqueness of Christ  

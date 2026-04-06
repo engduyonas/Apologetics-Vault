@@ -7,7 +7,7 @@ wordCount: 2278
 readTime: 11
 subcategory: False Prophecies
 series: Islam Studies
-part: Did the religion of Islam completely eradicate Arab paganism
+part: 1
 ---
 
 ### Did the religion of Islam completely eradicate Arab paganism?

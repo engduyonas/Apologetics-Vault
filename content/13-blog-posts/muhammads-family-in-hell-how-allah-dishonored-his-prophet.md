@@ -7,7 +7,7 @@ wordCount: 3450
 readTime: 17
 subcategory: Muhammad & Islam
 series: Claims
-part: 'Muhammad’s Family In Hell: How Allah Dishonored his “Prophet'
+part: 2
 ---
 
 # Muhammad’s Family In Hell: How Allah Dishonored his “Prophet”

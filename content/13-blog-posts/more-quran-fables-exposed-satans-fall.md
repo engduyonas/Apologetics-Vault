@@ -7,7 +7,7 @@ wordCount: 5104
 readTime: 26
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'More Quran Fables Exposed: Satan’s Fall'
+part: 7
 ---
 
 # More Quran Fables Exposed: Satan’s Fall 

@@ -7,7 +7,7 @@ wordCount: 8665
 readTime: 43
 subcategory: Biblical Studies
 series: Acts Studies
-part: 'Acts 8:37 – Sorting out the Evidence'
+part: 2
 ---
 
 # Acts 8:37 – Sorting out the Evidence

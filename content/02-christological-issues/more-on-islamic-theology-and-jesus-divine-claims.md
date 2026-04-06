@@ -7,7 +7,7 @@ wordCount: 8719
 readTime: 44
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: 'More on Islamic theology and Jesus' Divine Claims'
+part: 3
 ---
 
 # Islamic theology confirms

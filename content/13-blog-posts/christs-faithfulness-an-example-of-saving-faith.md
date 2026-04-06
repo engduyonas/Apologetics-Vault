@@ -7,7 +7,7 @@ wordCount: 2504
 readTime: 13
 subcategory: Christology
 series: Christ Studies
-part: 'CHRIST’S FAITHFULNESS: AN EXAMPLE OF SAVING FAITH'
+part: 4
 ---
 
 # CHRIST’S FAITHFULNESS: AN EXAMPLE OF SAVING FAITH

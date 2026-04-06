@@ -7,7 +7,7 @@ wordCount: 1720
 readTime: 9
 subcategory: Muhammad & Islam
 series: Aisha Studies
-part: 'AISHA: THE SEMEN SCRAPER'
+part: 1
 ---
 
 # AISHA: THE SEMEN SCRAPER

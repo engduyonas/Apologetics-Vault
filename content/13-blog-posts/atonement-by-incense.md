@@ -7,7 +7,7 @@ wordCount: 4183
 readTime: 21
 subcategory: Atonement & Salvation
 series: Atonement Studies
-part: Atonement by Incense
+part: 2
 ---
 
 # Atonement by Incense

@@ -7,7 +7,7 @@ wordCount: 548
 readTime: 3
 subcategory: Holy Spirit
 series: Personhood
-part: 'The Holy Spirit: Jesus’ Divine Mother?'
+part: 7
 ---
 
 # The Holy Spirit: Jesus’ Divine Mother?

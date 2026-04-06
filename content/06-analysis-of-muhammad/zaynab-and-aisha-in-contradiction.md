@@ -7,7 +7,7 @@ wordCount: 1517
 readTime: 8
 subcategory: Muhammad's Wives & Marriages
 series: Aisha
-part: Zaynab and Aisha in contradiction
+part: 1
 ---
 
 ### Muhammad's ‘divinely appointed’ marriage(s)

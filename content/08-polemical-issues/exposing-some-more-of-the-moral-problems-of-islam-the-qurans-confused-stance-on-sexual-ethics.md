@@ -7,7 +7,7 @@ source: https://answeringislam.info/Shamoun/bestiality.htm
 wordCount: 7299
 readTime: 36
 series: Islam Studies
-part: 'Exposing Some More of the Moral Problems of Islam: The Quran'
+part: 1
 ---
 
 **Exposing Some More of the Moral Problems of Islam:**

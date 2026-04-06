@@ -7,7 +7,7 @@ wordCount: 1458
 readTime: 7
 subcategory: Patristic Theology
 series: Eusebius Studies
-part: 'EUSEBIUS ON THE TRUE & ANCIENT FAITH'
+part: 1
 ---
 
 # EUSEBIUS ON THE TRUE & ANCIENT FAITH

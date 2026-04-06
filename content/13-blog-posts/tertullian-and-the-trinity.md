@@ -7,7 +7,7 @@ wordCount: 8675
 readTime: 43
 subcategory: Patristic Theology
 series: Trinity Studies
-part: Tertullian and the Trinity
+part: 2
 ---
 
 # Tertullian and the Trinity

@@ -7,7 +7,7 @@ wordCount: 4035
 readTime: 20
 subcategory: Christology
 series: Jesus Studies
-part: 'RAMBAM, MESSIANIC PROPHECY & JESUS'
+part: 31
 ---
 
 # RAMBAM, MESSIANIC PROPHECY & JESUS

@@ -7,7 +7,7 @@ wordCount: 11629
 readTime: 58
 subcategory: Patristic Theology
 series: Christology Studies
-part: 'JUSTIN MARTYR'S CHRISTOLOGY REVISITED'
+part: 2
 ---
 
 # JUSTIN MARTYR'S CHRISTOLOGY REVISITED

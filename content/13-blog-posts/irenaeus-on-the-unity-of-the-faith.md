@@ -7,7 +7,7 @@ wordCount: 1461
 readTime: 7
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: Irenaeus on the Unity of the Faith
+part: 5
 ---
 
 # Irenaeus on the Unity of the Faith

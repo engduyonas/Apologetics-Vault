@@ -7,7 +7,7 @@ wordCount: 3019
 readTime: 15
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: 'TRINITY IN THE LXX & “APOCRYPHA”'
+part: 5
 ---
 
 # TRINITY IN THE LXX & “APOCRYPHA”

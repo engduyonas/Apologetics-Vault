@@ -7,7 +7,7 @@ wordCount: 3817
 readTime: 19
 subcategory: Christology
 series: Jesus Studies
-part: 'What Kind of Theos is Jesus?'
+part: 37
 ---
 
 # What Kind of Theos is Jesus?

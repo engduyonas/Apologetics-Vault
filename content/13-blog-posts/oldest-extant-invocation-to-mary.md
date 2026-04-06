@@ -7,7 +7,7 @@ wordCount: 241
 readTime: 1
 subcategory: General Topics
 series: Mary Studies
-part: Oldest Extant Invocation to Mary
+part: 4
 ---
 
 # Oldest Extant Invocation to Mary

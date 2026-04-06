@@ -7,7 +7,7 @@ wordCount: 2659
 readTime: 13
 subcategory: Muhammad's Wives & Marriages
 series: Multiple Wives
-part: Muhammad’s Multiplicity of Marriages
+part: 5
 ---
 
 ### Muhammad’s Multiplicity of Marriages

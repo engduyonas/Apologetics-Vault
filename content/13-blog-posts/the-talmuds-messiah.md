@@ -7,7 +7,7 @@ wordCount: 7446
 readTime: 37
 subcategory: Christology
 series: Messiah Studies
-part: The Talmud’s Messiah
+part: 12
 ---
 
 # The Talmud’s Messiah

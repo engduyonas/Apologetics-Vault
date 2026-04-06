@@ -7,7 +7,7 @@ wordCount: 1751
 readTime: 9
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: More Proof That Jesus Is Absolutely Good and Holy
+part: 6
 ---
 
 # More Proof Of Jesus’ Absolute Goodness and Essential Purity

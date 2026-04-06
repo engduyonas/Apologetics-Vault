@@ -7,7 +7,7 @@ wordCount: 2137
 readTime: 11
 subcategory: Trinity & Godhead
 series: Plurals Studies
-part: Anti-Trinitarians on the Use of Plurals for God
+part: 2
 ---
 
 # Anti-Trinitarians on the Use of Plurals for God

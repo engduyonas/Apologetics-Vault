@@ -4,7 +4,7 @@ slug: challenging-muslim-metaphysician-pt-1b
 category: blog-posts
 source: https://www.samshmnthelogy.net/post/challenging-muslim-metaphysician-pt-1b
 series: CHALLENGING MUSLIM METAPHYSICIAN
-part: 1B
+part: 3
 wordCount: 1987
 readTime: 10
 subcategory: Muhammad & Islam

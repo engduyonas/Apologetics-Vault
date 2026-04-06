@@ -7,7 +7,7 @@ wordCount: 2473
 readTime: 12
 subcategory: General Topics
 series: Judaism Studies
-part: 'Judaism Agrees: The Righteous Save the World'
+part: 1
 ---
 
 # Judaism Agrees: The Righteous Save the World

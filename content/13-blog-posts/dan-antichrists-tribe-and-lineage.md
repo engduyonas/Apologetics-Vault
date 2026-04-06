@@ -7,7 +7,7 @@ wordCount: 2649
 readTime: 13
 subcategory: Christology
 series: Antichrist Studies
-part: 'Dan: Antichrist’s Tribe and Lineage?'
+part: 1
 ---
 
 # Dan: Antichrist’s Tribe and Lineage?

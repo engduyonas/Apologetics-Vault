@@ -7,7 +7,7 @@ wordCount: 3557
 readTime: 18
 subcategory: Christology
 series: Jesus Studies
-part: 'Jesus Christ & JWs: Who is the Jehovah That Saves?'
+part: 20
 ---
 
 # Jesus Christ & JWs: Who is the Jehovah That Saves?

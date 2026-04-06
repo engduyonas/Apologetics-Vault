@@ -7,7 +7,7 @@ wordCount: 617
 readTime: 3
 subcategory: Patristic Theology
 series: Jesus Studies
-part: St. Bernard on the Glorious Form of Jesus
+part: 2
 ---
 
 # St. Bernard on the Glorious Form of Jesus

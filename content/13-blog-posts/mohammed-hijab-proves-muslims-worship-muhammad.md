@@ -7,7 +7,7 @@ wordCount: 2906
 readTime: 15
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: 'Mohammed Hijab Proves Muslims Worship Muhammad!'
+part: 2
 ---
 
 # Mohammed Hijab Proves Muslims Worship Muhammad!

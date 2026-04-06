@@ -7,7 +7,7 @@ wordCount: 2072
 readTime: 10
 subcategory: Rebuttals & Debates
 series: Badawi Studies
-part: 'A Million Dollars for "Holy War": The Quran, Holy War & Jama'
+part: 1
 ---
 
 ### A Million Dollars for "Holy War"

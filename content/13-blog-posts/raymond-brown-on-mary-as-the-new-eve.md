@@ -7,7 +7,7 @@ wordCount: 2011
 readTime: 10
 subcategory: Church & Sacraments
 series: Mary Studies
-part: Raymond Brown on Mary as the New Eve
+part: 6
 ---
 
 # Raymond Brown on Mary as the New Eve

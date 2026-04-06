@@ -7,7 +7,7 @@ wordCount: 290
 readTime: 1
 subcategory: General Topics
 series: Peter Studies
-part: 'Codex Sinaiticus & 2 Peter 1:1'
+part: 1
 ---
 
 # Codex Sinaiticus & 2 Peter 1:1

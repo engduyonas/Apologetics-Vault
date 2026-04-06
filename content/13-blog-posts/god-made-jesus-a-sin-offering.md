@@ -7,7 +7,7 @@ wordCount: 5100
 readTime: 26
 subcategory: Atonement & Salvation
 series: Offering Studies
-part: GOD MADE JESUS A SIN-OFFERING
+part: 1
 ---
 
 # GOD MADE JESUS A SIN-OFFERING

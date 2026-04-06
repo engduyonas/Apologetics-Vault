@@ -7,7 +7,7 @@ wordCount: 6916
 readTime: 35
 subcategory: Christology
 series: Christ Studies
-part: The Omniscient Christ of “Q”
+part: 8
 ---
 
 # The Omniscient Christ of “Q”

@@ -7,7 +7,7 @@ wordCount: 3488
 readTime: 17
 subcategory: Messianic Prophecies
 series: Messiah Studies
-part: The Messiah Jesus – More Than Human
+part: 3
 ---
 
 # The Messiah Jesus – More Than Human

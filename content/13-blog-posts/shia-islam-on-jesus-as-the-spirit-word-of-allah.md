@@ -7,7 +7,7 @@ wordCount: 1713
 readTime: 9
 subcategory: Christology
 series: Jesus Studies
-part: 'Shia Islam on Jesus as the Spirit & Word of Allah'
+part: 32
 ---
 
 # Shia Islam on Jesus as the Spirit & Word of Allah

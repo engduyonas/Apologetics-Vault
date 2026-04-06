@@ -9,7 +9,7 @@ wordCount: 13425
 readTime: 67
 subcategory: General Topics
 series: Jesus Studies
-part: Jesus Christ –
+part: 1
 ---
 
 ### Jesus Christ –  

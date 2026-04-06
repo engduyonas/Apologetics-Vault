@@ -7,7 +7,7 @@ wordCount: 1526
 readTime: 8
 subcategory: Quran & the Bible
 series: Quran Studies
-part: The Quran on the Preservation of Pharaoh’s Body
+part: 5
 ---
 
 # The Quran on the Preservation of Pharaoh’s Body

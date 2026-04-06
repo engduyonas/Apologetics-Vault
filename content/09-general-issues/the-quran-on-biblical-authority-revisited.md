@@ -7,7 +7,7 @@ wordCount: 6270
 readTime: 31
 subcategory: Quran & Bible
 series: Quran Studies
-part: The Quran on Biblical Authority Revisited
+part: 4
 ---
 
 ### The Quran on Biblical Authority Revisited

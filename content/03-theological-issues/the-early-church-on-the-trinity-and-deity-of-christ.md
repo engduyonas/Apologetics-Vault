@@ -7,7 +7,7 @@ wordCount: 6022
 readTime: 30
 subcategory: Trinity & Monotheism
 series: Trinity Studies
-part: The Early Church on the Trinity and Deity of Christ
+part: 3
 ---
 
 # The Early Post-NT Witness to the Trinity and Deity of Christ

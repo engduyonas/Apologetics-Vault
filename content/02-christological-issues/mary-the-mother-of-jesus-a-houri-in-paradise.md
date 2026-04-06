@@ -7,7 +7,7 @@ wordCount: 3072
 readTime: 15
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: 'Mary the Mother of Jesus: A Houri in Paradise?'
+part: 5
 ---
 
 ### Mary the Mother of Jesus: A Houri in Paradise?

@@ -7,7 +7,7 @@ wordCount: 1918
 readTime: 10
 subcategory: Christology
 series: Jesus Studies
-part: 'ISLAM TESTIFIES THAT THE BAPTIST WORSHIPED JESUS!'
+part: 6
 ---
 
 # ISLAM TESTIFIES THAT THE BAPTIST WORSHIPED JESUS!

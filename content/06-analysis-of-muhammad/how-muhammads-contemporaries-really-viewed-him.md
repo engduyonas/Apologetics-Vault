@@ -7,7 +7,7 @@ wordCount: 1293
 readTime: 6
 subcategory: Character & Morality
 series: Muhammad Studies
-part: How Muhammad’s Contemporaries Really Viewed Him
+part: 4
 ---
 
 ### How Muhammad’s Contemporaries Really Viewed Him

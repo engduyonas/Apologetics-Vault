@@ -7,7 +7,7 @@ wordCount: 4392
 readTime: 22
 subcategory: Messianic Prophecies
 series: 'Shepherd & King'
-part: The Chief Shepherd of the Flock
+part: 1
 ---
 
 # The Chief Shepherd of the Flock

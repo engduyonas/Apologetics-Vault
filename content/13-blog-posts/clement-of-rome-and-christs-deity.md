@@ -7,7 +7,7 @@ wordCount: 4563
 readTime: 23
 subcategory: Patristic Theology
 series: Deity Studies
-part: CLEMENT OF ROME AND CHRIST’S DEITY
+part: 1
 ---
 
 # CLEMENT OF ROME AND CHRIST’S DEITY

@@ -7,7 +7,7 @@ wordCount: 5355
 readTime: 27
 subcategory: Atonement & Salvation
 series: Pistis Studies
-part: 'PISTIS CHRISTOU: A JEWISH BELIEVER’S PERSPECTIVE'
+part: 1
 ---
 
 # PISTIS CHRISTOU: A JEWISH BELIEVER’S PERSPECTIVE

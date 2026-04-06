@@ -7,7 +7,7 @@ wordCount: 6264
 readTime: 31
 subcategory: Muhammad & Islam
 series: Character
-part: MUHAMMAD’S UNJUST AND IMMORAL RULES ON ADULTERY
+part: 2
 ---
 
 # MUHAMMAD’S UNJUST AND IMMORAL RULES ON ADULTERY

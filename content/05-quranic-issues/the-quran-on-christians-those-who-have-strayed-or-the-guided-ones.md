@@ -7,7 +7,7 @@ wordCount: 11289
 readTime: 56
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'The Quran on Christians: Those Who Have Strayed or the Guide'
+part: 10
 ---
 
 ### The Quran on Christians

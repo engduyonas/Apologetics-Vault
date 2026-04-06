@@ -7,7 +7,7 @@ wordCount: 4636
 readTime: 23
 subcategory: NT Christology
 series: Gospel Studies
-part: Revisiting the Omniscience of the Lord Jesus Christ – A Mark
+part: 1
 ---
 
 **Revisiting the Omniscience of the Lord Jesus Christ**

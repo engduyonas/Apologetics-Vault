@@ -7,7 +7,7 @@ wordCount: 1753
 readTime: 9
 subcategory: Muhammad & Islam
 series: Muslim Studies
-part: 'A Muslim Explains Allah's Repentance'
+part: 1
 ---
 
 #  A Muslim Explains Allah's Repentance

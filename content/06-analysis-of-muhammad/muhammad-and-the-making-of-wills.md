@@ -7,7 +7,7 @@ wordCount: 4889
 readTime: 24
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: Muhammad and the Making of Wills
+part: 4
 ---
 
 ### Muhammad and the Making of Wills

@@ -7,7 +7,7 @@ wordCount: 596
 readTime: 3
 subcategory: Translations
 series: Islam Studies
-part: 'Answering Islam - Arabic: الصفحة الرئيسية'
+part: 1
 ---
 
 # الصفحة الرئيسية

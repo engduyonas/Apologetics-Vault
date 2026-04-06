@@ -7,7 +7,7 @@ wordCount: 1523
 readTime: 8
 subcategory: Trinity & Godhead
 series: Personal Studies
-part: 'OT Proof: Echad Doesn''t Point to God Being Uni-Personal'
+part: 1
 ---
 
 # OT Proof: Echad Doesn't Point to God Being Uni-Personal

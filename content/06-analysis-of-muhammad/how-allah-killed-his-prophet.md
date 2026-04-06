@@ -7,7 +7,7 @@ wordCount: 7948
 readTime: 40
 subcategory: Character & Morality
 series: 'Violence & Warfare'
-part: How Allah killed his prophet
+part: 1
 ---
 
 # How Allah killed his prophet

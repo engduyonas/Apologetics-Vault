@@ -7,7 +7,7 @@ wordCount: 771
 readTime: 4
 subcategory: Christology
 series: Jews Studies
-part: 'Jews, Christians & Prophecies of Muhammad'
+part: 2
 ---
 
 # Jews, Christians & Prophecies of Muhammad

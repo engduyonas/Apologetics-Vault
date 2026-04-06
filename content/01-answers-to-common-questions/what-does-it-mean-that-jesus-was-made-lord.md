@@ -7,7 +7,7 @@ wordCount: 2599
 readTime: 13
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'What does it mean that Jesus was made Lord?'
+part: 6
 ---
 
 **A Series of Answers to Common Questions**

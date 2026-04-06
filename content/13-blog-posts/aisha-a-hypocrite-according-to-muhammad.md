@@ -7,7 +7,7 @@ wordCount: 1346
 readTime: 7
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Aisha: A Hypocrite According to Muhammad'
+part: 2
 ---
 
 # Aisha: A Hypocrite According to Muhammad

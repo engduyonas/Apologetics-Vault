@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/sunna_trumps_quran.htm
 wordCount: 7201
 readTime: 36
 series: Muhammad Studies
-part: 'Meeting the Quranic Challenge: How Muhammad’s Sunna Trumps A'
+part: 1
 ---
 
 ### Meeting the Quranic Challenge

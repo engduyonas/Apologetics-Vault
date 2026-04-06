@@ -7,7 +7,7 @@ wordCount: 2855
 readTime: 14
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'Did Jesus deny the ascension of Elijah and Enoch?'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

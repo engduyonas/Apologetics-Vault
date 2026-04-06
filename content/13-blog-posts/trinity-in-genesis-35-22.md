@@ -7,7 +7,7 @@ wordCount: 2057
 readTime: 10
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: 'Trinity in Genesis 3:5 & 22'
+part: 8
 ---
 
 # Trinity in Genesis 3:5 & 22

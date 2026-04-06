@@ -7,7 +7,7 @@ wordCount: 7065
 readTime: 35
 subcategory: Christology
 series: Deity of Christ
-part: The Slaying of the God-Man
+part: 18
 ---
 
 # The Slaying of the God-Man

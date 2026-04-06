@@ -7,7 +7,7 @@ wordCount: 1263
 readTime: 6
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'Is the Quran Complete?'
+part: 6
 ---
 
 # Is the Quran Complete?

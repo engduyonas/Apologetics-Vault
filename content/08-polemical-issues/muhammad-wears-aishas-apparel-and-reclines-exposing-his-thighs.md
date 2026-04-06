@@ -6,7 +6,7 @@ source: https://answeringislam.info/Responses/Abualrub/mhd_cross_dressing1.htm
 wordCount: 2799
 readTime: 14
 series: Muhammad Studies
-part: Muhammad wears Aisha\x92s apparel and reclines exposing his 
+part: 2
 ---
 
 **Cross Dressing and Islam:**

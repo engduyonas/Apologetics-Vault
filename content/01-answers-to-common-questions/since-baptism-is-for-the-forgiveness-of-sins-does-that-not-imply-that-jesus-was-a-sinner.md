@@ -8,7 +8,7 @@ wordCount: 6329
 readTime: 32
 subcategory: Salvation & Atonement
 series: Sins Studies
-part: 'Since Baptism is "for the forgiveness of sins", does that no'
+part: 4
 ---
 
 **A Series of Answers to Common Questions**

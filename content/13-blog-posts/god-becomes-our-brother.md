@@ -7,7 +7,7 @@ wordCount: 2611
 readTime: 13
 subcategory: General Topics
 series: Becomes Studies
-part: GOD BECOMES OUR BROTHER
+part: 1
 ---
 
 # GOD BECOMES OUR BROTHER

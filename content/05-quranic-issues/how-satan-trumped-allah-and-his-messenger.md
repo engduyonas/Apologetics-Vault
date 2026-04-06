@@ -7,7 +7,7 @@ wordCount: 2009
 readTime: 10
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: 'How Satan Trumped Allah and his "Messenger'
+part: 2
 ---
 
 # How Satan Trumped Allah and his "Messenger"

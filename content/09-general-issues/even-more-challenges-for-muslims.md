@@ -7,7 +7,7 @@ wordCount: 3812
 readTime: 19
 subcategory: Rebuttals & Debates
 series: Challenges Studies
-part: Even More Challenges For Muslims
+part: 1
 ---
 
 ### Some More Open Challenges For Muslims

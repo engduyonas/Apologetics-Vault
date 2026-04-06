@@ -7,7 +7,7 @@ wordCount: 3498
 readTime: 17
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: Christ – The Life-Giver
+part: 4
 ---
 
 # Christ – The Life-Giver

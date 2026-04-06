@@ -7,7 +7,7 @@ wordCount: 4983
 readTime: 25
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: Unveiling Islam’s Real Savior and Middleman
+part: 11
 ---
 
 # Unveiling Islam’s Real Savior and Middleman

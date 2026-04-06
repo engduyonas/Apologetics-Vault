@@ -7,7 +7,7 @@ wordCount: 1063
 readTime: 5
 subcategory: Christology
 series: Jesus Studies
-part: Proving that Jesus is not the Archangel Michael
+part: 30
 ---
 
 # Proving that Jesus is not the Archangel Michael

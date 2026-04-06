@@ -7,7 +7,7 @@ wordCount: 3911
 readTime: 20
 subcategory: Patristic Theology
 series: Tertullian Studies
-part: 'DID TERTULLIAN DENY THE ETERNAL NATURE OF CHRIST?'
+part: 1
 ---
 
 # DID TERTULLIAN DENY THE ETERNAL NATURE OF CHRIST?

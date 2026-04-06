@@ -7,7 +7,7 @@ wordCount: 3632
 readTime: 18
 subcategory: Christology
 series: Jesus Studies
-part: 'Did Jesus Christ Literally Become Sin?'
+part: 3
 ---
 
 # Did Jesus Christ Literally Become Sin?

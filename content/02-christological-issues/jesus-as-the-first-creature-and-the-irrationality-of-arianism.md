@@ -7,7 +7,7 @@ wordCount: 4137
 readTime: 21
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: Jesus as the First Creature and the Irrationality of Arianis
+part: 2
 ---
 
 # Jesus as the First Creature

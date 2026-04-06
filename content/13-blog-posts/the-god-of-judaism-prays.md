@@ -7,7 +7,7 @@ wordCount: 1550
 readTime: 8
 subcategory: General Topics
 series: Judaism Studies
-part: 'THE GOD OF JUDAISM PRAYS?'
+part: 5
 ---
 
 # THE GOD OF JUDAISM PRAYS?

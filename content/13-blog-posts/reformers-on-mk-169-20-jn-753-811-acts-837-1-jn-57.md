@@ -7,7 +7,7 @@ wordCount: 5113
 readTime: 26
 subcategory: Biblical Studies
 series: Acts Studies
-part: 'REFORMERS ON MK. 16:9-20, JN. 7:53-8:11, ACTS 8:37 & 1 JN. 5'
+part: 3
 ---
 
 # REFORMERS ON MK. 16:9-20, JN. 7:53-8:11, ACTS 8:37 & 1 JN. 5:7

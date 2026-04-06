@@ -7,7 +7,7 @@ wordCount: 1766
 readTime: 9
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Muhammad – The Praise of all Creation!?'
+part: 17
 ---
 
 # Muhammad – The Praise of all Creation!?

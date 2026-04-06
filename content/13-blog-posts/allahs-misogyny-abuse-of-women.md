@@ -7,7 +7,7 @@ wordCount: 3684
 readTime: 18
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH’S MISOGYNY & ABUSE OF WOMEN'
+part: 10
 ---
 
 # ALLAH’S MISOGYNY & ABUSE OF WOMEN

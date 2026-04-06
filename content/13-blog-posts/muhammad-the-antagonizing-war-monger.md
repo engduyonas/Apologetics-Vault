@@ -7,7 +7,7 @@ wordCount: 2719
 readTime: 14
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'MUHAMMAD: THE ANTAGONIZING WAR-MONGER'
+part: 10
 ---
 
 # MUHAMMAD: THE ANTAGONIZING WAR-MONGER

@@ -8,7 +8,7 @@ wordCount: 4932
 readTime: 25
 subcategory: General Topics
 series: Islam Studies
-part: 'Islam’s Other god – Part 2: Analyzing the Quran’s Implicit D'
+part: 1
 ---
 
 # Islam’s Other god

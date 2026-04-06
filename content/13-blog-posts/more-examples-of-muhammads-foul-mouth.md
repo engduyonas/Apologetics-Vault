@@ -7,7 +7,7 @@ wordCount: 655
 readTime: 3
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: MORE EXAMPLES OF MUHAMMAD’S FOUL MOUTH
+part: 7
 ---
 
 # MORE EXAMPLES OF MUHAMMAD’S FOUL MOUTH

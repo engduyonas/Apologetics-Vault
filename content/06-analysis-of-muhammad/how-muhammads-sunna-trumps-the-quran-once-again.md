@@ -7,7 +7,7 @@ wordCount: 1063
 readTime: 5
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: 'How Muhammad’s Sunna Trumps The Quran Once Again!'
+part: 3
 ---
 
 # How Muhammad’s Sunna Trumps The Quran Once Again!

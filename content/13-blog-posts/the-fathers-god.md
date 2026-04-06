@@ -7,7 +7,7 @@ wordCount: 3926
 readTime: 20
 subcategory: General Topics
 series: Father Studies
-part: 'THE FATHER’S GOD?'
+part: 7
 ---
 
 # THE FATHER’S GOD?

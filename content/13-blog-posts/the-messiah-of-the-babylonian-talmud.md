@@ -7,7 +7,7 @@ wordCount: 4269
 readTime: 21
 subcategory: Christology
 series: Messiah Studies
-part: THE MESSIAH OF THE BABYLONIAN TALMUD
+part: 10
 ---
 
 # THE MESSIAH OF THE BABYLONIAN TALMUD

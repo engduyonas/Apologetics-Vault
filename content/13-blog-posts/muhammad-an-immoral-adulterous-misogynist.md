@@ -7,7 +7,7 @@ wordCount: 1505
 readTime: 8
 subcategory: Muhammad & Islam
 series: Character
-part: 'MUHAMMAD: AN IMMORAL ADULTEROUS MISOGYNIST'
+part: 1
 ---
 
 # MUHAMMAD: AN IMMORAL ADULTEROUS MISOGYNIST

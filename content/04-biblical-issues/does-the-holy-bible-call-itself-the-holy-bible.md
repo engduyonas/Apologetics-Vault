@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/holy_bible.html
 wordCount: 1754
 readTime: 9
 series: Holy Studies
-part: 'Does the Holy Bible Call Itself the Holy Bible?'
+part: 1
 ---
 
 # Does the Holy Bible Call Itself the Holy Bible?

@@ -7,7 +7,7 @@ wordCount: 8375
 readTime: 42
 subcategory: Messianic Prophecies
 series: 'Isaiah & the Messiah'
-part: The Deity of the Messiah in Isaiah and in light of New Testa
+part: 1
 ---
 
 ## The Deity of the Messiah in Isaiah and in light of New Testament Exegesis

@@ -7,7 +7,7 @@ wordCount: 3250
 readTime: 16
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH: A SCHIZOPHRENIC DEITY WHO WORSHIPS HIMSELF'
+part: 6
 ---
 
 # ALLAH: A SCHIZOPHRENIC DEITY WHO WORSHIPS HIMSELF

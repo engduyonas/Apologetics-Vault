@@ -7,7 +7,7 @@ wordCount: 2238
 readTime: 11
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'Even More Proof Allah Worships Like Muslims!'
+part: 16
 ---
 
 # Even More Proof Allah Worships Like Muslims!

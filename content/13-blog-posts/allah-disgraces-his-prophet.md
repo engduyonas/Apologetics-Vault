@@ -7,7 +7,7 @@ wordCount: 1791
 readTime: 9
 subcategory: Muhammad & Islam
 series: Claims
-part: Allah Disgraces His “Prophet”
+part: 1
 ---
 
 # Allah Disgraces His “Prophet”

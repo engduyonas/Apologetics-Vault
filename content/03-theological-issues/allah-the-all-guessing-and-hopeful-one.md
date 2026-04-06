@@ -7,7 +7,7 @@ wordCount: 5703
 readTime: 29
 subcategory: Nature of Allah
 series: 'Allah & Morality'
-part: Allah - The All Guessing and Hopeful One
+part: 1
 ---
 
 # Allah – The All Guessing and Hopeful One

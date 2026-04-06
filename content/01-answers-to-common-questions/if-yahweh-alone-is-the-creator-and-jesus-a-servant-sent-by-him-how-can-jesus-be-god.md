@@ -8,7 +8,7 @@ wordCount: 1849
 readTime: 9
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'If Yahweh alone is the Creator, and Jesus a servant sent by '
+part: 4
 ---
 
 **A Series of Answers to Common Questions**

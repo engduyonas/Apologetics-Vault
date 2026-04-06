@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/nudity.htm
 wordCount: 3642
 readTime: 18
 series: Muslim Studies
-part: 'Allah and Nudity: Addressing a Typical Muslim Polemic'
+part: 1
 ---
 
 ### Allah and Nudity

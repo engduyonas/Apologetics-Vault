@@ -7,7 +7,7 @@ wordCount: 1320
 readTime: 7
 subcategory: Muhammad & Islam
 series: Islamic Studies
-part: 'ISLAMIC ANAL SEX: A CASE OF DISHONESTY'
+part: 3
 ---
 
 # ISLAMIC ANAL SEX: A CASE OF DISHONESTY

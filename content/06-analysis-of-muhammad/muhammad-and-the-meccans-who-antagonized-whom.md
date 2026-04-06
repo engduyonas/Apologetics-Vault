@@ -7,7 +7,7 @@ wordCount: 9058
 readTime: 45
 subcategory: Character & Morality
 series: Muhammad Studies
-part: 'Muhammad and the Meccans: Who Antagonized Whom?'
+part: 9
 ---
 
 **Muhammad and the Meccans:**

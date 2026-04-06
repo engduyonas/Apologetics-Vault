@@ -7,7 +7,7 @@ wordCount: 2634
 readTime: 13
 subcategory: General Topics
 series: Bible Studies
-part: God’s Love of Gentiles in the Hebrew Bible
+part: 1
 ---
 
 # God’s Love of Gentiles in the Hebrew Bible

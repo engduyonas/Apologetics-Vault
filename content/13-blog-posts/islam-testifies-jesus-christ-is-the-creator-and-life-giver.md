@@ -7,7 +7,7 @@ wordCount: 1022
 readTime: 5
 subcategory: Christology
 series: Jesus Studies
-part: 'ISLAM TESTIFIES: JESUS CHRIST IS THE CREATOR AND LIFE-GIVER'
+part: 7
 ---
 
 # ISLAM TESTIFIES: JESUS CHRIST IS THE CREATOR AND LIFE-GIVER

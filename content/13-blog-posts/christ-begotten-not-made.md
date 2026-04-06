@@ -7,7 +7,7 @@ wordCount: 5320
 readTime: 27
 subcategory: Christology
 series: Christ Studies
-part: 'Christ: Begotten Not Made'
+part: 5
 ---
 
 # Christ: Begotten Not Made

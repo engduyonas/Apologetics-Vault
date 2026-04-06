@@ -7,7 +7,7 @@ wordCount: 2673
 readTime: 13
 subcategory: Character & Morality
 series: Muhammad Studies
-part: 'Did Muhammad Permit Women to be Beaten and Mistreated?'
+part: 2
 ---
 
 # Did Muhammad Permit Women to be Beaten and Mistreated? 

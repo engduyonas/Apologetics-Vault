@@ -7,7 +7,7 @@ wordCount: 6210
 readTime: 31
 subcategory: Theology of the Quran
 series: Allah in the Quran
-part: 'Allah, Adam, and the Angels'
+part: 1
 ---
 
 ### Allah, Adam, and the Angels

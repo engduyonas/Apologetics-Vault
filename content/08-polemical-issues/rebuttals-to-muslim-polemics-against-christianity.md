@@ -6,7 +6,7 @@ source: https://answeringislam.info/Responses/index.htm
 wordCount: 225
 readTime: 1
 series: Muslim Studies
-part: Rebuttals to Muslim Polemics against Christianity
+part: 2
 ---
 
 ###  Rebuttals to Muslim Polemics against Christianity 

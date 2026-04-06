@@ -7,7 +7,7 @@ wordCount: 6577
 readTime: 33
 subcategory: Contradictions & Errors
 series: Islamic Studies
-part: Even More Quranic Fables and Islamic Myths
+part: 1
 ---
 
 ### This Rocks! / Impersonating Solomon?

@@ -7,7 +7,7 @@ wordCount: 2923
 readTime: 15
 subcategory: Christology
 series: Uncreated Studies
-part: THE UNCREATED WORD BECOMES FLESH
+part: 1
 ---
 
 # THE UNCREATED WORD BECOMES FLESH

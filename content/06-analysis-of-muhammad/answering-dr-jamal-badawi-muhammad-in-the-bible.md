@@ -7,7 +7,7 @@ wordCount: 8193
 readTime: 41
 subcategory: Muhammad & Scripture
 series: Muhammad Studies
-part: 'Answering Dr. Jamal Badawi: Muhammad in the Bible'
+part: 1
 ---
 
 **Answering Dr. Jamal Badawi:**

@@ -7,7 +7,7 @@ wordCount: 6434
 readTime: 32
 subcategory: Trinity & Monotheism
 series: Biblical Trinity
-part: The Christianization of the OT Shema
+part: 2
 ---
 
 # The Christianization of the Shema

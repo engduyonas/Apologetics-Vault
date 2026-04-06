@@ -7,7 +7,7 @@ wordCount: 9366
 readTime: 47
 subcategory: Christ's Deity & Identity
 series: 'John & Johannine Theology'
-part: 'The Early Church Fathers On John 8:58'
+part: 4
 ---
 
 # The Early Church Fathers on John 8:58

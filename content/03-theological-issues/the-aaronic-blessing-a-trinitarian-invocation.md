@@ -7,7 +7,7 @@ wordCount: 7323
 readTime: 37
 subcategory: Trinity & Monotheism
 series: Trinitarian Studies
-part: The Aaronic Blessing – A Trinitarian Invocation
+part: 3
 ---
 
 ### The Aaronic Priestly Blessing – A Trinitarian Invocation

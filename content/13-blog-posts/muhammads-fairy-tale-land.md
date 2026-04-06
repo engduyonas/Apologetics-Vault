@@ -7,7 +7,7 @@ wordCount: 2821
 readTime: 14
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: MUHAMMAD’S FAIRY-TALE LAND
+part: 12
 ---
 
 # MUHAMMAD’S FAIRY-TALE LAND

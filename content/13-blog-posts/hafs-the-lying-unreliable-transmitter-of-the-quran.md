@@ -7,7 +7,7 @@ wordCount: 1091
 readTime: 5
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'Hafs: The Lying, Unreliable Transmitter of the Quran'
+part: 5
 ---
 
 # Hafs: The Lying, Unreliable Transmitter of the Quran

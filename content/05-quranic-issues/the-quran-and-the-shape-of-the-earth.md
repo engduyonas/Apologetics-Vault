@@ -7,7 +7,7 @@ wordCount: 8384
 readTime: 42
 subcategory: Contradictions & Errors
 series: Scientific Errors
-part: The Quran and the Shape of the Earth
+part: 1
 ---
 
 ### The Quran and the Shape of the Earth

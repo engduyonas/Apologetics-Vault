@@ -7,7 +7,7 @@ wordCount: 2798
 readTime: 14
 subcategory: Deity of Christ
 series: 'Jesus' Studies'
-part: 'Jesus' Rule and the Father's Authority'
+part: 3
 ---
 
 # If Jesus has it all then where does this leave the Father?

@@ -7,7 +7,7 @@ wordCount: 3532
 readTime: 18
 subcategory: Holy Spirit
 series: Personhood
-part: St. Gregory of Nyssa on the Filioque
+part: 6
 ---
 
 # St. Gregory of Nyssa on the Filioque

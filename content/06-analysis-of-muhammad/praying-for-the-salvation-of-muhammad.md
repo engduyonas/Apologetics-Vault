@@ -7,7 +7,7 @@ wordCount: 9421
 readTime: 47
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: Praying for the Salvation of Muhammad
+part: 7
 ---
 
 # Praying for Muhammad’s Peace and Security

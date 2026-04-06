@@ -7,7 +7,7 @@ wordCount: 3475
 readTime: 17
 subcategory: Holy Spirit
 series: Personhood
-part: 'The Quran Testifies: The Holy Spirit is God!'
+part: 8
 ---
 
 # The Quran Testifies: The Holy Spirit is God!

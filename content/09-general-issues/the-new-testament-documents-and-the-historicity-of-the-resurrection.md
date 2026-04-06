@@ -7,7 +7,7 @@ wordCount: 11870
 readTime: 59
 subcategory: Apologetics & Defense
 series: Historicity Studies
-part: The New Testament Documents and the Historicity of the Resur
+part: 2
 ---
 
 ### The New Testament Documents and the Historicity of the Resurrection

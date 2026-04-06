@@ -7,7 +7,7 @@ wordCount: 4208
 readTime: 21
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: 'Who Are The People That Christ Saves From Their Sins?'
+part: 8
 ---
 
 # Who Are The People That Christ Saves From Their Sins?

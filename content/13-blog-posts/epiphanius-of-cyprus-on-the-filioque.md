@@ -7,7 +7,7 @@ wordCount: 3400
 readTime: 17
 subcategory: Holy Spirit
 series: Personhood
-part: Epiphanius of Cyprus on the Filioque
+part: 3
 ---
 
 # Epiphanius of Cyprus on the Filioque

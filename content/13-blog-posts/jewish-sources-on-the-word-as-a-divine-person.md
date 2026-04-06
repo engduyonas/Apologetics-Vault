@@ -7,7 +7,7 @@ wordCount: 2751
 readTime: 14
 subcategory: General Topics
 series: Divine Studies
-part: JEWISH SOURCES ON THE WORD AS A DIVINE PERSON
+part: 3
 ---
 
 # JEWISH SOURCES ON THE WORD AS A DIVINE PERSON

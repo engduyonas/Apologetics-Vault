@@ -7,7 +7,7 @@ wordCount: 1271
 readTime: 6
 subcategory: General Topics
 series: Father Studies
-part: 'JOSEPH THE FATHER OF MARY?'
+part: 4
 ---
 
 # JOSEPH THE FATHER OF MARY?

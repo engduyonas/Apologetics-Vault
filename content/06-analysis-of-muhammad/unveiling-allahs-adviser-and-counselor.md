@@ -7,7 +7,7 @@ wordCount: 1825
 readTime: 9
 subcategory: Deification of Muhammad
 series: Allah Studies
-part: Unveiling Allah’s Adviser and Counselor
+part: 2
 ---
 
 # Unveiling Allah’s Adviser and Counselor

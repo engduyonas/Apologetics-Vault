@@ -8,7 +8,7 @@ wordCount: 9521
 readTime: 48
 subcategory: Christ's Deity & Identity
 series: Deity Studies
-part: 'Top Ten Reasons Why Shahid's Attacks on Christ's Deity Fail '
+part: 2
 ---
 
 ### Top Ten Reasons Why Shahid's Attacks on Christ's Deity Fail to Accomplish Their Purpose

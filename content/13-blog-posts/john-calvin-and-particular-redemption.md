@@ -7,7 +7,7 @@ wordCount: 5892
 readTime: 29
 subcategory: General Topics
 series: John Studies
-part: John Calvin and Particular Redemption
+part: 3
 ---
 
 # John Calvin and Particular Redemption

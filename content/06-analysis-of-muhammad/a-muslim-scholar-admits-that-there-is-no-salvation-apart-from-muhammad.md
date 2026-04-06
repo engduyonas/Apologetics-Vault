@@ -7,7 +7,7 @@ wordCount: 2480
 readTime: 12
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: A Muslim Scholar Admits That There Is No Salvation Apart Fro
+part: 1
 ---
 
 ### A Muslim Scholar Happily Admits  

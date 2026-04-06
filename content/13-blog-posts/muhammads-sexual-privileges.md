@@ -7,7 +7,7 @@ wordCount: 2795
 readTime: 14
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: Muhammad’s Sexual Privileges
+part: 20
 ---
 
 # Muhammad’s Sexual Privileges

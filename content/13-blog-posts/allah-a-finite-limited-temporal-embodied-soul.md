@@ -7,7 +7,7 @@ wordCount: 6527
 readTime: 33
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'Allah: A Finite, Limited, Temporal Embodied Soul'
+part: 12
 ---
 
 # Allah: A Finite, Limited, Temporal Embodied Soul

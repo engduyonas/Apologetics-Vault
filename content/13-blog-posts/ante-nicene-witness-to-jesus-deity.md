@@ -7,7 +7,7 @@ wordCount: 4954
 readTime: 25
 subcategory: Patristic Theology
 series: Early Church
-part: Ante-Nicene Witness to Jesus’ Deity
+part: 2
 ---
 
 # Ante-Nicene Witness to Jesus’ Deity

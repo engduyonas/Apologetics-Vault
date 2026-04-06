@@ -7,7 +7,7 @@ wordCount: 3701
 readTime: 19
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: Jesus as the Judge of All the Earth
+part: 3
 ---
 
 ### Jesus as the Judge of All the Earth

@@ -7,7 +7,7 @@ wordCount: 5915
 readTime: 30
 subcategory: Shema & Monotheism
 series: 'Monotheism & Plurality'
-part: 'The Dead Sea Scrolls and God’s Uniplurality: Some Observatio'
+part: 1
 ---
 
 ### The Dead Sea Scrolls and God’s Uniplurality

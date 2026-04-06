@@ -7,7 +7,7 @@ wordCount: 3642
 readTime: 18
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: The Calves of the Trinity
+part: 6
 ---
 
 # The Calves of the Trinity

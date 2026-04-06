@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/hadith_cosmology.htm
 wordCount: 3455
 readTime: 17
 series: Hadith Studies
-part: Hadith Cosmology
+part: 1
 ---
 
 ### Hadith Cosmology

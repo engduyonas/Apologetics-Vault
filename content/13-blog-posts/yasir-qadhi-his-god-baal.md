@@ -7,7 +7,7 @@ wordCount: 1956
 readTime: 10
 subcategory: Rebuttals & Debates
 series: Yasir Studies
-part: 'YASIR QADHI & HIS GOD BAAL'
+part: 1
 ---
 
 # YASIR QADHI & HIS GOD BAAL 

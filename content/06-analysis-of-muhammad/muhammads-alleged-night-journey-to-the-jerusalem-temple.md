@@ -7,7 +7,7 @@ wordCount: 3479
 readTime: 17
 subcategory: Character & Morality
 series: 'Muhammad's Studies'
-part: 'Muhammad's Alleged Night Journey to the Jerusalem Temple'
+part: 1
 ---
 
 ### Muhammad's Alleged Night Journey to the Jerusalem Temple

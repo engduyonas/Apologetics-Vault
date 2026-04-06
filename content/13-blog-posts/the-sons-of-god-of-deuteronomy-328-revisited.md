@@ -7,7 +7,7 @@ wordCount: 784
 readTime: 4
 subcategory: Biblical Studies
 series: Revisited Studies
-part: 'The Sons of God of Deuteronomy 32:8 Revisited'
+part: 3
 ---
 
 # The Sons of God of Deuteronomy 32:8 Revisited

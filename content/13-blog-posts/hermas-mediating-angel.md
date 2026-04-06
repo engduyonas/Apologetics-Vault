@@ -7,7 +7,7 @@ wordCount: 1371
 readTime: 7
 subcategory: Patristic Theology
 series: Hermas Studies
-part: Hermas’ Mediating Angel
+part: 2
 ---
 
 # Hermas’ Mediating Angel

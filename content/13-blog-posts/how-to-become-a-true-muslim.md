@@ -7,7 +7,7 @@ wordCount: 1272
 readTime: 6
 subcategory: Muhammad & Islam
 series: Muslim Studies
-part: How to Become a True Muslim
+part: 3
 ---
 
 # How to Become a True Muslim

@@ -4,7 +4,7 @@ slug: revisiting-the-age-of-aisha-postscript
 category: blog-posts
 source: https://www.samshmnthelogy.net/post/revisiting-the-age-of-aisha-postscript
 series: Revisiting the Age of Aisha
-part: postscript
+part: 5
 wordCount: 1050
 readTime: 5
 subcategory: Muhammad & Islam

@@ -7,7 +7,7 @@ wordCount: 2855
 readTime: 14
 subcategory: Nature of Allah
 series: Allah Studies
-part: More proof that Allah worships like his creatures do
+part: 13
 ---
 
 # More proof that Allah worships like his creatures do

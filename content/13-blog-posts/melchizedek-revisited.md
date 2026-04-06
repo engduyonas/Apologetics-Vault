@@ -7,7 +7,7 @@ wordCount: 2633
 readTime: 13
 subcategory: General Topics
 series: Revisited Studies
-part: MELCHIZEDEK REVISITED
+part: 2
 ---
 
 # MELCHIZEDEK REVISITED

@@ -7,7 +7,7 @@ wordCount: 5444
 readTime: 27
 subcategory: Patristic Theology
 series: Deity Studies
-part: Justin Martyr on Christ’s Eternal Deity
+part: 3
 ---
 
 # Justin Martyr on Christ’s Eternal Deity

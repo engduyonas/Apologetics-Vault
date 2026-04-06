@@ -7,7 +7,7 @@ wordCount: 1337
 readTime: 7
 subcategory: Patristic Theology
 series: Early Church
-part: 'Irenaeus, Apostolic Succession & the Roman See'
+part: 3
 ---
 
 # Irenaeus, Apostolic Succession & the Roman See

@@ -8,7 +8,7 @@ wordCount: 9355
 readTime: 47
 subcategory: General Topics
 series: Islam Studies
-part: 'Islam’s Other god – Part 3: Analyzing the Deification of Muh'
+part: 2
 ---
 
 # Islam’s Other god

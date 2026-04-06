@@ -7,7 +7,7 @@ wordCount: 527
 readTime: 3
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH THE FOULMOUTHED!'
+part: 5
 ---
 
 # ALLAH THE FOULMOUTHED!

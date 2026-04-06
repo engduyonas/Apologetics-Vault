@@ -7,7 +7,7 @@ wordCount: 3927
 readTime: 20
 subcategory: Nature of Allah
 series: 'Allah & Deception'
-part: Allah – The Greatest Deceiver of them All
+part: 2
 ---
 
 ### Allah – The Greatest Deceiver of them All

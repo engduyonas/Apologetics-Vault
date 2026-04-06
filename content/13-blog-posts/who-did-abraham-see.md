@@ -7,7 +7,7 @@ wordCount: 2543
 readTime: 13
 subcategory: General Topics
 series: Abraham Studies
-part: 'Who Did Abraham See?'
+part: 2
 ---
 
 # Who Did Abraham See?

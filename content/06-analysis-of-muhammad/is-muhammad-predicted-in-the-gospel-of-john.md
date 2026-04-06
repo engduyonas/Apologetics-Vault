@@ -7,7 +7,7 @@ wordCount: 4544
 readTime: 23
 subcategory: False Prophecies
 series: Failed Predictions
-part: 'Is Muhammad predicted in the Gospel of John?'
+part: 1
 ---
 
 ### Is Muhammad predicted in the Gospel of John?

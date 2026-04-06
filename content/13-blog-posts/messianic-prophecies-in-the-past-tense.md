@@ -7,7 +7,7 @@ wordCount: 891
 readTime: 4
 subcategory: Christology
 series: Messianic Studies
-part: “Messianic Prophecies” in the Past Tense
+part: 3
 ---
 
 # “Messianic Prophecies” in the Past Tense 

@@ -7,7 +7,7 @@ wordCount: 933
 readTime: 5
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: 'The Quran's Implicit Witness to Jesus being the Divine Lord'
+part: 7
 ---
 
 # The Quran Testifies:

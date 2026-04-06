@@ -7,7 +7,7 @@ wordCount: 1095
 readTime: 5
 subcategory: Patristic Theology
 series: Infant Studies
-part: Chrysostom on Infant Baptism
+part: 1
 ---
 
 # Chrysostom on Infant Baptism

@@ -7,7 +7,7 @@ wordCount: 4023
 readTime: 20
 subcategory: Muhammad & Islam
 series: Mormon Studies
-part: MORMON POLYTHEISM REVISITED
+part: 1
 ---
 
 # MORMON POLYTHEISM REVISITED

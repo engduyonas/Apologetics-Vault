@@ -7,7 +7,7 @@ wordCount: 7365
 readTime: 37
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: The Concept of Messiah in the Hebrew Bible and the Quran
+part: 4
 ---
 
 ### The Concept of Messiah in the Hebrew Bible and the Quran

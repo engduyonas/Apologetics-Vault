@@ -7,7 +7,7 @@ wordCount: 5429
 readTime: 27
 subcategory: Christology
 series: Christology Studies
-part: 'PHILIPPIANS 2: AN ADAM CHRISTOLOGY?'
+part: 2
 ---
 
 # PHILIPPIANS 2: AN ADAM CHRISTOLOGY?

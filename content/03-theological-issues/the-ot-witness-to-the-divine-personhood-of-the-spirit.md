@@ -7,7 +7,7 @@ wordCount: 1138
 readTime: 6
 subcategory: Trinity & Monotheism
 series: Biblical Trinity
-part: The OT Witness to the Divine Personhood of the Spirit
+part: 4
 ---
 
 ### Scholarly Confirmation that the OT Testifies  

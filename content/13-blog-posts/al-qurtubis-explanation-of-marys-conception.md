@@ -7,7 +7,7 @@ wordCount: 666
 readTime: 3
 subcategory: General Topics
 series: Mary Studies
-part: Al-Qurtubi’s Explanation of Mary’s Conception
+part: 1
 ---
 
 # Al-Qurtubi’s Explanation of Mary’s Conception

@@ -7,7 +7,7 @@ wordCount: 1253
 readTime: 6
 subcategory: Biblical Studies
 series: Bible Studies
-part: 'Bible Error: How Old was Ahaziah?'
+part: 2
 ---
 
 # Bible Error: How Old was Ahaziah?

@@ -7,7 +7,7 @@ wordCount: 8219
 readTime: 41
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: Jesus is Yahweh
+part: 4
 ---
 
 ### JESUS IS YAHWEH

@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/obey_ot.htm
 wordCount: 1478
 readTime: 7
 series: Islam Studies
-part: 'Jewish and Christian Converts to Islam: Some Questions for M'
+part: 5
 ---
 
 ### Jewish and Christian Converts to Islam

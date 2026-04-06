@@ -8,7 +8,7 @@ wordCount: 5073
 readTime: 25
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'Islam’s Unjust Punishments: \nExamining the Quran’s Ruling o'
+part: 3
 ---
 
 ### Islam’s Unjust Punishments

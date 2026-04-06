@@ -7,7 +7,7 @@ wordCount: 4963
 readTime: 25
 subcategory: General Topics
 series: Heavenly Studies
-part: The 9 Choirs of Heavenly Creatures
+part: 2
 ---
 
 # The 9 Choirs of Heavenly Creatures

@@ -7,7 +7,7 @@ wordCount: 251
 readTime: 1
 subcategory: Translations
 series: Islam Studies
-part: 'Answering Islam, Ответ исламу: христианско-мусульманский диа'
+part: 6
 ---
 
 ### Добро пожаловать на русские страницы Answering Islam!

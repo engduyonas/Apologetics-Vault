@@ -8,7 +8,7 @@ wordCount: 13202
 readTime: 66
 subcategory: Trinity & Monotheism
 series: Monotheism Studies
-part: 'Islam and Monotheism: Reassessing Muslim Claims Regarding th'
+part: 1
 ---
 
 ### Islam and Monotheism

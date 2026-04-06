@@ -7,7 +7,7 @@ wordCount: 12924
 readTime: 65
 subcategory: Apologetics & Defense
 series: Christian Studies
-part: Christian Answers to Muslim Charges
+part: 4
 ---
 
 ## Christian Answers to Muslim Charges

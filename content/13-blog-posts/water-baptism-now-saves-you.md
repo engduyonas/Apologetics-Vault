@@ -7,7 +7,7 @@ wordCount: 2942
 readTime: 15
 subcategory: Atonement & Salvation
 series: Baptism Studies
-part: 'Water Baptism Now Saves You!'
+part: 3
 ---
 
 # Water Baptism Now Saves You!

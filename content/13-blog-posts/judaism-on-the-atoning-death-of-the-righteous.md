@@ -7,7 +7,7 @@ wordCount: 5880
 readTime: 29
 subcategory: General Topics
 series: Judaism Studies
-part: Judaism on the Atoning Death of the Righteous
+part: 2
 ---
 
 # Judaism on the Atoning Death of the Righteous

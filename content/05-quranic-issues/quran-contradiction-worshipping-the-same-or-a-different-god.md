@@ -7,7 +7,7 @@ wordCount: 1643
 readTime: 8
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Quran Contradiction: Worshipping the Same or a Different God'
+part: 10
 ---
 
 **Muhammad and the Unbelievers:**

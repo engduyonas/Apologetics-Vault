@@ -7,7 +7,7 @@ wordCount: 2449
 readTime: 12
 subcategory: Textual History
 series: Quranic Studies
-part: The Seven Ahruf and Multiple Qiraat – A Quranic Perspective
+part: 2
 ---
 
 # The Seven Ahruf and Multiple Qiraat – A Quranic Perspective

@@ -7,7 +7,7 @@ wordCount: 7002
 readTime: 35
 subcategory: Christology
 series: Deity of Christ
-part: 'Paradoxical God-Man: Does He Know or Not?'
+part: 16
 ---
 
 # Paradoxical God-Man: Does He Know or Not?

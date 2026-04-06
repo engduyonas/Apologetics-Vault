@@ -7,7 +7,7 @@ wordCount: 374
 readTime: 2
 subcategory: Atonement & Salvation
 series: Pistis Studies
-part: Pistis = Faithfulness
+part: 2
 ---
 
 # Pistis = Faithfulness

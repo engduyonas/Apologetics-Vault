@@ -4,7 +4,7 @@ slug: muhammad-and-wife-beating-postscript
 category: analysis-of-muhammad
 source: https://answeringislam.info/authors/shamoun/wife_beating_ps.html
 series: Muhammad and Wife Beating
-part: postscript
+part: 4
 wordCount: 612
 readTime: 3
 subcategory: Muhammad's Wives & Marriages

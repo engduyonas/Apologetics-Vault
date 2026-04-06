@@ -7,7 +7,7 @@ wordCount: 1963
 readTime: 10
 subcategory: Christology
 series: Jews Studies
-part: 'ALLAH TORTURES JEWS & CHRISTIANS IN PLACE OF MUSLIMS￼'
+part: 1
 ---
 
 # ALLAH TORTURES JEWS & CHRISTIANS IN PLACE OF MUSLIMS￼

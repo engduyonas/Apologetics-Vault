@@ -7,7 +7,7 @@ wordCount: 1315
 readTime: 7
 subcategory: Biblical Studies
 series: Revisited Studies
-part: Isaiah 42 Revisited
+part: 2
 ---
 
 # Isaiah 42 Revisited 

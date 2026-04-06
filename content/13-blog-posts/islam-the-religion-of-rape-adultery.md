@@ -7,7 +7,7 @@ wordCount: 897
 readTime: 4
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: 'ISLAM: THE RELIGION OF RAPE & ADULTERY'
+part: 5
 ---
 
 # ISLAM: THE RELIGION OF RAPE & ADULTERY

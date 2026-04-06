@@ -7,7 +7,7 @@ wordCount: 4144
 readTime: 21
 subcategory: Christology
 series: Quran Studies
-part: The Quran’s Confirmation of the Judeo-Christian Scriptures
+part: 2
 ---
 
 # The Quran’s Confirmation of the Judeo-Christian Scriptures

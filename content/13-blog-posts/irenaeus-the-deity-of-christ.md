@@ -7,7 +7,7 @@ wordCount: 9504
 readTime: 48
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'IRENAEUS & THE DEITY OF CHRIST'
+part: 2
 ---
 
 # IRENAEUS & THE DEITY OF CHRIST

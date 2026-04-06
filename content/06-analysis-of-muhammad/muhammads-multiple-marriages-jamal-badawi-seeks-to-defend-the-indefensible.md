@@ -7,7 +7,7 @@ wordCount: 6848
 readTime: 34
 subcategory: Muhammad's Wives & Marriages
 series: Multiple Wives
-part: 'Muhammad’s Multiple Marriages: Jamal Badawi Seeks to Defend '
+part: 4
 ---
 
 ### Muhammad’s Multiple Marriages

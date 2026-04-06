@@ -7,7 +7,7 @@ wordCount: 3706
 readTime: 19
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: 'Is Jesus Really Like Adam After All?'
+part: 1
 ---
 
 # Is Jesus Really Like Adam After All?

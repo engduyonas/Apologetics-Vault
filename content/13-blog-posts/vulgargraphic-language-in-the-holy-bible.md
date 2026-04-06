@@ -7,7 +7,7 @@ wordCount: 3940
 readTime: 20
 subcategory: Biblical Studies
 series: Bible Studies
-part: Vulgar/Graphic Language in the Holy Bible
+part: 3
 ---
 
 # Vulgar/Graphic Language in the Holy Bible

@@ -7,7 +7,7 @@ wordCount: 3342
 readTime: 17
 subcategory: Holy Spirit
 series: Personhood
-part: St. Cyril on the Filioque
+part: 5
 ---
 
 # St. Cyril on the Filioque

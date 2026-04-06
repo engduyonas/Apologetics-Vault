@@ -7,7 +7,7 @@ wordCount: 6342
 readTime: 32
 subcategory: General Topics
 series: Rabbinic Studies
-part: 'A RABBINIC PROBLEM: SEEING THE GOD OF ISRAEL'
+part: 1
 ---
 
 # A RABBINIC PROBLEM: SEEING THE GOD OF ISRAEL

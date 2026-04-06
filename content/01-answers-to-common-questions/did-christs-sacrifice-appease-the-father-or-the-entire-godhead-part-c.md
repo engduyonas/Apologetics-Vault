@@ -4,7 +4,7 @@ slug: did-christs-sacrifice-appease-the-father-or-the-entire-godhead-part-c
 category: answers-to-common-questions
 source: https://answeringislam.info/authors/shamoun/qa/appease_c.html
 series: Did Christ's Sacrifice Appease the Father or the entire Godhead?
-part: C
+part: 3
 wordCount: 3715
 readTime: 19
 subcategory: Salvation & Atonement

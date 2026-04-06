@@ -7,7 +7,7 @@ wordCount: 6632
 readTime: 33
 subcategory: Character & Morality
 series: 'Honesty & Integrity'
-part: Evidence for Muhammad Being Deceived
+part: 1
 ---
 
 ### Examining Some More Evidence for Muhammad Being Deceived

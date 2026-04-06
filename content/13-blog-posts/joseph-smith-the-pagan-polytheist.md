@@ -7,7 +7,7 @@ wordCount: 3712
 readTime: 19
 subcategory: General Topics
 series: Joseph Studies
-part: 'Joseph Smith: The Pagan Polytheist'
+part: 2
 ---
 
 # Joseph Smith: The Pagan Polytheist

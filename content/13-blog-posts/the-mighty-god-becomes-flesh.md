@@ -7,7 +7,7 @@ wordCount: 1899
 readTime: 9
 subcategory: General Topics
 series: Becomes Studies
-part: 'The Mighty God Becomes Flesh!'
+part: 2
 ---
 
 # The Mighty God Becomes Flesh!

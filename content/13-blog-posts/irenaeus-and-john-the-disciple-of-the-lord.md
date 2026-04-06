@@ -7,7 +7,7 @@ wordCount: 7087
 readTime: 35
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'Irenaeus and John, the disciple of the Lord'
+part: 3
 ---
 
 # Irenaeus and John, the disciple of the Lord

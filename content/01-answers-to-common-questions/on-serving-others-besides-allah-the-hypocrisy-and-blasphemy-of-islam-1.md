@@ -7,7 +7,7 @@ wordCount: 10102
 readTime: 51
 subcategory: Bible & Quran
 series: Others Studies
-part: On Serving Others Besides Allah — The Hypocrisy and Blasphem
+part: 2
 ---
 
 ### On Serving Others Besides Allah

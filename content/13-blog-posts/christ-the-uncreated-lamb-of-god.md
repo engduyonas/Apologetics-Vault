@@ -7,7 +7,7 @@ wordCount: 1762
 readTime: 9
 subcategory: Christology
 series: Deity of Christ
-part: 'Christ: The Uncreated Lamb of God'
+part: 9
 ---
 
 # Christ: The Uncreated Lamb of God

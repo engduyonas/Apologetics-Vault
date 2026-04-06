@@ -7,7 +7,7 @@ wordCount: 8533
 readTime: 43
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Contradictions in the Qur''an : Messengers Amongst the Jinns'
+part: 2
 ---
 
 **Qur'an Contradiction:**

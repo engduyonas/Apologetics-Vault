@@ -7,7 +7,7 @@ wordCount: 2967
 readTime: 15
 subcategory: Christology
 series: Jesus Studies
-part: Jesus and the Mysteries of Kabbalah
+part: 25
 ---
 
 # Jesus and the Mysteries of Kabbalah

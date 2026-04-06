@@ -7,7 +7,7 @@ wordCount: 4342
 readTime: 22
 subcategory: Christology
 series: Jesus Studies
-part: 'JESUS CHRIST: SUPREME OVER ALL CREATION'
+part: 12
 ---
 
 # JESUS CHRIST: SUPREME OVER ALL CREATION

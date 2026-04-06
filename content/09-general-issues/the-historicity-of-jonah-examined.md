@@ -7,7 +7,7 @@ wordCount: 7550
 readTime: 38
 subcategory: Apologetics & Defense
 series: Historicity Studies
-part: The Historicity of Jonah Examined
+part: 1
 ---
 
 **The Historicity of Jonah Examined**

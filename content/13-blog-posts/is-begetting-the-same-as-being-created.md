@@ -7,7 +7,7 @@ wordCount: 5591
 readTime: 28
 subcategory: General Topics
 series: Same Studies
-part: 'IS BEGETTING THE SAME AS BEING CREATED?￼'
+part: 2
 ---
 
 # IS BEGETTING THE SAME AS BEING CREATED?￼

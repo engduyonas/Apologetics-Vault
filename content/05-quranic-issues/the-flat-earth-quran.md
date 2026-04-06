@@ -7,7 +7,7 @@ wordCount: 3953
 readTime: 20
 subcategory: Theology of the Quran
 series: Quran Studies
-part: The Flat Earth Quran
+part: 7
 ---
 
 # The Flat Earth Quran Revisited

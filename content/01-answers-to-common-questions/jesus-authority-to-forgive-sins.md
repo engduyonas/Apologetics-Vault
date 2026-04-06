@@ -7,7 +7,7 @@ wordCount: 5916
 readTime: 30
 subcategory: Salvation & Atonement
 series: Sins Studies
-part: 'Jesus' Authority To Forgive Sins'
+part: 3
 ---
 
 **Jesus' Authority To Forgive Sins**

@@ -7,7 +7,7 @@ wordCount: 5239
 readTime: 26
 subcategory: Biblical Studies
 series: Revisited Studies
-part: GOD’S SON IN TARGUM NEOFITI REVISITED￼
+part: 1
 ---
 
 # GOD’S SON IN TARGUM NEOFITI REVISITED￼

@@ -7,7 +7,7 @@ wordCount: 7691
 readTime: 38
 subcategory: Christology
 series: Messianic Studies
-part: Messianic Prophecy in light Muhammadan Polemics
+part: 2
 ---
 
 # Messianic Prophecy in light Muhammadan Polemics

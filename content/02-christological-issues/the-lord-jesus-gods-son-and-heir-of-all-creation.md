@@ -7,7 +7,7 @@ wordCount: 3269
 readTime: 16
 subcategory: General Topics
 series: Jesus Studies
-part: 'The Lord Jesus: God’s Son and Heir of All Creation'
+part: 3
 ---
 
 ### The Lord Jesus:  

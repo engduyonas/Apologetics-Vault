@@ -7,7 +7,7 @@ wordCount: 5081
 readTime: 25
 subcategory: Rebuttals & Debates
 series: Challenge Studies
-part: Open Challenge to Muslims
+part: 2
 ---
 
 ### Open Challenge to Muslims

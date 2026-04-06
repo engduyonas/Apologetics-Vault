@@ -7,7 +7,7 @@ wordCount: 3250
 readTime: 16
 subcategory: Christology
 series: Jesus Studies
-part: A MESSIANIC SCHOLAR ON JESUS’ VIRGIN BIRTH
+part: 1
 ---
 
 # A MESSIANIC SCHOLAR ON JESUS’ VIRGIN BIRTH

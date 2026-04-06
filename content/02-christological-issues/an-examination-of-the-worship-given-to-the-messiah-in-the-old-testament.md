@@ -7,7 +7,7 @@ wordCount: 2211
 readTime: 11
 subcategory: Worship of Christ
 series: OT Worship
-part: An Examination of the Worship Given to the Messiah in the Ol
+part: 1
 ---
 
 ### "All the Nations will serve Him"

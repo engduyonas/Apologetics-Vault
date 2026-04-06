@@ -7,7 +7,7 @@ wordCount: 8443
 readTime: 42
 subcategory: Patristic Theology
 series: Jesus Studies
-part: 'Jesus’ Relatives, NT Canon, Clement, Bishops & Miracles'
+part: 1
 ---
 
 # Jesus’ Relatives, NT Canon, Clement, Bishops & Miracles

@@ -7,7 +7,7 @@ wordCount: 14028
 readTime: 70
 subcategory: Christology
 series: Messiah Studies
-part: MESSIAH OF THE MIDRASHIC PSALMS
+part: 5
 ---
 
 # MESSIAH OF THE MIDRASHIC PSALMS

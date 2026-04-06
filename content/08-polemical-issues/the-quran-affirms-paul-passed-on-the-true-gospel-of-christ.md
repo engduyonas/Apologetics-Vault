@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/quran_affirms_paul.htm
 wordCount: 3629
 readTime: 18
 series: Quran Studies
-part: 'The Quran Affirms: Paul Passed On The True Gospel of Christ'
+part: 1
 ---
 
 **The Quran Affirms:**

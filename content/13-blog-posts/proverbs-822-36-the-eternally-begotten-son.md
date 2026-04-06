@@ -7,7 +7,7 @@ wordCount: 3182
 readTime: 16
 subcategory: General Topics
 series: Eternally Studies
-part: 'PROVERBS 8:22-36: THE ETERNALLY BEGOTTEN SON'
+part: 2
 ---
 
 # PROVERBS 8:22-36: THE ETERNALLY BEGOTTEN SON

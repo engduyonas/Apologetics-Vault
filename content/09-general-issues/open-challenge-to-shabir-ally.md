@@ -7,7 +7,7 @@ wordCount: 309
 readTime: 2
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: Open Challenge to Shabir Ally
+part: 1
 ---
 
 ## OPEN CHALLENGE TO SHABIR ALLY

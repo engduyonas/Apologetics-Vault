@@ -7,7 +7,7 @@ wordCount: 907
 readTime: 5
 subcategory: General Topics
 series: Faith Studies
-part: Exploring the Intersection of Faith and Reason
+part: 1
 ---
 
 # Exploring the Intersection of Faith and Reason

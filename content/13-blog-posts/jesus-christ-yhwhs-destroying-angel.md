@@ -7,7 +7,7 @@ wordCount: 1844
 readTime: 9
 subcategory: Christology
 series: Jesus Studies
-part: 'Jesus Christ: YHWH’s Destroying Angel'
+part: 24
 ---
 
 # Jesus Christ: YHWH’s Destroying Angel

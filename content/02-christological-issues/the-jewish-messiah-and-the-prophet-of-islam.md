@@ -7,7 +7,7 @@ wordCount: 20827
 readTime: 104
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: The Jewish Messiah And The Prophet of Islam
+part: 6
 ---
 
 # The Jewish Messiah And The Prophet of Islam

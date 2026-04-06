@@ -7,7 +7,7 @@ source: https://answeringislam.info/Shamoun/filial_terms.htm
 wordCount: 3092
 readTime: 15
 series: Quran Studies
-part: 'The Quran’s Use of Filial Terms: A Critique of Muslim Argume'
+part: 3
 ---
 
 ### The Quran’s Use of Filial Terms

@@ -7,7 +7,7 @@ wordCount: 1456
 readTime: 7
 subcategory: Church & Sacraments
 series: Mary Studies
-part: 'MARY: ISRAEL PERSONIFIED'
+part: 2
 ---
 
 # MARY: ISRAEL PERSONIFIED

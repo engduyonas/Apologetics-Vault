@@ -7,7 +7,7 @@ wordCount: 3582
 readTime: 18
 subcategory: General Topics
 series: Faith Studies
-part: SAVING FAITH = OBEDIENCE
+part: 2
 ---
 
 # SAVING FAITH = OBEDIENCE

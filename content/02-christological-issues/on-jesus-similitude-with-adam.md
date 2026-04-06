@@ -7,7 +7,7 @@ wordCount: 3336
 readTime: 17
 subcategory: Christ's Deity & Identity
 series: Jesus Studies
-part: On Jesus’ Similitude with Adam
+part: 7
 ---
 
 # On Jesus’ Similitude with Adam 

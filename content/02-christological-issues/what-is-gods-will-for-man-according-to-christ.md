@@ -7,7 +7,7 @@ wordCount: 3512
 readTime: 18
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: 'What is God’s Will for Man According to Christ?'
+part: 7
 ---
 
 # What is God’s Will for Man According to Christ?

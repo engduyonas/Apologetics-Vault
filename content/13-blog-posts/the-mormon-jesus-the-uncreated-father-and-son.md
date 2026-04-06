@@ -7,7 +7,7 @@ wordCount: 5101
 readTime: 26
 subcategory: Christology
 series: Jesus Studies
-part: 'The Mormon Jesus: The Uncreated Father and Son?'
+part: 35
 ---
 
 # The Mormon Jesus: The Uncreated Father and Son?

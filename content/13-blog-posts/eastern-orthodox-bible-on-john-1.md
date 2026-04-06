@@ -7,7 +7,7 @@ wordCount: 1418
 readTime: 7
 subcategory: Church & Sacraments
 series: John Studies
-part: Eastern Orthodox Bible on John 1
+part: 2
 ---
 
 # Eastern Orthodox Bible on John 1

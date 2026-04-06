@@ -7,7 +7,7 @@ wordCount: 2052
 readTime: 10
 subcategory: Muhammad & Islam
 series: Mormon Studies
-part: The Mormon Dilemma
+part: 4
 ---
 
 # The Mormon Dilemma

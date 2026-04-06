@@ -7,7 +7,7 @@ wordCount: 3112
 readTime: 16
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: 'A Muslim's Objections To The Trinity'
+part: 1
 ---
 
 # Trinity in the Holy Bible Pt. 1

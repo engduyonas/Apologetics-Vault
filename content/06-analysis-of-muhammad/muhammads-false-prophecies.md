@@ -7,7 +7,7 @@ wordCount: 7998
 readTime: 40
 subcategory: False Prophecies
 series: Failed Predictions
-part: 'Muhammad's False Prophecies'
+part: 2
 ---
 
 ### Muhammad's False Prophecies

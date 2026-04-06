@@ -7,7 +7,7 @@ wordCount: 6314
 readTime: 32
 subcategory: General Topics
 series: Heavenly Studies
-part: 'A SQUEAKY THRONE, AN ANCIENT WHALE & HEAVENLY GOATS'
+part: 1
 ---
 
 # A SQUEAKY THRONE, AN ANCIENT WHALE & HEAVENLY GOATS

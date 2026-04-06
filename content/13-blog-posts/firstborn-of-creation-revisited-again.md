@@ -7,7 +7,7 @@ wordCount: 3927
 readTime: 20
 subcategory: General Topics
 series: Revisited Studies
-part: 'FIRSTBORN OF CREATION REVISITED… AGAIN!'
+part: 1
 ---
 
 # FIRSTBORN OF CREATION REVISITED… AGAIN!

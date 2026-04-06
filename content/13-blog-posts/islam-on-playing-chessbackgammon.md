@@ -7,7 +7,7 @@ wordCount: 424
 readTime: 2
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: Islam on Playing Chess/Backgammon
+part: 7
 ---
 
 # Islam on Playing Chess/Backgammon

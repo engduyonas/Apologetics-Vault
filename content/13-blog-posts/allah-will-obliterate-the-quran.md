@@ -7,7 +7,7 @@ wordCount: 1350
 readTime: 7
 subcategory: Quranic Analysis
 series: Quran Studies
-part: Allah Will Obliterate the Quran
+part: 4
 ---
 
 # Allah Will Obliterate the Quran

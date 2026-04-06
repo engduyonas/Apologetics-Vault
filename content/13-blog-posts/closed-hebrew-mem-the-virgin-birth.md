@@ -7,7 +7,7 @@ wordCount: 1904
 readTime: 10
 subcategory: Biblical Studies
 series: Birth Studies
-part: 'Closed Hebrew Mem & the Virgin Birth'
+part: 1
 ---
 
 # Closed Hebrew Mem & the Virgin Birth

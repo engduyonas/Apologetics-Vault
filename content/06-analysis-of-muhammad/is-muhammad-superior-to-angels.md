@@ -7,7 +7,7 @@ wordCount: 4517
 readTime: 23
 subcategory: Deification of Muhammad
 series: Muhammad Studies
-part: 'Is Muhammad Superior to Angels?'
+part: 1
 ---
 
 ### Is Muhammad Superior to Angels?

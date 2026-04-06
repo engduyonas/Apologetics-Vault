@@ -7,7 +7,7 @@ wordCount: 1097
 readTime: 5
 subcategory: General Topics
 series: Theology Studies
-part: Understanding Core Concepts in Theology Today
+part: 3
 ---
 
 # Understanding Core Concepts in Theology Today

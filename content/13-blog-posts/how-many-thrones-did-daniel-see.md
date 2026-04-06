@@ -7,7 +7,7 @@ wordCount: 3941
 readTime: 20
 subcategory: General Topics
 series: Daniel Studies
-part: 'How Many Thrones Did Daniel See?'
+part: 2
 ---
 
 # How Many Thrones Did Daniel See?

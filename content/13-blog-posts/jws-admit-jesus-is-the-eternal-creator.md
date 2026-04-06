@@ -7,7 +7,7 @@ wordCount: 631
 readTime: 3
 subcategory: Christology
 series: Jesus Studies
-part: 'JWS ADMIT: JESUS IS THE ETERNAL CREATOR!'
+part: 18
 ---
 
 # JWS ADMIT: JESUS IS THE ETERNAL CREATOR!

@@ -7,7 +7,7 @@ wordCount: 2632
 readTime: 13
 subcategory: Rebuttals & Debates
 series: Yasir Studies
-part: 'YASIR QADHI’S GOD UNVEILED!'
+part: 2
 ---
 
 # YASIR QADHI’S GOD UNVEILED!

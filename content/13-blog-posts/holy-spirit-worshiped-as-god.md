@@ -7,7 +7,7 @@ wordCount: 8415
 readTime: 42
 subcategory: Holy Spirit
 series: Deity
-part: HOLY SPIRIT WORSHIPED AS GOD
+part: 1
 ---
 
 # HOLY SPIRIT WORSHIPED AS GOD

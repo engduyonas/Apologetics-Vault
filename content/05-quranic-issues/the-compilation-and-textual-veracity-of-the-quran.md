@@ -7,7 +7,7 @@ wordCount: 13353
 readTime: 67
 subcategory: Textual History
 series: Quran Studies
-part: The Compilation and Textual Veracity of the Quran
+part: 2
 ---
 
 # The Compilation of the Qur'an

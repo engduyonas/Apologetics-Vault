@@ -7,7 +7,7 @@ wordCount: 219
 readTime: 1
 subcategory: Translations
 series: Islam Studies
-part: 'Answering Islam - Bosnian: Bosanski'
+part: 2
 ---
 
 # Kršćanski-Muslimanski Dijalog

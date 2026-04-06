@@ -8,7 +8,7 @@ wordCount: 7890
 readTime: 39
 subcategory: Textual History
 series: Quran Studies
-part: 'The Composition of the Quran in Stages: How the Wives of Muh'
+part: 3
 ---
 
 **The Composition of the Quran in Stages  

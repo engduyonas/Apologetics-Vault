@@ -7,7 +7,7 @@ wordCount: 1571
 readTime: 8
 subcategory: Nature of Allah
 series: Allah Studies
-part: The (In)Justice of Allah Examined
+part: 14
 ---
 
 ### The (In)Justice of Allah Examined

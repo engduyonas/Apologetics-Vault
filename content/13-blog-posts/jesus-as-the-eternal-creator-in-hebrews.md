@@ -7,7 +7,7 @@ wordCount: 3578
 readTime: 18
 subcategory: Christology
 series: Jesus Studies
-part: JESUS AS THE ETERNAL CREATOR IN HEBREWS
+part: 8
 ---
 
 # JESUS AS THE ETERNAL CREATOR IN HEBREWS

@@ -7,7 +7,7 @@ wordCount: 2857
 readTime: 14
 subcategory: Rebuttals & Debates
 series: Challenge Studies
-part: 'The Challenge (Paul's alleged distortion of the Torah)'
+part: 3
 ---
 
 ### The Challenge

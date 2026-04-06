@@ -7,7 +7,7 @@ wordCount: 2556
 readTime: 13
 subcategory: Christology
 series: Deity of Christ
-part: 'Christ: The Visible Shape of God'
+part: 10
 ---
 
 # Christ: The Visible Shape of God

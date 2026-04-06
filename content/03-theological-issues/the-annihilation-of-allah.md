@@ -7,7 +7,7 @@ wordCount: 1062
 readTime: 5
 subcategory: Nature of Allah
 series: Allah Studies
-part: The Annihilation of Allah
+part: 16
 ---
 
 ### The Annihilation of Allah

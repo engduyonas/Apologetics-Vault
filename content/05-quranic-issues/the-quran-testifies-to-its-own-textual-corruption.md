@@ -7,7 +7,7 @@ wordCount: 4062
 readTime: 20
 subcategory: Quran & the Bible
 series: Quran Studies
-part: The Quran Testifies To Its Own Textual Corruption
+part: 4
 ---
 
 # The Quran Testifies To Its Own Textual Corruption

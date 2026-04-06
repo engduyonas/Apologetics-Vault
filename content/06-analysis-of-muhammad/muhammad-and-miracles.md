@@ -7,7 +7,7 @@ wordCount: 5931
 readTime: 30
 subcategory: Muhammad & Scripture
 series: Muhammad Studies
-part: Muhammad and Miracles
+part: 3
 ---
 
 ### Muhammad and Miracles

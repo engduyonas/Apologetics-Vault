@@ -7,7 +7,7 @@ wordCount: 3685
 readTime: 18
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: 'The Muhammadan Fraud That Was Ahmed Deedat: Which Quran?'
+part: 5
 ---
 
 # The Muhammadan Fraud That Was Ahmed Deedat: Which Quran?

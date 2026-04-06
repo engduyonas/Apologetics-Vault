@@ -8,7 +8,7 @@ wordCount: 9723
 readTime: 49
 subcategory: Worship of Christ
 series: NT Worship
-part: 'The New Testament on the Worship given to Jesus: \nIts Signi'
+part: 3
 ---
 
 ## The New Testament on the Worship given to Jesus

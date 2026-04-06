@@ -7,7 +7,7 @@ wordCount: 5686
 readTime: 28
 subcategory: Christ's Deity & Identity
 series: Eternal Sonship
-part: 'The Sonship of Christ: Eternal or Temporal?'
+part: 1
 ---
 
 ## The Sonship of Christ: Eternal or Temporal?

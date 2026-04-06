@@ -7,7 +7,7 @@ wordCount: 2832
 readTime: 14
 subcategory: General Topics
 series: John Studies
-part: Philo’s and John’s Logos
+part: 4
 ---
 
 # Philo’s and John’s Logos

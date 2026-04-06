@@ -7,7 +7,7 @@ wordCount: 4501
 readTime: 23
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'TALKING QURAN: IBN FAROOQ’S LIES EXPOSED'
+part: 9
 ---
 
 # TALKING QURAN: IBN FAROOQ’S LIES EXPOSED

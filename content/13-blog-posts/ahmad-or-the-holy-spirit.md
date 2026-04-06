@@ -7,7 +7,7 @@ wordCount: 2456
 readTime: 12
 subcategory: Holy Spirit
 series: Personhood
-part: 'AHMAD OR THE HOLY SPIRIT?'
+part: 1
 ---
 
 # AHMAD OR THE HOLY SPIRIT?

@@ -7,7 +7,7 @@ wordCount: 3623
 readTime: 18
 subcategory: Quran Stories & Figures
 series: Allah Studies
-part: Pharaoh - Another Lord and King Besides Allah
+part: 1
 ---
 
 # Pharaoh – Another Lord and King Besides Allah

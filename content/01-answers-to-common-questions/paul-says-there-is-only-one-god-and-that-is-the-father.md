@@ -7,7 +7,7 @@ wordCount: 4926
 readTime: 25
 subcategory: Deity of Christ
 series: Only Studies
-part: Paul says there is only one God and that is the Father ...
+part: 2
 ---
 
 **A Series of Answers to Common Questions**

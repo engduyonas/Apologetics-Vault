@@ -7,7 +7,7 @@ wordCount: 5712
 readTime: 29
 subcategory: Church & Sacraments
 series: Christ Studies
-part: 'Catechism, Hypostatic Union, Theosis, Christ’s Mediation & C'
+part: 1
 ---
 
 # Catechism, Hypostatic Union, Theosis, Christ’s Mediation & Communion of Saints

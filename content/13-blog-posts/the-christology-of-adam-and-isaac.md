@@ -7,7 +7,7 @@ wordCount: 2552
 readTime: 13
 subcategory: Christology
 series: Christology Studies
-part: THE CHRISTOLOGY OF ADAM AND ISAAC
+part: 3
 ---
 
 # THE CHRISTOLOGY OF ADAM AND ISAAC

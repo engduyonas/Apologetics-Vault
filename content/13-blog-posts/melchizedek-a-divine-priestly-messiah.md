@@ -7,7 +7,7 @@ wordCount: 2801
 readTime: 14
 subcategory: Christology
 series: Deity of Christ
-part: 'MELCHIZEDEK: A DIVINE PRIESTLY MESSIAH?'
+part: 13
 ---
 
 # MELCHIZEDEK: A DIVINE PRIESTLY MESSIAH?

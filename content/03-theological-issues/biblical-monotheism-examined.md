@@ -7,7 +7,7 @@ wordCount: 3753
 readTime: 19
 subcategory: Trinity & Monotheism
 series: Biblical Trinity
-part: Biblical Monotheism Examined
+part: 1
 ---
 
 * * *

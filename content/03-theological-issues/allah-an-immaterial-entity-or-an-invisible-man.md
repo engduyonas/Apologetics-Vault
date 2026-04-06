@@ -7,7 +7,7 @@ wordCount: 7496
 readTime: 37
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Allah - An Immaterial Entity or an Invisible Man?'
+part: 1
 ---
 
 ****

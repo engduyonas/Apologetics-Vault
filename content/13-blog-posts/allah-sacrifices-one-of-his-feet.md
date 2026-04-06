@@ -7,7 +7,7 @@ wordCount: 3254
 readTime: 16
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH SACRIFICES ONE OF HIS FEET!￼'
+part: 3
 ---
 
 #  ALLAH SACRIFICES ONE OF HIS FEET!￼

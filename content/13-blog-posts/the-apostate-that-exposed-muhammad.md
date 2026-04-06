@@ -7,7 +7,7 @@ wordCount: 1282
 readTime: 6
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: THE APOSTATE THAT EXPOSED MUHAMMAD
+part: 22
 ---
 
 # THE APOSTATE THAT EXPOSED MUHAMMAD

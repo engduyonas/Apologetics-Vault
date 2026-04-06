@@ -7,7 +7,7 @@ wordCount: 1929
 readTime: 10
 subcategory: Patristic Theology
 series: Origen Studies
-part: 'Augustine, Origen, & Hell'
+part: 2
 ---
 
 # Augustine, Origen, & Hell

@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/yafoor.htm
 wordCount: 4949
 readTime: 25
 series: Islam Studies
-part: The Amazing Fables of Islam
+part: 3
 ---
 
 **Muhammad and his Donkey:**

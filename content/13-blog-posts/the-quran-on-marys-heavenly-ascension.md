@@ -7,7 +7,7 @@ wordCount: 2959
 readTime: 15
 subcategory: Quranic Analysis
 series: Quran Studies
-part: The Quran on Mary’s Heavenly Ascension
+part: 15
 ---
 
 # The Quran on Mary’s Heavenly Ascension

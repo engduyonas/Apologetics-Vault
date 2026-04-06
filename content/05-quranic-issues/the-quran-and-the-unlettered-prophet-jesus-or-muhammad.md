@@ -7,7 +7,7 @@ wordCount: 6979
 readTime: 35
 subcategory: Theology of the Quran
 series: Quran Studies
-part: 'The Quran and the Unlettered Prophet: Jesus or Muhammad?'
+part: 9
 ---
 
 ### The Quran and the Unlettered Prophet: 

@@ -7,7 +7,7 @@ wordCount: 6808
 readTime: 34
 subcategory: Muhammad's Wives & Marriages
 series: Multiple Wives
-part: 'Muhammad and His Wives: Analyzing His Treatment of Sauda Bin'
+part: 2
 ---
 
 **Muhammad and His Wives**

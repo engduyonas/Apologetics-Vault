@@ -7,7 +7,7 @@ wordCount: 10046
 readTime: 50
 subcategory: NT Christology
 series: Apostolic Christology
-part: 'What did the Apostle Peter really believe about Jesus?'
+part: 2
 ---
 
 # What did the Apostle Peter really believe about Jesus? 

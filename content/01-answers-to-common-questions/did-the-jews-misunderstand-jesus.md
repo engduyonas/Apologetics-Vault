@@ -7,7 +7,7 @@ wordCount: 6669
 readTime: 33
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'Did the Jews Misunderstand Jesus?'
+part: 2
 ---
 
 **A Series of Answers to Common Questions**

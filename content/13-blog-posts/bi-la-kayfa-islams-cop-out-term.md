@@ -7,7 +7,7 @@ wordCount: 359
 readTime: 2
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: 'BI-LA KAYFA: ISLAM’S COP OUT TERM'
+part: 2
 ---
 
 # BI-LA KAYFA: ISLAM’S COP OUT TERM

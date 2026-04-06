@@ -7,7 +7,7 @@ wordCount: 2183
 readTime: 11
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Muhammad a Mercy Unto Creation: What About Dogs?'
+part: 15
 ---
 
 # Muhammad a Mercy Unto Creation: What About Dogs?

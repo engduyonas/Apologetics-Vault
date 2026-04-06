@@ -7,7 +7,7 @@ wordCount: 6299
 readTime: 31
 subcategory: General Topics
 series: Father Studies
-part: 'PSALM 45: THE FATHER’S PRAISE OF HIS DIVINE SON'
+part: 6
 ---
 
 # PSALM 45: THE FATHER’S PRAISE OF HIS DIVINE SON

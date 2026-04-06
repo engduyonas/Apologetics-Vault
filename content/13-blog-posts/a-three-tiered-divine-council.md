@@ -7,7 +7,7 @@ wordCount: 3729
 readTime: 19
 subcategory: General Topics
 series: Divine Studies
-part: 'A Three-Tiered Divine Council?'
+part: 1
 ---
 
 # A Three-Tiered Divine Council?

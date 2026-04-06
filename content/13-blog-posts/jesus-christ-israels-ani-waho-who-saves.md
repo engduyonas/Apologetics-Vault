@@ -7,7 +7,7 @@ wordCount: 5243
 readTime: 26
 subcategory: Christology
 series: Jesus Studies
-part: 'JESUS CHRIST: ISRAEL’S ANI WAHO WHO SAVES'
+part: 11
 ---
 
 # JESUS CHRIST: ISRAEL’S ANI WAHO WHO SAVES

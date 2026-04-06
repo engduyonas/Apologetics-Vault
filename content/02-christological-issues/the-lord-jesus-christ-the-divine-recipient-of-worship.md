@@ -7,7 +7,7 @@ wordCount: 5173
 readTime: 26
 subcategory: Worship of Christ
 series: NT Worship
-part: The Lord Jesus Christ – The Divine Recipient of Worship
+part: 2
 ---
 
 # The Lord Jesus Christ – The Divine Recipient of Worship

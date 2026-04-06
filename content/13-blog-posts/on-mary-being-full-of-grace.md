@@ -7,7 +7,7 @@ wordCount: 1237
 readTime: 6
 subcategory: Church & Sacraments
 series: Mary Studies
-part: ON MARY BEING FULL OF GRACE
+part: 4
 ---
 
 # ON MARY BEING FULL OF GRACE

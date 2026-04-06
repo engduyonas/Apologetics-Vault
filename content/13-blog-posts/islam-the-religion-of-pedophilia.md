@@ -7,7 +7,7 @@ wordCount: 4718
 readTime: 24
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: Islam – The Religion of Pedophilia
+part: 8
 ---
 
 # Islam – The Religion of Pedophilia

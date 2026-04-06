@@ -7,7 +7,7 @@ wordCount: 2414
 readTime: 12
 subcategory: Christology
 series: Christ Studies
-part: The Council of Antioch on Christ’s Divinity
+part: 7
 ---
 
 # The Council of Antioch on Christ’s Divinity

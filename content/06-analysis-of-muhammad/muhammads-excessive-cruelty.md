@@ -7,7 +7,7 @@ wordCount: 3623
 readTime: 18
 subcategory: Character & Morality
 series: 'Muhammad's Studies'
-part: 'Muhammad's Excessive Cruelty'
+part: 2
 ---
 
 ### Muhammad's Excessive Cruelty

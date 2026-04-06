@@ -7,7 +7,7 @@ wordCount: 4889
 readTime: 24
 subcategory: Trinity & Godhead
 series: Plurality Studies
-part: Plurality in the Old Testament
+part: 2
 ---
 
 ### Plurality in the Old Testament

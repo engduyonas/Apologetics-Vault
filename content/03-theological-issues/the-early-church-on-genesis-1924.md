@@ -7,7 +7,7 @@ wordCount: 6932
 readTime: 35
 subcategory: Trinity & Monotheism
 series: Biblical Trinity
-part: 'The Early Church on Genesis 19:24'
+part: 3
 ---
 
 # The Early Christian Writings on Genesis 19:24

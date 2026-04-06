@@ -7,7 +7,7 @@ wordCount: 6612
 readTime: 33
 subcategory: Christology
 series: Yhwh Studies
-part: 'THE ANGEL METATRON: JUDAISMS’ SECOND YHWH￼'
+part: 3
 ---
 
 # THE ANGEL METATRON: JUDAISMS’ SECOND YHWH￼

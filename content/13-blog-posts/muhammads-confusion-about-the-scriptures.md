@@ -7,7 +7,7 @@ wordCount: 2152
 readTime: 11
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: MUHAMMAD’S CONFUSION ABOUT THE SCRIPTURES
+part: 11
 ---
 
 # MUHAMMAD’S CONFUSION ABOUT THE SCRIPTURES

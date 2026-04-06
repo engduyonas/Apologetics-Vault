@@ -7,7 +7,7 @@ wordCount: 14028
 readTime: 70
 subcategory: Textual History
 series: Quran Studies
-part: 'A Christian Response to Dr. Jamal Badawi's "Seven Wonders of'
+part: 1
 ---
 
 ****

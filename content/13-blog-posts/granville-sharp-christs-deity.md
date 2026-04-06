@@ -7,7 +7,7 @@ wordCount: 2765
 readTime: 14
 subcategory: Christology
 series: Deity of Christ
-part: 'GRANVILLE SHARP & CHRIST'S DEITY'
+part: 11
 ---
 
 # GRANVILLE SHARP & CHRIST'S DEITY

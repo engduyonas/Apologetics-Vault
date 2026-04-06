@@ -7,7 +7,7 @@ wordCount: 2331
 readTime: 12
 subcategory: Christ's Deity & Identity
 series: Deity in the Gospels
-part: 'Patristic Evidence for Luke 23:34'
+part: 1
 ---
 
 # Patristic Evidence for Luke 23:34

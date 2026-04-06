@@ -7,7 +7,7 @@ wordCount: 1981
 readTime: 10
 subcategory: Character & Morality
 series: Muhammad Studies
-part: More of Muhammad’s Inconsistencies
+part: 5
 ---
 
 #  More of Muhammad’s Inconsistencies –

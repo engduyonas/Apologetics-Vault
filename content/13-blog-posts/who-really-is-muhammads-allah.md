@@ -7,7 +7,7 @@ wordCount: 1258
 readTime: 6
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Who really is Muhammad’s Allah?'
+part: 23
 ---
 
 # Who really is Muhammad’s Allah?

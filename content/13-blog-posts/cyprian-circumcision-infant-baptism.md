@@ -7,7 +7,7 @@ wordCount: 1537
 readTime: 8
 subcategory: Patristic Theology
 series: Infant Studies
-part: 'Cyprian, Circumcision & Infant Baptism'
+part: 2
 ---
 
 # Cyprian, Circumcision & Infant Baptism

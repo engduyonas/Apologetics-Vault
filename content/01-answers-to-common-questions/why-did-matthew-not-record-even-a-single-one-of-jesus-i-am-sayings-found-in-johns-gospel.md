@@ -8,7 +8,7 @@ wordCount: 4903
 readTime: 25
 subcategory: Deity of Christ
 series: 'Jesus' Studies'
-part: 'Why did Matthew not record even a single one of Jesus' "I AM'
+part: 4
 ---
 
 **A Series of Answers to Common Questions**

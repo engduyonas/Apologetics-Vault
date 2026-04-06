@@ -7,7 +7,7 @@ wordCount: 837
 readTime: 4
 subcategory: General Topics
 series: Theology Studies
-part: The Role of Theology in Modern Society
+part: 2
 ---
 
 # The Role of Theology in Modern Society

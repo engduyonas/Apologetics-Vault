@@ -7,7 +7,7 @@ wordCount: 2877
 readTime: 14
 subcategory: Bible & Quran
 series: Muhammad Studies
-part: 'Isn't Muhammad "that prophet" awaited by the Jews?'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

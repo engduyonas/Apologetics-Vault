@@ -7,7 +7,7 @@ wordCount: 2041
 readTime: 10
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Contradictions in the Qur''an : What about Jonah?'
+part: 3
 ---
 
 **Qur'an Contradiction:**

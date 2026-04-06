@@ -7,7 +7,7 @@ wordCount: 3718
 readTime: 19
 subcategory: Patristic Theology
 series: Origen Studies
-part: Origen – Dialog with Heracleides
+part: 7
 ---
 
 # Origen – Dialog with Heracleides

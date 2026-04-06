@@ -7,7 +7,7 @@ wordCount: 2972
 readTime: 15
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH CREATED BLACK PEOPLE FOR HELL!'
+part: 2
 ---
 
 # ALLAH CREATED BLACK PEOPLE FOR HELL!

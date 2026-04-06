@@ -7,7 +7,7 @@ wordCount: 1969
 readTime: 10
 subcategory: Muhammad & Islamic Practice
 series: Muhammad Studies
-part: Muhammad on the Setting Place of the Sun
+part: 5
 ---
 
 # Muhammad and the Sun’s Setting Place

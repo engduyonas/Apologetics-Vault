@@ -7,7 +7,7 @@ wordCount: 5989
 readTime: 30
 subcategory: General Topics
 series: Gospel Studies
-part: 'Paul, Baptism & the Gospel'
+part: 2
 ---
 
 # Paul, Baptism & the Gospel

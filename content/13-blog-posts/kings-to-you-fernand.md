@@ -7,7 +7,7 @@ wordCount: 1967
 readTime: 10
 subcategory: General Topics
 series: King Studies
-part: '“King’s to You, Fernand'
+part: 2
 ---
 
 # “King’s to You, Fernand"

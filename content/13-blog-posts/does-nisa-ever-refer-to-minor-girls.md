@@ -7,7 +7,7 @@ wordCount: 1689
 readTime: 8
 subcategory: General Topics
 series: Refer Studies
-part: 'DOES NISA EVER REFER TO MINOR GIRLS?'
+part: 1
 ---
 
 # DOES NISA EVER REFER TO MINOR GIRLS?

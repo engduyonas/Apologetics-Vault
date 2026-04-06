@@ -7,7 +7,7 @@ wordCount: 4659
 readTime: 23
 subcategory: Christ's Deity & Identity
 series: 'Incarnation & Two Natures'
-part: An Articulation of the Incarnation
+part: 1
 ---
 
 # An Articulation of the Doctrine of the Glorious Incarnation

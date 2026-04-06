@@ -7,7 +7,7 @@ wordCount: 1368
 readTime: 7
 subcategory: Trinity & Monotheism
 series: Trinity Studies
-part: Elohim and the Trinity
+part: 1
 ---
 
 # Does Elohim Provide Evidence For God’s Uni-Plurality? Pt. 1

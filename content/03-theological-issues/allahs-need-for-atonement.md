@@ -7,7 +7,7 @@ wordCount: 1547
 readTime: 8
 subcategory: Nature of Allah
 series: 'Allah's Studies'
-part: 'Allah's Need For Atonement'
+part: 2
 ---
 
 # Allah's Need For Atonement

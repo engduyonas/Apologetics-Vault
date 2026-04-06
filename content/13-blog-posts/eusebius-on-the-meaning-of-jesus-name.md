@@ -7,7 +7,7 @@ wordCount: 2517
 readTime: 13
 subcategory: Patristic Theology
 series: Eusebius Studies
-part: Eusebius on the Meaning of Jesus’ Name
+part: 2
 ---
 
 # Eusebius on the Meaning of Jesus’ Name

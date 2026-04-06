@@ -7,7 +7,7 @@ wordCount: 7852
 readTime: 39
 subcategory: Nature of Allah
 series: 'Allah & Morality'
-part: 'Allah's Guessing Game -- Is Allah an All-Knowing God?'
+part: 2
 ---
 
 ## Allah's Guessing Game

@@ -7,7 +7,7 @@ wordCount: 2032
 readTime: 10
 subcategory: Quranic Analysis
 series: Uncreated Studies
-part: 'THE QURAN'S UNCREATED RECITATION'
+part: 2
 ---
 
 # THE QURAN'S UNCREATED RECITATION

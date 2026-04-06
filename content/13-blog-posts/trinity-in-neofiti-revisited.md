@@ -7,7 +7,7 @@ wordCount: 1999
 readTime: 10
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: Trinity in Neofiti Revisited
+part: 9
 ---
 
 # Trinity in Neofiti Revisited

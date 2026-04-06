@@ -7,7 +7,7 @@ wordCount: 1226
 readTime: 6
 subcategory: Quranic Analysis
 series: Quran Studies
-part: The Quran’s Disrespect of Mary
+part: 16
 ---
 
 # The Quran’s Disrespect of Mary

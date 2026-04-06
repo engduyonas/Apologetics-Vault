@@ -7,7 +7,7 @@ wordCount: 1304
 readTime: 7
 subcategory: General Topics
 series: Death Studies
-part: 'Can Human Death Atone for Sins?'
+part: 1
 ---
 
 # Can Human Death Atone for Sins?

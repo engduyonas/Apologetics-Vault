@@ -7,7 +7,7 @@ wordCount: 3842
 readTime: 19
 subcategory: Muhammad & Islam
 series: Muslim Studies
-part: 'ABU HANIFA: THE MUSLIM INFIDEL'
+part: 2
 ---
 
 # ABU HANIFA: THE MUSLIM INFIDEL

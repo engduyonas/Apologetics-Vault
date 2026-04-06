@@ -7,7 +7,7 @@ wordCount: 4578
 readTime: 23
 subcategory: General Topics
 series: King Studies
-part: THE KING OF ISRAEL IS THE KING OF THE NATIONS￼
+part: 1
 ---
 
 # THE KING OF ISRAEL IS THE KING OF THE NATIONS￼

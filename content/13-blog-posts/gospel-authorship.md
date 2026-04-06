@@ -7,7 +7,7 @@ wordCount: 5477
 readTime: 27
 subcategory: General Topics
 series: Gospel Studies
-part: GOSPEL AUTHORSHIP
+part: 1
 ---
 
 # GOSPEL AUTHORSHIP

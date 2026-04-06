@@ -7,7 +7,7 @@ wordCount: 3852
 readTime: 19
 subcategory: Patristic Theology
 series: Deity Studies
-part: 'ST. AMBROSE & CHRIST’S DEITY'
+part: 4
 ---
 
 # ST. AMBROSE & CHRIST’S DEITY

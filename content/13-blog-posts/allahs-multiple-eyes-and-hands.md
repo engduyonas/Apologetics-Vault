@@ -7,7 +7,7 @@ wordCount: 689
 readTime: 3
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: Allah’s Multiple Eyes and Hands
+part: 13
 ---
 
 # Allah’s Multiple Eyes and Hands

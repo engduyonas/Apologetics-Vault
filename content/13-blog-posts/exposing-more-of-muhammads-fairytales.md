@@ -7,7 +7,7 @@ wordCount: 6308
 readTime: 32
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: EXPOSING MORE OF MUHAMMAD’S FAIRYTALES
+part: 3
 ---
 
 # EXPOSING MORE OF MUHAMMAD’S FAIRYTALES

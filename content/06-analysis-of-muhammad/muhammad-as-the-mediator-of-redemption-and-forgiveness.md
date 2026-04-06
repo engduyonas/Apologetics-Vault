@@ -7,7 +7,7 @@ wordCount: 6092
 readTime: 30
 subcategory: Deification of Muhammad
 series: Muhammad Studies
-part: Muhammad as the Mediator of Redemption and Forgiveness
+part: 2
 ---
 
 ### Muhammad as the Mediator of Redemption and Forgiveness

@@ -7,7 +7,7 @@ wordCount: 4426
 readTime: 22
 subcategory: Christology
 series: Jesus Studies
-part: 'JUDE TESTIFIES THAT JESUS IS YHWH ALMIGHTY!'
+part: 16
 ---
 
 # JUDE TESTIFIES THAT JESUS IS YHWH ALMIGHTY!

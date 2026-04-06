@@ -7,7 +7,7 @@ wordCount: 1832
 readTime: 9
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'Does Proverbs 8:22 show that Jesus is a created being after '
+part: 3
 ---
 
 **A Series of Answers to Common Questions**

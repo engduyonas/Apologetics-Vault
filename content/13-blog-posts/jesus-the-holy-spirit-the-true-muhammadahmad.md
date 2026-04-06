@@ -7,7 +7,7 @@ wordCount: 862
 readTime: 4
 subcategory: Holy Spirit
 series: Personhood
-part: 'Jesus & The Holy Spirit: The True Muhammad/Ahmad!'
+part: 4
 ---
 
 # Jesus & The Holy Spirit: The True Muhammad/Ahmad!

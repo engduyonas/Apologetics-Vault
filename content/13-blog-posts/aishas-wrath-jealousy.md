@@ -7,7 +7,7 @@ wordCount: 5725
 readTime: 29
 subcategory: Muhammad & Islam
 series: Aisha Studies
-part: 'AISHA’S WRATH & JEALOUSY'
+part: 2
 ---
 
 # AISHA’S WRATH & JEALOUSY

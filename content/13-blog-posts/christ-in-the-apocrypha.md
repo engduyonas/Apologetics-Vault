@@ -7,7 +7,7 @@ wordCount: 1648
 readTime: 8
 subcategory: Christology
 series: Christ Studies
-part: CHRIST IN THE “APOCRYPHA”
+part: 2
 ---
 
 # CHRIST IN THE “APOCRYPHA”

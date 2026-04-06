@@ -7,7 +7,7 @@ wordCount: 1508
 readTime: 8
 subcategory: Christology
 series: Uncreated Studies
-part: The Uncreated Word Becomes A Son
+part: 2
 ---
 
 # The Uncreated Word Becomes A Son

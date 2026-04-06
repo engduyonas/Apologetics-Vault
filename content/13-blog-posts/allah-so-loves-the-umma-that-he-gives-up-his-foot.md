@@ -7,7 +7,7 @@ wordCount: 3257
 readTime: 16
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: 'ALLAH SO LOVES THE UMMA THAT HE GIVES UP HIS FOOT!￼'
+part: 4
 ---
 
 # ALLAH SO LOVES THE UMMA THAT HE GIVES UP HIS FOOT!￼

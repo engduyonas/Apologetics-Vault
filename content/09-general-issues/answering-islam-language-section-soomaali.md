@@ -7,7 +7,7 @@ wordCount: 120
 readTime: 1
 subcategory: Translations
 series: Islam Studies
-part: 'Answering Islam - Language Section: Soomaali'
+part: 3
 ---
 
 # Ilaah

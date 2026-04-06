@@ -7,7 +7,7 @@ wordCount: 2039
 readTime: 10
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: Christ – Our Hope and Trust
+part: 3
 ---
 
 # Christ – Our Hope and Trust

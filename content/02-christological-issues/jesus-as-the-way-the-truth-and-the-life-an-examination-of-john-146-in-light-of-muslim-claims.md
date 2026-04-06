@@ -8,7 +8,7 @@ wordCount: 5673
 readTime: 28
 subcategory: Christ's Deity & Identity
 series: 'John & Johannine Theology'
-part: 'Jesus As The Way, The Truth, And The Life : An Examination o'
+part: 3
 ---
 
 ###  Jesus As The Way, The Truth, And The Life:

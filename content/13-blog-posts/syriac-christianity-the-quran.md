@@ -7,7 +7,7 @@ wordCount: 5513
 readTime: 28
 subcategory: Christology
 series: Quran Studies
-part: 'SYRIAC CHRISTIANITY & THE QURAN'
+part: 1
 ---
 
 # SYRIAC CHRISTIANITY & THE QURAN

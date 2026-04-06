@@ -7,7 +7,7 @@ wordCount: 3906
 readTime: 20
 subcategory: Christology
 series: Christ Studies
-part: 'CHRIST: THE OFFSPRING OF CREATION?'
+part: 3
 ---
 
 # CHRIST: THE OFFSPRING OF CREATION?

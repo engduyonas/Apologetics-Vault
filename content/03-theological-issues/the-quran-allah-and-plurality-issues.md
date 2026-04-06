@@ -7,7 +7,7 @@ wordCount: 9257
 readTime: 46
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'The Quran, Allah and Plurality Issues'
+part: 17
 ---
 
 ### The Quran, Allah and Plurality Issues

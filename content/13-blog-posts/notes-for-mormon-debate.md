@@ -7,7 +7,7 @@ wordCount: 1136
 readTime: 6
 subcategory: Muhammad & Islam
 series: Mormon Studies
-part: NOTES FOR MORMON DEBATE
+part: 2
 ---
 
 # NOTES FOR MORMON DEBATE

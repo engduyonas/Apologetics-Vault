@@ -7,7 +7,7 @@ wordCount: 8388
 readTime: 42
 subcategory: Rebuttals & Debates
 series: Challenges Studies
-part: Jalal Abualrub Challenges Sam Shamoun to Debate
+part: 2
 ---
 
 ### Jalal Abualrub Challenges Sam Shamoun to Debate

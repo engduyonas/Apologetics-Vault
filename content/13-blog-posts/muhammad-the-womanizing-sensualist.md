@@ -7,7 +7,7 @@ wordCount: 5767
 readTime: 29
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: Muhammad the Womanizing Sensualist
+part: 16
 ---
 
 # Muhammad the Womanizing Sensualist

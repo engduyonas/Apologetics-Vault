@@ -7,7 +7,7 @@ wordCount: 3172
 readTime: 16
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: ALLAH’S AMAZEMENT AND LAUGHTER
+part: 9
 ---
 
 # ALLAH’S AMAZEMENT AND LAUGHTER

@@ -7,7 +7,7 @@ wordCount: 1850
 readTime: 9
 subcategory: Christology
 series: Jude Studies
-part: JUDE’S EPISTLE REFUTES ARIANISM
+part: 1
 ---
 
 # JUDE’S EPISTLE REFUTES ARIANISM

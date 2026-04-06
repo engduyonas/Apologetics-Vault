@@ -7,7 +7,7 @@ wordCount: 3250
 readTime: 16
 subcategory: Muhammad & Islam
 series: Islamic Studies
-part: 'AHAD: A PRE-ISLAMIC PAGAN DEITY?'
+part: 1
 ---
 
 # AHAD: A PRE-ISLAMIC PAGAN DEITY?

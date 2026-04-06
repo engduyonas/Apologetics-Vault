@@ -7,7 +7,7 @@ wordCount: 6062
 readTime: 30
 subcategory: Salvation & Atonement
 series: 'Doesn't Studies'
-part: 'Doesn't the Bible present Melchizedek as possessing divine a'
+part: 2
 ---
 
 **A Series of Answers to Common Questions**

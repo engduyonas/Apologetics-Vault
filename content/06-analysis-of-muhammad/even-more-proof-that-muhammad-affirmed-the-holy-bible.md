@@ -7,7 +7,7 @@ wordCount: 2902
 readTime: 15
 subcategory: Muhammad & Scripture
 series: Muhammad Studies
-part: Even More Proof that Muhammad Affirmed the Holy Bible
+part: 2
 ---
 
 ### ****Even More Proof that Muhammad Affirmed  

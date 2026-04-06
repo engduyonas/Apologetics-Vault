@@ -7,7 +7,7 @@ wordCount: 5448
 readTime: 27
 subcategory: General Topics
 series: Bible Studies
-part: The Holy Bible on Interracial Marriages
+part: 5
 ---
 
 # The Holy Bible on Interracial Marriages

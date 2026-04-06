@@ -7,7 +7,7 @@ wordCount: 2091
 readTime: 10
 subcategory: Muhammad & Islam
 series: Allah Studies
-part: Allah’s Need for Human Sacrifice to Appease Hell’s Angelic R
+part: 14
 ---
 
 # Allah’s Need for Human Sacrifice to Appease Hell’s Angelic Ruler

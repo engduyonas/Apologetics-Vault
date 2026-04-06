@@ -7,7 +7,7 @@ wordCount: 3831
 readTime: 19
 subcategory: Trinity & Monotheism
 series: Monotheism Studies
-part: Monotheism vs. Eloquence of the Quran
+part: 2
 ---
 
 ### Is Allah really one or only "one of"?

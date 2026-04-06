@@ -7,7 +7,7 @@ wordCount: 4156
 readTime: 21
 subcategory: Deity of Christ
 series: Jesus Studies
-part: 'Was Jesus’ Mission Universal in Scope?'
+part: 5
 ---
 
 # Was Jesus’ Mission Universal in Scope?

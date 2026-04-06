@@ -7,7 +7,7 @@ wordCount: 4334
 readTime: 22
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: Responding to Shabir Ally’s Discussion of Paul’s Christology
+part: 3
 ---
 
 # Responding to Shabir Ally’s Discussion of Paul’s Christology

@@ -7,7 +7,7 @@ wordCount: 6900
 readTime: 34
 subcategory: Islamic Theology Critiqued
 series: Quran Studies
-part: Is the Quran An Implicit Endorsement and Continuation of Ara
+part: 1
 ---
 
 ### Is the Quran An Implicit Endorsement and Continuation of Arab Paganism?

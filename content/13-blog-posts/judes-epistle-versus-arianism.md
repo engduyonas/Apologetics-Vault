@@ -7,7 +7,7 @@ wordCount: 4145
 readTime: 21
 subcategory: Christology
 series: Jude Studies
-part: JUDE’S EPISTLE VERSUS ARIANISM
+part: 2
 ---
 
 # JUDE’S EPISTLE VERSUS ARIANISM

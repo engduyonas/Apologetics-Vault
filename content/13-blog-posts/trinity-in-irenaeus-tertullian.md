@@ -7,7 +7,7 @@ wordCount: 4408
 readTime: 22
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'TRINITY IN IRENAEUS & TERTULLIAN'
+part: 10
 ---
 
 # TRINITY IN IRENAEUS & TERTULLIAN

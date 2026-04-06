@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/real_shahada.htm
 wordCount: 2082
 readTime: 10
 series: Islam Studies
-part: Sunni Islam’s Real Shahadah
+part: 7
 ---
 
 ### Sunni Islam’s Real Shahadah

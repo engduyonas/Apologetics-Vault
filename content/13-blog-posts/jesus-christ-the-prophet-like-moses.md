@@ -7,7 +7,7 @@ wordCount: 6417
 readTime: 32
 subcategory: Christology
 series: Jesus Studies
-part: JESUS CHRIST – THE PROPHET LIKE MOSES
+part: 10
 ---
 
 # JESUS CHRIST – THE PROPHET LIKE MOSES

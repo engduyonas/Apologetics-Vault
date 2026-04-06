@@ -7,7 +7,7 @@ wordCount: 930
 readTime: 5
 subcategory: General Topics
 series: Mary Studies
-part: 'Mary’s Parents: Descendants of David'
+part: 2
 ---
 
 # Mary’s Parents: Descendants of David

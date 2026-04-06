@@ -7,7 +7,7 @@ wordCount: 1035
 readTime: 5
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'Muhammad Gets Mounted by Men!'
+part: 14
 ---
 
 # Muhammad Gets Mounted by Men!

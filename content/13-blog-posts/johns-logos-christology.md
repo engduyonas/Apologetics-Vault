@@ -7,7 +7,7 @@ wordCount: 2229
 readTime: 11
 subcategory: Christology
 series: Christology Studies
-part: John’s Logos Christology
+part: 1
 ---
 
 # John’s Logos Christology

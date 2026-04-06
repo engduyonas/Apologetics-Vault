@@ -7,7 +7,7 @@ wordCount: 1152
 readTime: 6
 subcategory: Patristic Theology
 series: Augustine Studies
-part: 'Augustine on 2 Cor. 5:21'
+part: 1
 ---
 
 # Augustine on 2 Cor. 5:21

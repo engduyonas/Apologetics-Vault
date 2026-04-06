@@ -7,7 +7,7 @@ wordCount: 512
 readTime: 3
 subcategory: Apologetics & Defense
 series: Christian Studies
-part: 'Answering Islam,  A Christian-Muslim Dialog and Apologetic'
+part: 3
 ---
 
 |   

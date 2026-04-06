@@ -7,7 +7,7 @@ wordCount: 6006
 readTime: 30
 subcategory: General Topics
 series: John Studies
-part: 'AMPHILIOCHIUS’ HOMILY ON JOHN 14:28'
+part: 1
 ---
 
 # AMPHILIOCHIUS’ HOMILY ON JOHN 14:28

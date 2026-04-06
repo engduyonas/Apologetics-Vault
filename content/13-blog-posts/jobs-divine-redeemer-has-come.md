@@ -7,7 +7,7 @@ wordCount: 2224
 readTime: 11
 subcategory: General Topics
 series: Divine Studies
-part: 'Job’s Divine Redeemer Has Come!'
+part: 4
 ---
 
 # Job’s Divine Redeemer Has Come!

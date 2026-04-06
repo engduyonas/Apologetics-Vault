@@ -7,7 +7,7 @@ wordCount: 1152
 readTime: 6
 subcategory: Christology
 series: Jesus Studies
-part: 'Jews for Jesus and Isaiah 9:6-7'
+part: 27
 ---
 
 # Jews for Jesus and Isaiah 9:6-7

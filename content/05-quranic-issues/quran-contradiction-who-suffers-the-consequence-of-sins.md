@@ -7,7 +7,7 @@ wordCount: 1859
 readTime: 9
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Qur''an Contradiction: Who Suffers the Consequence of Sins?'
+part: 7
 ---
 
 **Qur'an Contradiction:**

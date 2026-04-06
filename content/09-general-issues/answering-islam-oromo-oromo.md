@@ -7,7 +7,7 @@ wordCount: 255
 readTime: 1
 subcategory: Translations
 series: Islam Studies
-part: 'Answering Islam - Oromo: Oromo'
+part: 4
 ---
 
 * **[MASGIIDA FI GAHEE INNI HAWAASA KEESSATTI QABU  

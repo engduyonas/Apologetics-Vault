@@ -7,7 +7,7 @@ wordCount: 3629
 readTime: 18
 subcategory: Christology
 series: Christology Studies
-part: THE CHRISTOLOGY OF THE 12 PATRIARCHS
+part: 4
 ---
 
 # THE CHRISTOLOGY OF THE 12 PATRIARCHS

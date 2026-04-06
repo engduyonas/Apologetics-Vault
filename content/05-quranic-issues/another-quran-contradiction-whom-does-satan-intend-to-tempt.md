@@ -7,7 +7,7 @@ wordCount: 2741
 readTime: 14
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Another Quran Contradiction: Whom does Satan intend to tempt'
+part: 1
 ---
 
 # Quran Contradiction 

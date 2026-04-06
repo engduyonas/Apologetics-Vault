@@ -7,7 +7,7 @@ wordCount: 2785
 readTime: 14
 subcategory: General Topics
 series: Rabbis Studies
-part: 'RABBIS’ DILEMMA: WORSHIPING GOD’S ANGEL'
+part: 2
 ---
 
 # RABBIS’ DILEMMA: WORSHIPING GOD’S ANGEL

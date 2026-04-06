@@ -7,7 +7,7 @@ wordCount: 1637
 readTime: 8
 subcategory: Quran & the Bible
 series: Corruption Studies
-part: The incorruptibility of Allah’s words and the charge of Bibl
+part: 2
 ---
 
 ### The incorruptibility of Allah’s words  

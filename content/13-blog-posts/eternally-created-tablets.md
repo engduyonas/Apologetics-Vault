@@ -7,7 +7,7 @@ wordCount: 3609
 readTime: 18
 subcategory: General Topics
 series: Eternally Studies
-part: 'ETERNALLY CREATED TABLETS?'
+part: 1
 ---
 
 # ETERNALLY CREATED TABLETS?

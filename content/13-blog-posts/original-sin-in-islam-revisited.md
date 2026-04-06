@@ -7,7 +7,7 @@ wordCount: 3805
 readTime: 19
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: Original Sin in Islam Revisited
+part: 10
 ---
 
 # Original Sin in Islam Revisited

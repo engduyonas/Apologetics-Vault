@@ -7,7 +7,7 @@ wordCount: 396
 readTime: 2
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Does Allah Forget Or Not?'
+part: 10
 ---
 
 # Does He Forget Or Doesn’t He?

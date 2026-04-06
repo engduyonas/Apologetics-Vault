@@ -7,7 +7,7 @@ wordCount: 1652
 readTime: 8
 subcategory: Church & Sacraments
 series: Catholic Studies
-part: Why the Church is Called Catholic
+part: 2
 ---
 
 # Why the Church is Called Catholic

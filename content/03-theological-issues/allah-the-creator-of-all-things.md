@@ -7,7 +7,7 @@ wordCount: 6603
 readTime: 33
 subcategory: Nature of Allah
 series: Allah Studies
-part: 'Allah – the creator of all things?'
+part: 4
 ---
 
 # Allah – the creator of all things?

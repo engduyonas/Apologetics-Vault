@@ -7,7 +7,7 @@ wordCount: 3102
 readTime: 16
 subcategory: Deity of Christ
 series: 'Jesus' Studies'
-part: 'Is The Holy Spirit Jesus' God As Well?'
+part: 2
 ---
 
 # Is The Holy Spirit Jesus’ God As Well?

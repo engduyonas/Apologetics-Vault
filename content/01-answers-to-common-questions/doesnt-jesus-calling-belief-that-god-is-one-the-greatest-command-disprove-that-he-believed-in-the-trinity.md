@@ -8,7 +8,7 @@ wordCount: 7904
 readTime: 40
 subcategory: Deity of Christ
 series: 'Jesus' Studies'
-part: 'Doesn't Jesus' calling \"belief that God is One\" the greate'
+part: 1
 ---
 
 **A Series of Answers to Common Questions**

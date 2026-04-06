@@ -4,7 +4,7 @@ slug: jesus-as-the-great-i-am-excursus
 category: christological-issues
 source: https://answeringislam.info/authors/shamoun/jesus_iam_excursus.html
 series: Jesus as the Great I AM
-part: excursus
+part: 3
 wordCount: 2655
 readTime: 13
 subcategory: Christ's Deity & Identity

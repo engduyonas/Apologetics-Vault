@@ -7,7 +7,7 @@ wordCount: 3530
 readTime: 18
 subcategory: General Topics
 series: Daniel Studies
-part: 'DANIEL 8 & HANUKKAH'
+part: 1
 ---
 
 # DANIEL 8 & HANUKKAH

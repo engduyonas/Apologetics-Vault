@@ -7,7 +7,7 @@ wordCount: 3275
 readTime: 16
 subcategory: Muhammad & Islam
 series: Muhammad Studies
-part: 'JALAL PROVES THAT MUHAMMAD WAS A PROSTITUTING ADULTERER!'
+part: 6
 ---
 
 # JALAL PROVES THAT MUHAMMAD WAS A PROSTITUTING ADULTERER!

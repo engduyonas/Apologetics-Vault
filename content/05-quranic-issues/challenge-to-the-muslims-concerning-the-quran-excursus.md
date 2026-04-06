@@ -4,7 +4,7 @@ slug: challenge-to-the-muslims-concerning-the-quran-excursus
 category: quranic-issues
 source: https://answeringislam.info/authors/shamoun/anonymousquran_excursus.html
 series: Challenge to the Muslims Concerning the Quran
-part: excursus
+part: 5
 wordCount: 5229
 readTime: 26
 subcategory: Theology of the Quran

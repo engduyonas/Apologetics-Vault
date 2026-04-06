@@ -7,7 +7,7 @@ wordCount: 1913
 readTime: 10
 subcategory: Patristic Theology
 series: Origen Studies
-part: Athanasius on Origen’s Christology
+part: 1
 ---
 
 # Athanasius on Origen’s Christology

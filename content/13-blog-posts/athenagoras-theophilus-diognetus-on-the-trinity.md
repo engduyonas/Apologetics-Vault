@@ -7,7 +7,7 @@ wordCount: 1633
 readTime: 8
 subcategory: Patristic Theology
 series: Trinity Studies
-part: 'Athenagoras, Theophilus, Diognetus on the Trinity'
+part: 1
 ---
 
 # Athenagoras, Theophilus, Diognetus on the Trinity

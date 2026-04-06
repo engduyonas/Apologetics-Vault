@@ -7,7 +7,7 @@ wordCount: 930
 readTime: 5
 subcategory: Biblical Studies
 series: Birth Studies
-part: 'Virgin Birth in Isa. 9:7'
+part: 2
 ---
 
 # Virgin Birth in Isa. 9:7

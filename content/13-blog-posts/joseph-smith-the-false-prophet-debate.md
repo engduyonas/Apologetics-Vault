@@ -7,7 +7,7 @@ wordCount: 4054
 readTime: 20
 subcategory: General Topics
 series: Joseph Studies
-part: JOSEPH SMITH THE FALSE PROPHET DEBATE
+part: 1
 ---
 
 # JOSEPH SMITH THE FALSE PROPHET DEBATE

@@ -7,7 +7,7 @@ wordCount: 1669
 readTime: 8
 subcategory: Rebuttals & Debates
 series: Named Opponents
-part: 'The Muhammadan Fraud That Was Ahmed Deedat: Which Bible?'
+part: 4
 ---
 
 # The Muhammadan Fraud That Was Ahmed Deedat: Which Bible?

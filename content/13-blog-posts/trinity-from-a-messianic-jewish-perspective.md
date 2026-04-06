@@ -7,7 +7,7 @@ wordCount: 3587
 readTime: 18
 subcategory: Trinity & Godhead
 series: Trinity Studies
-part: Trinity From a Messianic Jewish Perspective
+part: 7
 ---
 
 # Trinity From a Messianic Jewish Perspective

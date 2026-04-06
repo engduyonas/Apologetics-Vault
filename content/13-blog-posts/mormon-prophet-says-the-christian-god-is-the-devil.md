@@ -7,7 +7,7 @@ wordCount: 786
 readTime: 4
 subcategory: Christology
 series: Deity of Christ
-part: 'Mormon Prophet Says the Christian God is the Devil!'
+part: 15
 ---
 
 # Mormon Prophet Says the Christian God is the Devil!

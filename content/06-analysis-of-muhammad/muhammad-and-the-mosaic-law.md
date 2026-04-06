@@ -7,7 +7,7 @@ wordCount: 6926
 readTime: 35
 subcategory: Muhammad & Scripture
 series: Muhammad Studies
-part: Muhammad and the Mosaic Law
+part: 4
 ---
 
 ### Muhammad and the Mosaic Law

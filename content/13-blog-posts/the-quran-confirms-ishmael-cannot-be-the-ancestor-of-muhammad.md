@@ -7,7 +7,7 @@ wordCount: 1531
 readTime: 8
 subcategory: Quranic Analysis
 series: Quran Studies
-part: 'The Quran Confirms: Ishmael Cannot Be the Ancestor of Muhamm'
+part: 13
 ---
 
 # The Quran Confirms: Ishmael Cannot Be the Ancestor of Muhammad!

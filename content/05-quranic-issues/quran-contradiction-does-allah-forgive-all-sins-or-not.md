@@ -7,7 +7,7 @@ wordCount: 5306
 readTime: 27
 subcategory: Contradictions & Errors
 series: Internal Contradictions
-part: 'Quran Contradiction: Does Allah Forgive All Sins Or Not?'
+part: 9
 ---
 
 **Quran Contradiction**

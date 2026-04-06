@@ -7,7 +7,7 @@ wordCount: 1976
 readTime: 10
 subcategory: General Topics
 series: Rabbis Studies
-part: 'THE RABBIS ON ISAIAH 7:14'
+part: 3
 ---
 
 # THE RABBIS ON ISAIAH 7:14

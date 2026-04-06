@@ -7,7 +7,7 @@ wordCount: 3460
 readTime: 17
 subcategory: Patristic Theology
 series: Irenaeus Studies
-part: 'IRENAEUS & MARK’S GOSPEL'
+part: 1
 ---
 
 # IRENAEUS & MARK’S GOSPEL

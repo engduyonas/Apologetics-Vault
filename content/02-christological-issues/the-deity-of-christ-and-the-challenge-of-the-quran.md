@@ -7,7 +7,7 @@ wordCount: 8272
 readTime: 41
 subcategory: Christ in the Quran
 series: Islamic View of Jesus
-part: The Deity of Christ and the Challenge of the Quran
+part: 5
 ---
 
 # Meeting the challenge of the Quran concerning the Deity of Christ

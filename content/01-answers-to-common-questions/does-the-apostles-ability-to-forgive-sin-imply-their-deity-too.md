@@ -7,7 +7,7 @@ wordCount: 2592
 readTime: 13
 subcategory: Deity of Christ
 series: Deity Studies
-part: 'Does the Apostles' ability to forgive sin imply their deity,'
+part: 2
 ---
 
 **A Series of Answers to Common Questions**

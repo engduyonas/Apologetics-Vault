@@ -7,7 +7,7 @@ wordCount: 3290
 readTime: 16
 subcategory: Messianic Prophecies
 series: Messiah in Jewish Literature
-part: Jesus in the Rabbinic Traditions
+part: 1
 ---
 
 ### JESUS IN THE RABBINIC TRADITIONS

@@ -7,7 +7,7 @@ wordCount: 7673
 readTime: 38
 subcategory: Muhammad & Islam
 series: Islam Studies
-part: '15 Eerie Similarities Between Islam & Mormonism'
+part: 1
 ---
 
 # 15 Eerie Similarities Between Islam & Mormonism

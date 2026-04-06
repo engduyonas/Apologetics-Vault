@@ -7,7 +7,7 @@ wordCount: 4133
 readTime: 21
 subcategory: Christ's Deity & Identity
 series: Christ Studies
-part: Christ - He Who is Above All
+part: 2
 ---
 
 # Jesus Christ – The Sovereign Lord Who is Above All
