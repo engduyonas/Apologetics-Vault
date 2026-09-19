@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { PanelLeftClose, PanelLeftOpen, Bookmark, Map } from "lucide-react";
+import { PanelLeftClose, PanelLeftOpen, Bookmark, Flag, Map } from "lucide-react";
 import Sidebar from "./Sidebar";
 import MobileNav from "./MobileNav";
 import SearchBar from "./SearchBar";
@@ -84,6 +84,14 @@ export default function DesktopShell({
               title="Start here"
             >
               <Map className="w-5 h-5 text-warm-500 dark:text-warm-400" />
+            </Link>
+            <Link
+              href="/review"
+              className="p-2 rounded-lg hover:bg-cream-200 dark:hover:bg-warm-800 transition-colors"
+              aria-label="Review list"
+              title="Review list"
+            >
+              <Flag className="w-5 h-5 text-warm-500 dark:text-warm-400" />
             </Link>
             <Link
               href="/reading-list"

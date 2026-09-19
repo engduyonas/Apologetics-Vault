@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Clock } from "lucide-react";
 import BookmarkButton from "./BookmarkButton";
+import FlagButton from "./FlagButton";
 import ReadIndicator from "./ReadIndicator";
 
 interface ArticleCardProps {
@@ -59,6 +60,9 @@ export default function ArticleCard({
           <Clock className="w-3.5 h-3.5" />
           {readTime}m
         </span>
+        <FlagButton
+          article={{ title, slug, tradition, category, categoryLabel: categoryLabel || category, readTime, series, part, subcategory }}
+        />
         <BookmarkButton
           article={{ title, slug, tradition, category, categoryLabel: categoryLabel || category, readTime, series, part, subcategory }}
         />

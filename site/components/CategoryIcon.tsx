@@ -27,6 +27,7 @@ import {
   RefreshCw,
   Sparkles,
   Cross,
+  Star,
 } from "lucide-react";
 
 const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
@@ -56,6 +57,7 @@ const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
   "refresh-cw": RefreshCw,
   sparkles: Sparkles,
   cross: Cross,
+  star: Star,
 };
 
 export default function CategoryIcon({

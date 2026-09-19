@@ -1,5 +1,6 @@
 const BOOKMARKS_KEY = "av:bookmarks:v1";
 const READ_KEY = "av:read:v1";
+const FLAGGED_KEY = "av:flagged:v1";
 
 export interface BookmarkEntry {
   slug: string;
@@ -12,6 +13,19 @@ export interface BookmarkEntry {
   series?: string;
   part?: string;
   bookmarkedAt: number;
+}
+
+export interface FlagEntry {
+  slug: string;
+  tradition: string;
+  category: string;
+  title: string;
+  categoryLabel: string;
+  readTime: number;
+  subcategory?: string;
+  series?: string;
+  part?: string;
+  flaggedAt: number;
 }
 
 function readJSON<T>(key: string, fallback: T): T {
@@ -75,4 +89,12 @@ export function getReadMap(): Record<string, number> {
 
 export function setReadMap(map: Record<string, number>) {
   writeJSON(READ_KEY, map);
+}
+
+export function getFlags(): FlagEntry[] {
+  return readJSON<FlagEntry[]>(FLAGGED_KEY, []);
+}
+
+export function setFlags(entries: FlagEntry[]) {
+  writeJSON(FLAGGED_KEY, entries);
 }

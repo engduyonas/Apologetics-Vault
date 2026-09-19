@@ -2,7 +2,7 @@
 title: 'Adam: The God & Father of Brigham Young'
 tradition: mormonism
 slug: adam-the-god-father-of-brigham-young
-category: joseph-smith-and-lds-theology
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/adam-the-god-father-of-brigham-young
 author: Sam Shamoun
 sourceName: Theology Sphere

@@ -2,7 +2,7 @@
 title: 'Joseph Smith: The Pagan Polytheist'
 tradition: mormonism
 slug: joseph-smith-the-pagan-polytheist
-category: joseph-smith-and-lds-theology
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/joseph-smith-the-pagan-polytheist
 author: Sam Shamoun
 sourceName: Theology Sphere

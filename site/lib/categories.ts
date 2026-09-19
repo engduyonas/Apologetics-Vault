@@ -8,24 +8,32 @@ export interface Tradition {
 
 export const TRADITIONS: Tradition[] = [
   {
-    slug: "islam",
+    slug: "christian-theology",
     order: 1,
+    title: "Christian Theology",
+    description:
+      "Christian doctrine on its own terms — Christology, the Trinity, biblical reliability, church history, and patristic theology.",
+    icon: "cross",
+  },
+  {
+    slug: "islam",
+    order: 2,
     title: "Islam",
     description:
       "Examination of Islamic sources and claims — the Quran, Muhammad, hadith, and Islamic theology — drawn from Sam Shamoun's work.",
     icon: "moon-star",
   },
   {
-    slug: "christian-theology",
-    order: 2,
-    title: "Christian Theology",
+    slug: "judaism",
+    order: 3,
+    title: "Judaism",
     description:
-      "Christian doctrine on its own terms — Christology, the Trinity, biblical reliability, and patristic theology — drawn from Sam Shamoun's work.",
-    icon: "cross",
+      "Jewish responses to Christian messianic-prophecy claims, Talmudic defense, and Jewish theology, drawn from Jews for Judaism.",
+    icon: "star",
   },
   {
     slug: "eastern-traditions",
-    order: 3,
+    order: 4,
     title: "Eastern Traditions",
     description:
       "Theravada Buddhist teachings and texts, drawn from Access to Insight.",
@@ -33,7 +41,7 @@ export const TRADITIONS: Tradition[] = [
   },
   {
     slug: "mormonism",
-    order: 4,
+    order: 5,
     title: "Mormonism",
     description:
       "Examination of Joseph Smith's claims and foundational LDS doctrine, drawn from Sam Shamoun's work.",
@@ -209,15 +217,96 @@ export const CATEGORIES: Record<string, Category[]> = {
     // 13-blog-posts was retired as its own category — its articles were
     // redistributed into the topical categories above by subcategory.
   ],
+  judaism: [
+    {
+      slug: "messianic-prophecy",
+      folder: "01-messianic-prophecy",
+      order: 1,
+      title: "Messianic Prophecy",
+      description: "Jewish responses to Christian messianic-prophecy claims — Isaiah 53, Daniel 9, and Psalm 22.",
+      icon: "scroll",
+    },
+    {
+      slug: "trinity-and-monotheism",
+      folder: "02-trinity-and-monotheism",
+      order: 2,
+      title: "Trinity & Monotheism",
+      description: "Jewish arguments for strict monotheism against the Christian Trinity.",
+      icon: "book-open",
+    },
+    {
+      slug: "talmud-and-rabbinic-judaism",
+      folder: "03-talmud-and-rabbinic-judaism",
+      order: 3,
+      title: "Talmud & Rabbinic Judaism",
+      description: "Defense of the Talmud and the authority of rabbinic tradition.",
+      icon: "book",
+    },
+    {
+      slug: "sin-atonement-and-sacrifice",
+      folder: "04-sin-atonement-and-sacrifice",
+      order: 4,
+      title: "Sin, Atonement & Sacrifice",
+      description: "Jewish theology of sin, atonement, and sacrifice without a temple.",
+      icon: "heart",
+    },
+    {
+      slug: "jewish-identity-and-practice",
+      folder: "05-jewish-identity-and-practice",
+      order: 5,
+      title: "Jewish Identity & Practice",
+      description: "Responses to Christian missionary outreach, and Jewish identity more broadly.",
+      icon: "users",
+    },
+  ],
   mormonism: [
     {
-      slug: "joseph-smith-and-lds-theology",
-      folder: "01-joseph-smith-and-lds-theology",
+      slug: "critical-perspectives",
+      folder: "01-critical-perspectives",
       order: 1,
-      title: "Joseph Smith & LDS Theology",
-      description:
-        "Examination of Joseph Smith's claims and foundational LDS doctrine.",
+      title: "Critical Perspectives",
+      description: "Examination of Joseph Smith's claims and foundational LDS doctrine, drawn from Sam Shamoun's work.",
       icon: "user",
+    },
+    {
+      slug: "book-of-mormon",
+      folder: "02-book-of-mormon",
+      order: 2,
+      title: "Book of Mormon",
+      description: "LDS apologetic responses to historical, textual, and scientific criticisms of the Book of Mormon.",
+      icon: "book",
+    },
+    {
+      slug: "joseph-smith-and-early-history",
+      folder: "03-joseph-smith-and-early-history",
+      order: 3,
+      title: "Joseph Smith & Early History",
+      description: "LDS apologetic treatment of Joseph Smith's life and the early Church's history.",
+      icon: "scroll",
+    },
+    {
+      slug: "book-of-abraham",
+      folder: "04-book-of-abraham",
+      order: 4,
+      title: "Book of Abraham",
+      description: "LDS apologetic responses to Egyptological and textual criticisms of the Book of Abraham.",
+      icon: "scroll",
+    },
+    {
+      slug: "doctrine-and-covenants",
+      folder: "05-doctrine-and-covenants",
+      order: 5,
+      title: "Doctrine & Covenants",
+      description: "LDS apologetic treatment of the Doctrine and Covenants and its revisions.",
+      icon: "book-open",
+    },
+    {
+      slug: "mormonism-and-christianity",
+      folder: "06-mormonism-and-christianity",
+      order: 6,
+      title: "Mormonism & Christianity",
+      description: "How LDS doctrine relates to and differs from historic Christianity.",
+      icon: "cross",
     },
   ],
   "eastern-traditions": [

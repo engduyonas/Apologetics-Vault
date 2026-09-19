@@ -13,6 +13,8 @@ import TableOfContents from "@/components/TableOfContents";
 import CategoryIcon from "@/components/CategoryIcon";
 import ArticleCard from "@/components/ArticleCard";
 import BookmarkButton from "@/components/BookmarkButton";
+import FlagButton from "@/components/FlagButton";
+import KeyPoints from "@/components/KeyPoints";
 import MarkAsReadOnView from "@/components/MarkAsReadOnView";
 import GuideNav from "@/components/GuideNav";
 import { ChevronRight, Clock, ExternalLink, ArrowLeft, ArrowRight, ScrollText } from "lucide-react";
@@ -106,6 +108,8 @@ export default async function ArticlePage({ params }: Props) {
             </span>
           </nav>
 
+          <KeyPoints tradition={traditionSlug} category={categorySlug} slug={slug} />
+
           {/* Paper container */}
           <div className="bg-cream-50 dark:bg-warm-900 rounded-xl shadow-sm dark:shadow-warm-800/20 px-8 sm:px-12 lg:px-20 xl:px-28 py-12 lg:py-16 border border-cream-300/50 dark:border-warm-700/50">
             {/* Title block — centered like the prose column */}
@@ -114,20 +118,36 @@ export default async function ArticlePage({ params }: Props) {
                 <h1 className="font-serif text-3xl sm:text-4xl font-bold text-warm-800 dark:text-cream-100 leading-tight tracking-tight">
                   {article.title}
                 </h1>
-                <BookmarkButton
-                  size="md"
-                  article={{
-                    title: article.title,
-                    slug: article.slug,
-                    tradition: traditionSlug,
-                    category: categorySlug,
-                    categoryLabel: category.title,
-                    readTime: article.readTime,
-                    subcategory: article.subcategory,
-                    series: article.series,
-                    part: article.part,
-                  }}
-                />
+                <div className="flex items-center gap-1 shrink-0">
+                  <FlagButton
+                    size="md"
+                    article={{
+                      title: article.title,
+                      slug: article.slug,
+                      tradition: traditionSlug,
+                      category: categorySlug,
+                      categoryLabel: category.title,
+                      readTime: article.readTime,
+                      subcategory: article.subcategory,
+                      series: article.series,
+                      part: article.part,
+                    }}
+                  />
+                  <BookmarkButton
+                    size="md"
+                    article={{
+                      title: article.title,
+                      slug: article.slug,
+                      tradition: traditionSlug,
+                      category: categorySlug,
+                      categoryLabel: category.title,
+                      readTime: article.readTime,
+                      subcategory: article.subcategory,
+                      series: article.series,
+                      part: article.part,
+                    }}
+                  />
+                </div>
               </div>
 
               {/* Attribution */}

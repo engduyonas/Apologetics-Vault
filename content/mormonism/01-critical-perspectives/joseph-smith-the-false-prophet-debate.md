@@ -2,7 +2,7 @@
 title: JOSEPH SMITH THE FALSE PROPHET DEBATE
 tradition: mormonism
 slug: joseph-smith-the-false-prophet-debate
-category: joseph-smith-and-lds-theology
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/joseph-smith-the-false-prophet-debate
 author: Sam Shamoun
 sourceName: Theology Sphere

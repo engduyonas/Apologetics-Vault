@@ -16,7 +16,7 @@ const merriweather = Merriweather({
 export const metadata: Metadata = {
   title: "Apologetics Vault",
   description:
-    "A curated, multi-perspective library of comparative religion and theology.",
+    "A personal study library for knowing the Christian faith more deeply, and being able to explain and defend it fluently.",
 };
 
 export default function RootLayout({

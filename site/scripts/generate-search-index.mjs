@@ -14,8 +14,9 @@ import path from "path";
 import matter from "gray-matter";
 
 const TRADITIONS = [
-  { slug: "islam", title: "Islam" },
   { slug: "christian-theology", title: "Christian Theology" },
+  { slug: "islam", title: "Islam" },
+  { slug: "judaism", title: "Judaism" },
   { slug: "eastern-traditions", title: "Eastern Traditions" },
   { slug: "mormonism", title: "Mormonism" },
 ];
@@ -43,7 +44,19 @@ const CATEGORIES = {
     { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
   ],
   mormonism: [
-    { slug: "joseph-smith-and-lds-theology", folder: "01-joseph-smith-and-lds-theology", title: "Joseph Smith & LDS Theology" },
+    { slug: "critical-perspectives", folder: "01-critical-perspectives", title: "Critical Perspectives" },
+    { slug: "book-of-mormon", folder: "02-book-of-mormon", title: "Book of Mormon" },
+    { slug: "joseph-smith-and-early-history", folder: "03-joseph-smith-and-early-history", title: "Joseph Smith & Early History" },
+    { slug: "book-of-abraham", folder: "04-book-of-abraham", title: "Book of Abraham" },
+    { slug: "doctrine-and-covenants", folder: "05-doctrine-and-covenants", title: "Doctrine & Covenants" },
+    { slug: "mormonism-and-christianity", folder: "06-mormonism-and-christianity", title: "Mormonism & Christianity" },
+  ],
+  judaism: [
+    { slug: "messianic-prophecy", folder: "01-messianic-prophecy", title: "Messianic Prophecy" },
+    { slug: "trinity-and-monotheism", folder: "02-trinity-and-monotheism", title: "Trinity & Monotheism" },
+    { slug: "talmud-and-rabbinic-judaism", folder: "03-talmud-and-rabbinic-judaism", title: "Talmud & Rabbinic Judaism" },
+    { slug: "sin-atonement-and-sacrifice", folder: "04-sin-atonement-and-sacrifice", title: "Sin, Atonement & Sacrifice" },
+    { slug: "jewish-identity-and-practice", folder: "05-jewish-identity-and-practice", title: "Jewish Identity & Practice" },
   ],
   "eastern-traditions": [
     { slug: "core-teachings", folder: "01-core-teachings", title: "Core Teachings" },
