@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { Suspense } from "react";
 import {
   getArticle,
   getArticlesByCategory,
@@ -13,6 +14,7 @@ import CategoryIcon from "@/components/CategoryIcon";
 import ArticleCard from "@/components/ArticleCard";
 import BookmarkButton from "@/components/BookmarkButton";
 import MarkAsReadOnView from "@/components/MarkAsReadOnView";
+import GuideNav from "@/components/GuideNav";
 import { ChevronRight, Clock, ExternalLink, ArrowLeft, ArrowRight, ScrollText } from "lucide-react";
 
 export function generateStaticParams() {
@@ -72,6 +74,10 @@ export default async function ArticlePage({ params }: Props) {
 
       <div className="px-6 lg:px-14 xl:px-20 py-10 flex gap-10">
         <article className="flex-1 min-w-0 mx-auto">
+          <Suspense fallback={null}>
+            <GuideNav tradition={traditionSlug} />
+          </Suspense>
+
           {/* Breadcrumb */}
           <nav className="flex items-center gap-1.5 text-sm text-warm-500 dark:text-warm-400 mb-10 flex-wrap font-sans max-w-[58rem] mx-auto">
             <Link

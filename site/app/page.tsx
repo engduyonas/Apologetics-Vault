@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getTraditionsWithCounts, getTotalStats } from "@/lib/content";
 import CategoryIcon from "@/components/CategoryIcon";
-import { BookOpen, Clock, Layers } from "lucide-react";
+import { BookOpen, Clock, Layers, Map } from "lucide-react";
 
 export default function HomePage() {
   const traditions = getTraditionsWithCounts();
@@ -19,6 +19,13 @@ export default function HomePage() {
           theology &mdash; scholarship from within and about the world&apos;s
           major traditions.
         </p>
+        <Link
+          href="/guide"
+          className="inline-flex items-center gap-2 mt-6 px-4 py-2 rounded-lg bg-slate-700 dark:bg-slate-600 text-white text-sm font-medium hover:bg-slate-800 dark:hover:bg-slate-500 transition-colors"
+        >
+          <Map className="w-4 h-4" />
+          New here? Start with a guided tour
+        </Link>
       </div>
 
       {/* Stats */}
