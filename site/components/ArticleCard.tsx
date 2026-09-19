@@ -6,6 +6,7 @@ import ReadIndicator from "./ReadIndicator";
 interface ArticleCardProps {
   title: string;
   slug: string;
+  tradition: string;
   category: string;
   categoryLabel?: string;
   readTime: number;
@@ -17,6 +18,7 @@ interface ArticleCardProps {
 export default function ArticleCard({
   title,
   slug,
+  tradition,
   category,
   categoryLabel,
   readTime,
@@ -26,12 +28,12 @@ export default function ArticleCard({
 }: ArticleCardProps) {
   return (
     <Link
-      href={`/${category}/${slug}`}
+      href={`/${tradition}/${category}/${slug}`}
       className="group flex items-center justify-between gap-4 py-3.5 px-3 -mx-3 rounded-md hover:bg-cream-200/60 dark:hover:bg-warm-800/60 transition-colors border-b border-cream-300/50 dark:border-warm-700/50 last:border-b-0"
     >
       <div className="min-w-0">
         <h3 className="flex items-center gap-2 text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-base">
-          <ReadIndicator category={category} slug={slug} />
+          <ReadIndicator tradition={tradition} category={category} slug={slug} />
           {series && part && (
             <span className="text-warm-400 dark:text-warm-500 text-sm font-medium font-sans">
               Pt. {part}
@@ -58,7 +60,7 @@ export default function ArticleCard({
           {readTime}m
         </span>
         <BookmarkButton
-          article={{ title, slug, category, categoryLabel: categoryLabel || category, readTime, series, part, subcategory }}
+          article={{ title, slug, tradition, category, categoryLabel: categoryLabel || category, readTime, series, part, subcategory }}
         />
       </div>
     </Link>

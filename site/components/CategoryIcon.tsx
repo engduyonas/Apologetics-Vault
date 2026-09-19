@@ -19,6 +19,13 @@ import {
   Landmark,
   Church,
   AlertTriangle,
+  MoonStar,
+  Flower2,
+  Compass,
+  Brain,
+  Scale,
+  RefreshCw,
+  Sparkles,
 } from "lucide-react";
 
 const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
@@ -40,6 +47,13 @@ const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
   landmark: Landmark,
   church: Church,
   "alert-triangle": AlertTriangle,
+  "moon-star": MoonStar,
+  flower: Flower2,
+  compass: Compass,
+  brain: Brain,
+  scale: Scale,
+  "refresh-cw": RefreshCw,
+  sparkles: Sparkles,
 };
 
 export default function CategoryIcon({

@@ -23,7 +23,7 @@ from categories import (
     slugify,
 )
 
-CONTENT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content")
+CONTENT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content", "islam")
 ERRORS_LOG = os.path.join(os.path.dirname(__file__), "errors.log")
 
 OLD_INDEX = "https://answeringislam.info/Shamoun/index.htm"
@@ -400,11 +400,21 @@ def fetch_and_save(article, content_dir):
 
         series_name, part = detect_series(title)
 
+        if "answeringislam.info" in url:
+            source_name = "Answering Islam"
+        elif "samshmnthelogy.net" in url:
+            source_name = "Theology Sphere"
+        else:
+            source_name = "Answering Islam"
+
         frontmatter = {
             "title": title,
             "slug": slug,
+            "tradition": "islam",
             "category": category,
             "source": url,
+            "author": "Sam Shamoun",
+            "sourceName": source_name,
         }
         if series_name:
             frontmatter["series"] = series_name

@@ -17,7 +17,7 @@ import re
 import sys
 from collections import defaultdict
 
-CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content")
+CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "islam")
 
 STOP_WORDS = {
     "a", "an", "the", "of", "in", "on", "to", "and", "or", "for", "is",

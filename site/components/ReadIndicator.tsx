@@ -3,15 +3,17 @@
 import { useReadStatus } from "@/lib/useReadStatus";
 
 export default function ReadIndicator({
+  tradition,
   category,
   slug,
 }: {
+  tradition: string;
   category: string;
   slug: string;
 }) {
   const { isRead, mounted } = useReadStatus();
 
-  if (!mounted || !isRead(category, slug)) return null;
+  if (!mounted || !isRead(tradition, category, slug)) return null;
 
   return (
     <span

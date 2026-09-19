@@ -9,6 +9,7 @@ import ReadIndicator from "./ReadIndicator";
 interface ArticleItem {
   title: string;
   slug: string;
+  tradition: string;
   category: string;
   readTime: number;
   subcategory?: string;
@@ -257,16 +258,16 @@ function ArticleRow({
   article,
   showPart,
 }: {
-  article: { title: string; slug: string; category: string; readTime: number; part?: string };
+  article: { title: string; slug: string; tradition: string; category: string; readTime: number; part?: string };
   showPart?: boolean;
 }) {
   return (
     <a
-      href={`/${article.category}/${article.slug}`}
+      href={`/${article.tradition}/${article.category}/${article.slug}`}
       className="group flex items-center justify-between gap-4 py-3 px-3 -mx-3 rounded-md hover:bg-cream-200/60 dark:hover:bg-warm-800/60 transition-colors border-b border-cream-300/30 dark:border-warm-700/30 last:border-b-0"
     >
       <span className="flex items-center gap-2 text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-[1.05rem]">
-        <ReadIndicator category={article.category} slug={article.slug} />
+        <ReadIndicator tradition={article.tradition} category={article.category} slug={article.slug} />
         {showPart && article.part && (
           <span className="text-warm-400 dark:text-warm-500 text-sm font-medium font-sans">
             Pt. {article.part}

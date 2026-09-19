@@ -17,7 +17,7 @@ export default function BookmarkButton({
     return <div className={size === "sm" ? "w-7 h-7" : "w-9 h-9"} />;
   }
 
-  const bookmarked = isBookmarked(article.category, article.slug);
+  const bookmarked = isBookmarked(article.tradition, article.category, article.slug);
   const iconSize = size === "sm" ? "w-4 h-4" : "w-5 h-5";
 
   return (

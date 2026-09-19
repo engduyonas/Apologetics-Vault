@@ -22,9 +22,10 @@ export default function ReadingListPage() {
         <div>
           {sorted.map((b) => (
             <ArticleCard
-              key={`${b.category}/${b.slug}`}
+              key={`${b.tradition}/${b.category}/${b.slug}`}
               title={b.title}
               slug={b.slug}
+              tradition={b.tradition}
               category={b.category}
               categoryLabel={b.categoryLabel}
               readTime={b.readTime}

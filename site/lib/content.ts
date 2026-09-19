@@ -5,10 +5,14 @@ import { remark } from "remark";
 import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 import {
+  TRADITIONS,
   CATEGORIES,
   SUBCATEGORIES,
   getCategoryByFolder,
   getCategoryBySlug,
+  getTraditionBySlug,
+  type Tradition,
+  type Category,
 } from "./categories";
 
 const CONTENT_DIR = path.join(process.cwd(), "..", "content");
@@ -16,9 +20,13 @@ const CONTENT_DIR = path.join(process.cwd(), "..", "content");
 export interface ArticleMeta {
   title: string;
   slug: string;
+  tradition: string;
   category: string;
   folder: string;
   source: string;
+  author: string;
+  sourceName: string;
+  license?: string;
   series?: string;
   part?: string;
   rebuttalTo?: string;
@@ -32,34 +40,42 @@ export interface Article extends ArticleMeta {
   htmlContent: string;
 }
 
-export interface CategoryWithCount {
-  slug: string;
-  folder: string;
-  order: number;
-  title: string;
-  description: string;
-  icon: string;
+export interface CategoryWithCount extends Category {
   articleCount: number;
 }
 
-function getAllMarkdownFiles(): { filePath: string; folder: string }[] {
-  const results: { filePath: string; folder: string }[] = [];
+export interface TraditionWithCount extends Tradition {
+  articleCount: number;
+  categoryCount: number;
+}
+
+function getAllMarkdownFiles(): { filePath: string; tradition: string; folder: string }[] {
+  const results: { filePath: string; tradition: string; folder: string }[] = [];
 
   if (!fs.existsSync(CONTENT_DIR)) return results;
 
-  const folders = fs.readdirSync(CONTENT_DIR).filter((f) => {
-    const fullPath = path.join(CONTENT_DIR, f);
+  const traditionDirs = fs.readdirSync(CONTENT_DIR).filter((t) => {
+    const fullPath = path.join(CONTENT_DIR, t);
     return fs.statSync(fullPath).isDirectory();
   });
 
-  for (const folder of folders) {
-    const folderPath = path.join(CONTENT_DIR, folder);
-    const files = fs.readdirSync(folderPath).filter((f) => f.endsWith(".md"));
-    for (const file of files) {
-      results.push({
-        filePath: path.join(folderPath, file),
-        folder,
-      });
+  for (const tradition of traditionDirs) {
+    const traditionPath = path.join(CONTENT_DIR, tradition);
+    const folders = fs.readdirSync(traditionPath).filter((f) => {
+      const fullPath = path.join(traditionPath, f);
+      return fs.statSync(fullPath).isDirectory();
+    });
+
+    for (const folder of folders) {
+      const folderPath = path.join(traditionPath, folder);
+      const files = fs.readdirSync(folderPath).filter((f) => f.endsWith(".md"));
+      for (const file of files) {
+        results.push({
+          filePath: path.join(folderPath, file),
+          tradition,
+          folder,
+        });
+      }
     }
   }
 
@@ -68,21 +84,26 @@ function getAllMarkdownFiles(): { filePath: string; folder: string }[] {
 
 function parseArticleMeta(
   filePath: string,
+  tradition: string,
   folder: string
 ): ArticleMeta | null {
   try {
     const fileContent = fs.readFileSync(filePath, "utf-8");
     const { data } = matter(fileContent);
 
-    const category = getCategoryByFolder(folder);
+    const category = getCategoryByFolder(tradition, folder);
     const slug = data.slug || path.basename(filePath, ".md");
 
     return {
       title: data.title || slug,
       slug,
+      tradition: data.tradition || tradition,
       category: category?.slug || data.category || "general-issues",
       folder,
       source: data.source || "",
+      author: data.author || "",
+      sourceName: data.sourceName || "",
+      license: data.license,
       series: data.series,
       part: data.part?.toString(),
       rebuttalTo: data.rebuttal_to,
@@ -96,30 +117,35 @@ function parseArticleMeta(
   }
 }
 
-export function getArticles(): ArticleMeta[] {
+export function getArticles(tradition?: string): ArticleMeta[] {
   const files = getAllMarkdownFiles();
   const articles: ArticleMeta[] = [];
 
-  for (const { filePath, folder } of files) {
-    const meta = parseArticleMeta(filePath, folder);
+  for (const { filePath, tradition: t, folder } of files) {
+    if (tradition && t !== tradition) continue;
+    const meta = parseArticleMeta(filePath, t, folder);
     if (meta) articles.push(meta);
   }
 
   return articles.sort((a, b) => a.title.localeCompare(b.title));
 }
 
-export function getArticlesByCategory(categorySlug: string): ArticleMeta[] {
-  return getArticles().filter((a) => a.category === categorySlug);
+export function getArticlesByCategory(
+  tradition: string,
+  categorySlug: string
+): ArticleMeta[] {
+  return getArticles(tradition).filter((a) => a.category === categorySlug);
 }
 
 export async function getArticle(
+  tradition: string,
   categorySlug: string,
   slug: string
 ): Promise<Article | null> {
-  const category = CATEGORIES.find((c) => c.slug === categorySlug);
+  const category = getCategoryBySlug(tradition, categorySlug);
   if (!category) return null;
 
-  const folderPath = path.join(CONTENT_DIR, category.folder);
+  const folderPath = path.join(CONTENT_DIR, tradition, category.folder);
   if (!fs.existsSync(folderPath)) return null;
 
   const files = fs.readdirSync(folderPath).filter((f) => f.endsWith(".md"));
@@ -139,14 +165,18 @@ export async function getArticle(
     .process(content);
 
   const htmlContent = processed.toString();
-  const catMeta = getCategoryByFolder(category.folder);
+  const catMeta = getCategoryByFolder(tradition, category.folder);
 
   return {
     title: data.title || slug,
     slug,
+    tradition: data.tradition || tradition,
     category: catMeta?.slug || data.category || "general-issues",
     folder: category.folder,
     source: data.source || "",
+    author: data.author || "",
+    sourceName: data.sourceName || "",
+    license: data.license,
     series: data.series,
     part: data.part?.toString(),
     rebuttalTo: data.rebuttal_to,
@@ -158,13 +188,34 @@ export async function getArticle(
   };
 }
 
-export function getCategoriesWithCounts(): CategoryWithCount[] {
-  const articles = getArticles();
+export function getCategoriesWithCounts(tradition: string): CategoryWithCount[] {
+  const articles = getArticles(tradition);
 
-  return CATEGORIES.map((cat) => ({
-    ...cat,
-    articleCount: articles.filter((a) => a.category === cat.slug).length,
-  })).filter((c) => c.articleCount > 0);
+  return (CATEGORIES[tradition] ?? [])
+    .map((cat) => ({
+      ...cat,
+      articleCount: articles.filter((a) => a.category === cat.slug).length,
+    }))
+    .filter((c) => c.articleCount > 0);
+}
+
+export function getAllCategoriesWithCounts(): Record<string, CategoryWithCount[]> {
+  const result: Record<string, CategoryWithCount[]> = {};
+  for (const t of TRADITIONS) {
+    result[t.slug] = getCategoriesWithCounts(t.slug);
+  }
+  return result;
+}
+
+export function getTraditionsWithCounts(): TraditionWithCount[] {
+  return TRADITIONS.map((t) => {
+    const categories = getCategoriesWithCounts(t.slug);
+    return {
+      ...t,
+      articleCount: categories.reduce((sum, c) => sum + c.articleCount, 0),
+      categoryCount: categories.length,
+    };
+  }).filter((t) => t.articleCount > 0);
 }
 
 export interface SubcategoryCount {
@@ -177,13 +228,14 @@ export interface CategoryWithSubs extends CategoryWithCount {
   subcategories: SubcategoryCount[];
 }
 
-export function getCategoriesWithSubcategories(): CategoryWithSubs[] {
-  const articles = getArticles();
-  const cats = getCategoriesWithCounts();
+export function getCategoriesWithSubcategories(tradition: string): CategoryWithSubs[] {
+  const articles = getArticles(tradition);
+  const cats = getCategoriesWithCounts(tradition);
+  const traditionSubs = SUBCATEGORIES[tradition] ?? {};
 
   return cats.map((cat) => {
     const catArticles = articles.filter((a) => a.category === cat.slug);
-    const defs = SUBCATEGORIES[cat.slug] || [];
+    const defs = traditionSubs[cat.slug] || [];
     const subcategories = defs
       .map((sub) => ({
         ...sub,
@@ -196,10 +248,11 @@ export function getCategoriesWithSubcategories(): CategoryWithSubs[] {
 }
 
 export function getSeriesArticles(
-  seriesName: string,
-  categorySlug: string
+  tradition: string,
+  categorySlug: string,
+  seriesName: string
 ): ArticleMeta[] {
-  return getArticlesByCategory(categorySlug)
+  return getArticlesByCategory(tradition, categorySlug)
     .filter((a) => a.series === seriesName)
     .sort((a, b) => {
       const pa = a.part || "";
@@ -212,9 +265,10 @@ export function getRelatedArticles(
   article: ArticleMeta,
   limit = 5
 ): ArticleMeta[] {
-  const categoryArticles = getArticlesByCategory(article.category).filter(
-    (a) => a.slug !== article.slug
-  );
+  const categoryArticles = getArticlesByCategory(
+    article.tradition,
+    article.category
+  ).filter((a) => a.slug !== article.slug);
 
   const sameSubcategory = article.subcategory
     ? categoryArticles.filter((a) => a.subcategory === article.subcategory)
@@ -235,6 +289,8 @@ export interface SearchDoc {
   id: string;
   title: string;
   slug: string;
+  tradition: string;
+  traditionLabel: string;
   category: string;
   categoryLabel: string;
   subcategory?: string;
@@ -266,21 +322,24 @@ export function getSearchIndex(): SearchDoc[] {
   const files = getAllMarkdownFiles();
   const docs: SearchDoc[] = [];
 
-  for (const { filePath, folder } of files) {
+  for (const { filePath, tradition, folder } of files) {
     try {
       const fileContent = fs.readFileSync(filePath, "utf-8");
       const { data, content } = matter(fileContent);
 
-      const category = getCategoryByFolder(folder);
+      const traditionSlug = data.tradition || tradition;
+      const category = getCategoryByFolder(traditionSlug, folder);
       const categorySlug = category?.slug || data.category || "general-issues";
       const slug = data.slug || path.basename(filePath, ".md");
 
       docs.push({
-        id: `${categorySlug}/${slug}`,
+        id: `${traditionSlug}/${categorySlug}/${slug}`,
         title: data.title || slug,
         slug,
+        tradition: traditionSlug,
+        traditionLabel: getTraditionBySlug(traditionSlug)?.title || traditionSlug,
         category: categorySlug,
-        categoryLabel: getCategoryBySlug(categorySlug)?.title || categorySlug,
+        categoryLabel: getCategoryBySlug(traditionSlug, categorySlug)?.title || categorySlug,
         subcategory: data.subcategory,
         series: data.series,
         part: data.part?.toString(),
@@ -295,14 +354,16 @@ export function getSearchIndex(): SearchDoc[] {
   return docs;
 }
 
-export function getTotalStats() {
-  const articles = getArticles();
+export function getTotalStats(tradition?: string) {
+  const articles = getArticles(tradition);
   const totalWords = articles.reduce((sum, a) => sum + a.wordCount, 0);
   const totalReadTime = articles.reduce((sum, a) => sum + a.readTime, 0);
   return {
     totalArticles: articles.length,
     totalWords,
     totalReadTimeHours: Math.round(totalReadTime / 60),
-    totalCategories: getCategoriesWithCounts().length,
+    totalCategories: tradition
+      ? getCategoriesWithCounts(tradition).length
+      : getTraditionsWithCounts().reduce((sum, t) => sum + t.categoryCount, 0),
   };
 }

@@ -12,12 +12,12 @@ export function useReadStatus() {
     setMounted(true);
   }, []);
 
-  function isRead(category: string, slug: string) {
-    return Boolean(readMap[articleKey(category, slug)]);
+  function isRead(tradition: string, category: string, slug: string) {
+    return Boolean(readMap[articleKey(tradition, category, slug)]);
   }
 
-  function markRead(category: string, slug: string) {
-    const key = articleKey(category, slug);
+  function markRead(tradition: string, category: string, slug: string) {
+    const key = articleKey(tradition, category, slug);
     setReadMapState((prev) => {
       if (prev[key]) return prev;
       const next = { ...prev, [key]: Date.now() };

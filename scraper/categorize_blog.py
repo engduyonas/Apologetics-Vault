@@ -9,7 +9,7 @@ import os
 import re
 import sys
 
-BLOG_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "13-blog-posts")
+BLOG_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "islam", "13-blog-posts")
 
 # Church father names used for patristic detection
 CHURCH_FATHERS = [

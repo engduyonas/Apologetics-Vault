@@ -15,11 +15,19 @@ interface SidebarCategory {
   articleCount: number;
 }
 
+interface SidebarTradition {
+  slug: string;
+  title: string;
+  icon: string;
+}
+
 export default function DesktopShell({
-  categories,
+  traditions,
+  categoriesByTradition,
   children,
 }: {
-  categories: SidebarCategory[];
+  traditions: SidebarTradition[];
+  categoriesByTradition: Record<string, SidebarCategory[]>;
   children: React.ReactNode;
 }) {
   const [collapsed, setCollapsed] = useState(false);
@@ -33,7 +41,8 @@ export default function DesktopShell({
         }`}
       >
         <Sidebar
-          categories={categories}
+          traditions={traditions}
+          categoriesByTradition={categoriesByTradition}
           collapseButton={
             <button
               onClick={() => setCollapsed(true)}
@@ -55,7 +64,7 @@ export default function DesktopShell({
         {/* Top bar */}
         <header className="sticky top-0 z-20 border-b border-cream-300 dark:border-warm-700 bg-cream-100/80 dark:bg-warm-900/80 backdrop-blur-md">
           <div className="flex items-center px-6 py-3 w-full gap-4">
-            <MobileNav categories={categories} />
+            <MobileNav traditions={traditions} categoriesByTradition={categoriesByTradition} />
             {collapsed && (
               <button
                 onClick={() => setCollapsed(false)}

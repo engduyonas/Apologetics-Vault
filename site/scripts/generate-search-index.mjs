@@ -5,38 +5,60 @@
 // a full npm toolchain is available.
 //
 // NOTE: this is plain JS (not importing lib/categories.ts) because this
-// sandbox's Node build has no TypeScript-stripping support. The folder/slug
-// mapping below must stay in sync with lib/categories.ts's CATEGORIES array.
+// sandbox's Node build has no TypeScript-stripping support. The tradition/
+// folder/slug mapping below must stay in sync with lib/categories.ts's
+// TRADITIONS/CATEGORIES.
 
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
-const CATEGORIES = [
-  { slug: "answers-to-common-questions", folder: "01-answers-to-common-questions", title: "Answers to Common Questions" },
-  { slug: "christological-issues", folder: "02-christological-issues", title: "Christological Issues" },
-  { slug: "theological-issues", folder: "03-theological-issues", title: "Theological Issues" },
-  { slug: "biblical-issues", folder: "04-biblical-issues", title: "Biblical Issues" },
-  { slug: "quranic-issues", folder: "05-quranic-issues", title: "Quranic Issues" },
-  { slug: "analysis-of-muhammad", folder: "06-analysis-of-muhammad", title: "Analysis of Muhammad" },
-  { slug: "hadith-analysis", folder: "07-hadith-analysis", title: "Hadith Analysis" },
-  { slug: "polemical-issues", folder: "08-polemical-issues", title: "Polemical Issues" },
-  { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
-  { slug: "responses-to-authors", folder: "10-responses-to-authors", title: "Responses to Muslim Authors" },
-  { slug: "turning-the-tables", folder: "11-turning-the-tables", title: "Turning the Tables" },
-  { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
-  { slug: "blog-posts", folder: "13-blog-posts", title: "Blog Posts" },
+const TRADITIONS = [
+  { slug: "islam", title: "Islam" },
+  { slug: "eastern-traditions", title: "Eastern Traditions" },
 ];
+
+const CATEGORIES = {
+  islam: [
+    { slug: "answers-to-common-questions", folder: "01-answers-to-common-questions", title: "Answers to Common Questions" },
+    { slug: "christological-issues", folder: "02-christological-issues", title: "Christological Issues" },
+    { slug: "theological-issues", folder: "03-theological-issues", title: "Theological Issues" },
+    { slug: "biblical-issues", folder: "04-biblical-issues", title: "Biblical Issues" },
+    { slug: "quranic-issues", folder: "05-quranic-issues", title: "Quranic Issues" },
+    { slug: "analysis-of-muhammad", folder: "06-analysis-of-muhammad", title: "Analysis of Muhammad" },
+    { slug: "hadith-analysis", folder: "07-hadith-analysis", title: "Hadith Analysis" },
+    { slug: "polemical-issues", folder: "08-polemical-issues", title: "Polemical Issues" },
+    { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
+    { slug: "responses-to-authors", folder: "10-responses-to-authors", title: "Responses to Muslim Authors" },
+    { slug: "turning-the-tables", folder: "11-turning-the-tables", title: "Turning the Tables" },
+    { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
+    { slug: "blog-posts", folder: "13-blog-posts", title: "Blog Posts" },
+  ],
+  "eastern-traditions": [
+    { slug: "core-teachings", folder: "01-core-teachings", title: "Core Teachings" },
+    { slug: "meditation-and-mental-development", folder: "02-meditation-and-mental-development", title: "Meditation & Mental Development" },
+    { slug: "ethics-and-conduct", folder: "03-ethics-and-conduct", title: "Ethics & Conduct" },
+    { slug: "kamma-and-rebirth", folder: "04-kamma-and-rebirth", title: "Kamma & Rebirth" },
+    { slug: "not-self-and-liberation", folder: "05-not-self-and-liberation", title: "Not-Self & Liberation" },
+    { slug: "sutta-translations", folder: "06-sutta-translations", title: "Sutta Translations" },
+    { slug: "monastic-life-and-the-sangha", folder: "07-monastic-life-and-the-sangha", title: "Monastic Life & the Sangha" },
+    { slug: "teachers-and-traditions", folder: "08-teachers-and-traditions", title: "Teachers & Traditions" },
+  ],
+};
 
 const CONTENT_DIR = path.join(process.cwd(), "..", "content");
 const OUT_FILE = path.join(process.cwd(), "public", "search-index.json");
 
-function getCategoryByFolder(folder) {
-  return CATEGORIES.find((c) => c.folder === folder);
+function getTraditionBySlug(slug) {
+  return TRADITIONS.find((t) => t.slug === slug);
 }
 
-function getCategoryBySlug(slug) {
-  return CATEGORIES.find((c) => c.slug === slug);
+function getCategoryByFolder(tradition, folder) {
+  return (CATEGORIES[tradition] ?? []).find((c) => c.folder === folder);
+}
+
+function getCategoryBySlug(tradition, slug) {
+  return (CATEGORIES[tradition] ?? []).find((c) => c.slug === slug);
 }
 
 function stripMarkdown(markdown) {
@@ -64,40 +86,50 @@ function main() {
     return;
   }
 
-  const folders = fs
+  const traditionDirs = fs
     .readdirSync(CONTENT_DIR)
-    .filter((f) => fs.statSync(path.join(CONTENT_DIR, f)).isDirectory());
+    .filter((t) => fs.statSync(path.join(CONTENT_DIR, t)).isDirectory());
 
   const docs = [];
 
-  for (const folder of folders) {
-    const folderPath = path.join(CONTENT_DIR, folder);
-    const files = fs.readdirSync(folderPath).filter((f) => f.endsWith(".md"));
+  for (const tradition of traditionDirs) {
+    const traditionPath = path.join(CONTENT_DIR, tradition);
+    const folders = fs
+      .readdirSync(traditionPath)
+      .filter((f) => fs.statSync(path.join(traditionPath, f)).isDirectory());
 
-    for (const file of files) {
-      const filePath = path.join(folderPath, file);
-      try {
-        const fileContent = fs.readFileSync(filePath, "utf-8");
-        const { data, content } = matter(fileContent);
+    for (const folder of folders) {
+      const folderPath = path.join(traditionPath, folder);
+      const files = fs.readdirSync(folderPath).filter((f) => f.endsWith(".md"));
 
-        const category = getCategoryByFolder(folder);
-        const categorySlug = category?.slug || data.category || "general-issues";
-        const slug = data.slug || path.basename(file, ".md");
+      for (const file of files) {
+        const filePath = path.join(folderPath, file);
+        try {
+          const fileContent = fs.readFileSync(filePath, "utf-8");
+          const { data, content } = matter(fileContent);
 
-        docs.push({
-          id: `${categorySlug}/${slug}`,
-          title: data.title || slug,
-          slug,
-          category: categorySlug,
-          categoryLabel: getCategoryBySlug(categorySlug)?.title || categorySlug,
-          subcategory: data.subcategory,
-          series: data.series,
-          part: data.part?.toString(),
-          readTime: data.readTime || 1,
-          excerpt: excerptOf(content),
-        });
-      } catch (err) {
-        console.warn(`Skipping unparseable article: ${filePath}`, err.message);
+          const traditionSlug = data.tradition || tradition;
+          const category = getCategoryByFolder(traditionSlug, folder);
+          const categorySlug = category?.slug || data.category || "general-issues";
+          const slug = data.slug || path.basename(file, ".md");
+
+          docs.push({
+            id: `${traditionSlug}/${categorySlug}/${slug}`,
+            title: data.title || slug,
+            slug,
+            tradition: traditionSlug,
+            traditionLabel: getTraditionBySlug(traditionSlug)?.title || traditionSlug,
+            category: categorySlug,
+            categoryLabel: getCategoryBySlug(traditionSlug, categorySlug)?.title || categorySlug,
+            subcategory: data.subcategory,
+            series: data.series,
+            part: data.part?.toString(),
+            readTime: data.readTime || 1,
+            excerpt: excerptOf(content),
+          });
+        } catch (err) {
+          console.warn(`Skipping unparseable article: ${filePath}`, err.message);
+        }
       }
     }
   }

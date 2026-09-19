@@ -17,17 +17,17 @@ export function useBookmarks() {
     setMounted(true);
   }, []);
 
-  function isBookmarked(category: string, slug: string) {
-    const key = articleKey(category, slug);
-    return bookmarks.some((b) => articleKey(b.category, b.slug) === key);
+  function isBookmarked(tradition: string, category: string, slug: string) {
+    const key = articleKey(tradition, category, slug);
+    return bookmarks.some((b) => articleKey(b.tradition, b.category, b.slug) === key);
   }
 
   function toggleBookmark(entry: Omit<BookmarkEntry, "bookmarkedAt">) {
     setBookmarksState((prev) => {
-      const key = articleKey(entry.category, entry.slug);
-      const exists = prev.some((b) => articleKey(b.category, b.slug) === key);
+      const key = articleKey(entry.tradition, entry.category, entry.slug);
+      const exists = prev.some((b) => articleKey(b.tradition, b.category, b.slug) === key);
       const next = exists
-        ? prev.filter((b) => articleKey(b.category, b.slug) !== key)
+        ? prev.filter((b) => articleKey(b.tradition, b.category, b.slug) !== key)
         : [...prev, { ...entry, bookmarkedAt: Date.now() }];
       setBookmarks(next);
       return next;

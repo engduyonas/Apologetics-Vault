@@ -5,7 +5,7 @@ import os
 import re
 from collections import defaultdict
 
-CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content")
+CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "islam")
 
 
 def read_frontmatter(filepath):
