@@ -15,15 +15,15 @@ import matter from "gray-matter";
 
 const TRADITIONS = [
   { slug: "islam", title: "Islam" },
+  { slug: "christian-theology", title: "Christian Theology" },
   { slug: "eastern-traditions", title: "Eastern Traditions" },
+  { slug: "mormonism", title: "Mormonism" },
 ];
 
 const CATEGORIES = {
   islam: [
     { slug: "answers-to-common-questions", folder: "01-answers-to-common-questions", title: "Answers to Common Questions" },
-    { slug: "christological-issues", folder: "02-christological-issues", title: "Christological Issues" },
     { slug: "theological-issues", folder: "03-theological-issues", title: "Theological Issues" },
-    { slug: "biblical-issues", folder: "04-biblical-issues", title: "Biblical Issues" },
     { slug: "quranic-issues", folder: "05-quranic-issues", title: "Quranic Issues" },
     { slug: "analysis-of-muhammad", folder: "06-analysis-of-muhammad", title: "Analysis of Muhammad" },
     { slug: "hadith-analysis", folder: "07-hadith-analysis", title: "Hadith Analysis" },
@@ -31,8 +31,20 @@ const CATEGORIES = {
     { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
     { slug: "responses-to-authors", folder: "10-responses-to-authors", title: "Responses to Muslim Authors" },
     { slug: "turning-the-tables", folder: "11-turning-the-tables", title: "Turning the Tables" },
+    { slug: "blog-posts", folder: "13-blog-posts", title: "Blog Posts" },
+  ],
+  "christian-theology": [
+    { slug: "answers-to-common-questions", folder: "01-answers-to-common-questions", title: "Answers to Common Questions" },
+    { slug: "christological-issues", folder: "02-christological-issues", title: "Christological Issues" },
+    { slug: "theological-issues", folder: "03-theological-issues", title: "Theological Issues" },
+    { slug: "biblical-issues", folder: "04-biblical-issues", title: "Biblical Issues" },
+    { slug: "polemical-issues", folder: "08-polemical-issues", title: "Polemical Issues" },
+    { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
     { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
     { slug: "blog-posts", folder: "13-blog-posts", title: "Blog Posts" },
+  ],
+  mormonism: [
+    { slug: "joseph-smith-and-lds-theology", folder: "01-joseph-smith-and-lds-theology", title: "Joseph Smith & LDS Theology" },
   ],
   "eastern-traditions": [
     { slug: "core-teachings", folder: "01-core-teachings", title: "Core Teachings" },

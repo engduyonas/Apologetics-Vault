@@ -16,32 +16,22 @@ export const GUIDES: Record<string, Guide> = {
     tradition: "islam",
     title: "Start Here: Islam",
     description:
-      "A guided tour through the core of the site's case, one representative question from each major topic area.",
+      "A guided tour through the site's examination of Islamic sources and claims, one piece from each major topic area.",
     steps: [
       {
         category: "answers-to-common-questions",
-        slug: "is-the-savior-necessarily-god",
-        note: "A common objection to the deity of Christ, and the case for why it doesn't hold up — a good entry point into the site's central argument.",
-      },
-      {
-        category: "christological-issues",
-        slug: "ot-appearances-of-christ-as-the-angel-of-god",
-        note: "Moves from the general question of Christ's deity into a specific, concrete line of evidence for it.",
+        slug: "isnt-muhammad-that-prophet-awaited-by-the-jews",
+        note: "A common claim about Muhammad's place in prophetic expectation, examined closely.",
       },
       {
         category: "theological-issues",
         slug: "more-merciful-than-the-most-merciful",
-        note: "Shifts focus from Christology to the nature of God as understood in Islamic theology.",
-      },
-      {
-        category: "biblical-issues",
-        slug: "does-the-holy-bible-claim-to-be-the-inspired-word-of-god",
-        note: "Addresses the reliability and self-understanding of the Bible, foundational to everything argued from it.",
+        note: "The nature of Allah as understood in Islamic theology.",
       },
       {
         category: "quranic-issues",
         slug: "the-gods-of-islam-unveiled",
-        note: "Turns to the Quran itself, examining a claim from the Islamic text directly.",
+        note: "A claim from the Islamic text examined directly.",
       },
       {
         category: "analysis-of-muhammad",
@@ -52,6 +42,69 @@ export const GUIDES: Record<string, Guide> = {
         category: "hadith-analysis",
         slug: "islamic-science-fiction-the-thunder-and-the-moon",
         note: "A closer look at specific claims within the hadith corpus.",
+      },
+      {
+        category: "turning-the-tables",
+        slug: "turning-the-tables-pt-1a",
+        note: "Applies standards Muslim polemicists use against other faiths back onto Islamic sources.",
+      },
+      {
+        category: "polemical-issues",
+        slug: "sunni-islams-real-shahadah",
+        note: "A close examination of Islam's central confession of faith.",
+      },
+      {
+        category: "blog-posts",
+        slug: "hear-and-disobey-another-quranic-blunder",
+        note: "A shorter, recent piece — the kind of close textual argument this section specializes in.",
+      },
+    ],
+  },
+  "christian-theology": {
+    tradition: "christian-theology",
+    title: "Start Here: Christian Theology",
+    description:
+      "A guided tour through the site's exposition of Christian doctrine, one piece from each major topic area.",
+    steps: [
+      {
+        category: "answers-to-common-questions",
+        slug: "is-the-savior-necessarily-god",
+        note: "A common objection to the deity of Christ, and the case for why it doesn't hold up — a good entry point.",
+      },
+      {
+        category: "christological-issues",
+        slug: "ot-appearances-of-christ-as-the-angel-of-god",
+        note: "Moves from the general question of Christ's deity into a specific, concrete line of evidence for it.",
+      },
+      {
+        category: "theological-issues",
+        slug: "is-gabriel-really-the-holy-spirit",
+        note: "A question at the intersection of Christology and the doctrine of the Trinity.",
+      },
+      {
+        category: "biblical-issues",
+        slug: "does-the-holy-bible-claim-to-be-the-inspired-word-of-god",
+        note: "Addresses the reliability and self-understanding of the Bible, foundational to everything argued from it.",
+      },
+      {
+        category: "polemical-issues",
+        slug: "the-apostles-of-christ-messengers-of-god-or-mere-disciples",
+        note: "A close look at how the New Testament itself frames the apostles' role and authority.",
+      },
+      {
+        category: "general-issues",
+        slug: "the-historicity-of-jonah-examined",
+        note: "A test case for how the site handles questions of biblical historicity.",
+      },
+      {
+        category: "blog-posts",
+        slug: "filioque-petrine-roman-primacy",
+        note: "A shorter piece drawing on patristic sources — representative of the blog's more advanced material.",
+      },
+      {
+        category: "short-summaries",
+        slug: "jesus-christ-the-absolutely-and-essentially-good-god",
+        note: "A concise closing statement of the section's central claim.",
       },
     ],
   },

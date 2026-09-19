@@ -12,16 +12,32 @@ export const TRADITIONS: Tradition[] = [
     order: 1,
     title: "Islam",
     description:
-      "Christian apologetics and comparative theology addressing Islam, drawn from Sam Shamoun's work.",
+      "Examination of Islamic sources and claims — the Quran, Muhammad, hadith, and Islamic theology — drawn from Sam Shamoun's work.",
     icon: "moon-star",
   },
   {
-    slug: "eastern-traditions",
+    slug: "christian-theology",
     order: 2,
+    title: "Christian Theology",
+    description:
+      "Christian doctrine on its own terms — Christology, the Trinity, biblical reliability, and patristic theology — drawn from Sam Shamoun's work.",
+    icon: "cross",
+  },
+  {
+    slug: "eastern-traditions",
+    order: 3,
     title: "Eastern Traditions",
     description:
       "Theravada Buddhist teachings and texts, drawn from Access to Insight.",
     icon: "flower",
+  },
+  {
+    slug: "mormonism",
+    order: 4,
+    title: "Mormonism",
+    description:
+      "Examination of Joseph Smith's claims and foundational LDS doctrine, drawn from Sam Shamoun's work.",
+    icon: "landmark",
   },
 ];
 
@@ -42,35 +58,16 @@ export const CATEGORIES: Record<string, Category[]> = {
       order: 1,
       title: "Answers to Common Questions",
       description:
-        "Responses to frequently asked questions and common claims about Christianity and Islam.",
+        "Responses to frequently asked questions and common claims about Islam.",
       icon: "help-circle",
-    },
-    {
-      slug: "christological-issues",
-      folder: "02-christological-issues",
-      order: 2,
-      title: "Christological Issues",
-      description:
-        "The deity, nature, and identity of Jesus Christ examined from biblical and Islamic perspectives.",
-      icon: "crown",
     },
     {
       slug: "theological-issues",
       folder: "03-theological-issues",
       order: 3,
       title: "Theological Issues",
-      description:
-        "The Trinity, monotheism, the nature of God, and comparative theology.",
+      description: "The nature of Allah and Islamic theology critiqued.",
       icon: "book-open",
-    },
-    {
-      slug: "biblical-issues",
-      folder: "04-biblical-issues",
-      order: 4,
-      title: "Biblical Issues",
-      description:
-        "Biblical inspiration, canon, textual criticism, and scriptural authority.",
-      icon: "book",
     },
     {
       slug: "quranic-issues",
@@ -138,9 +135,71 @@ export const CATEGORIES: Record<string, Category[]> = {
     // 10-responses-to-authors intentionally has 0 scraped articles; the category
     // auto-hides via getCategoriesWithCounts()'s articleCount > 0 filter.
     {
+      slug: "blog-posts",
+      folder: "13-blog-posts",
+      order: 13,
+      title: "Blog Posts",
+      description:
+        "Blog posts from Theology Sphere addressing Quranic and Muhammad-related topics.",
+      icon: "pen-tool",
+    },
+  ],
+  "christian-theology": [
+    {
+      slug: "answers-to-common-questions",
+      folder: "01-answers-to-common-questions",
+      order: 1,
+      title: "Answers to Common Questions",
+      description:
+        "Responses to common questions and objections raised about Christian doctrine.",
+      icon: "help-circle",
+    },
+    {
+      slug: "christological-issues",
+      folder: "02-christological-issues",
+      order: 2,
+      title: "Christological Issues",
+      description: "The deity, nature, and identity of Jesus Christ.",
+      icon: "crown",
+    },
+    {
+      slug: "theological-issues",
+      folder: "03-theological-issues",
+      order: 3,
+      title: "Theological Issues",
+      description: "The Trinity, salvation, and Christian theology proper.",
+      icon: "book-open",
+    },
+    {
+      slug: "biblical-issues",
+      folder: "04-biblical-issues",
+      order: 4,
+      title: "Biblical Issues",
+      description:
+        "Biblical inspiration, canon, textual criticism, and scriptural authority.",
+      icon: "book",
+    },
+    {
+      slug: "polemical-issues",
+      folder: "08-polemical-issues",
+      order: 5,
+      title: "Polemical Issues",
+      description:
+        "Cross-topic essays on Abraham, angels, and biblical interpretation.",
+      icon: "message-square",
+    },
+    {
+      slug: "general-issues",
+      folder: "09-general-issues",
+      order: 6,
+      title: "General Issues",
+      description: "Broader topics in Christian apologetics and biblical ethics.",
+      icon: "globe",
+    },
+    {
       slug: "short-summaries",
       folder: "12-short-summaries",
-      order: 12,
+      order: 7,
       title: "Short Summaries",
       description: "Concise summary articles on key theological points.",
       icon: "align-left",
@@ -148,11 +207,22 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "blog-posts",
       folder: "13-blog-posts",
-      order: 13,
+      order: 8,
       title: "Blog Posts",
       description:
-        "Recent blog posts from Theology Sphere covering patristic theology and advanced topics.",
+        "Blog posts from Theology Sphere covering patristic theology and advanced topics.",
       icon: "pen-tool",
+    },
+  ],
+  mormonism: [
+    {
+      slug: "joseph-smith-and-lds-theology",
+      folder: "01-joseph-smith-and-lds-theology",
+      order: 1,
+      title: "Joseph Smith & LDS Theology",
+      description:
+        "Examination of Joseph Smith's claims and foundational LDS doctrine.",
+      icon: "user",
     },
   ],
   "eastern-traditions": [
@@ -242,16 +312,6 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Rebuttals", icon: "message-square" },
       { name: "General Topics", icon: "file-text" },
     ],
-    "christological-issues": [
-      { name: "Christ's Deity & Identity", icon: "crown" },
-      { name: "Messianic Prophecies", icon: "scroll" },
-      { name: "NT Christology", icon: "book-open" },
-      { name: "Christ in the Quran", icon: "globe" },
-      { name: "Worship of Christ", icon: "heart" },
-      { name: "Son of Man & Preexistence", icon: "wind" },
-      { name: "Shema & Monotheism", icon: "book" },
-      { name: "General Topics", icon: "file-text" },
-    ],
     "theological-issues": [
       { name: "Nature of Allah", icon: "alert-triangle" },
       { name: "Trinity & Monotheism", icon: "book-open" },
@@ -295,6 +355,50 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Biblical Studies", icon: "book" },
       { name: "Quranic Analysis", icon: "scroll" },
       { name: "Muhammad & Islam", icon: "alert-triangle" },
+      { name: "Rebuttals & Debates", icon: "message-square" },
+      { name: "General Topics", icon: "file-text" },
+    ],
+  },
+  "christian-theology": {
+    "answers-to-common-questions": [
+      { name: "Deity of Christ", icon: "crown" },
+      { name: "Bible & Quran", icon: "book" },
+      { name: "Salvation & Atonement", icon: "heart" },
+      { name: "Trinity & Godhead", icon: "book-open" },
+      { name: "Women & Ethics", icon: "users" },
+      { name: "Rebuttals", icon: "message-square" },
+      { name: "General Topics", icon: "file-text" },
+    ],
+    "christological-issues": [
+      { name: "Christ's Deity & Identity", icon: "crown" },
+      { name: "Messianic Prophecies", icon: "scroll" },
+      { name: "NT Christology", icon: "book-open" },
+      { name: "Christ in the Quran", icon: "globe" },
+      { name: "Worship of Christ", icon: "heart" },
+      { name: "Son of Man & Preexistence", icon: "wind" },
+      { name: "Shema & Monotheism", icon: "book" },
+      { name: "General Topics", icon: "file-text" },
+    ],
+    "theological-issues": [
+      { name: "Trinity & Monotheism", icon: "book-open" },
+      { name: "Salvation & Eschatology", icon: "heart" },
+      { name: "OT Theology", icon: "book" },
+      { name: "General Topics", icon: "file-text" },
+    ],
+    "general-issues": [
+      { name: "Rebuttals & Debates", icon: "message-square" },
+      { name: "Apologetics & Defense", icon: "book-open" },
+      { name: "Quran & Bible", icon: "scroll" },
+      { name: "General Topics", icon: "file-text" },
+    ],
+    "blog-posts": [
+      { name: "Christology", icon: "crown" },
+      { name: "Trinity & Godhead", icon: "book-open" },
+      { name: "Holy Spirit", icon: "wind" },
+      { name: "Atonement & Salvation", icon: "heart" },
+      { name: "Patristic Theology", icon: "landmark" },
+      { name: "Church & Sacraments", icon: "church" },
+      { name: "Biblical Studies", icon: "book" },
       { name: "Rebuttals & Debates", icon: "message-square" },
       { name: "General Topics", icon: "file-text" },
     ],
