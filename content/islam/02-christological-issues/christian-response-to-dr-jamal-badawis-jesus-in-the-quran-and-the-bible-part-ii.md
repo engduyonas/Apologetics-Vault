@@ -1,12 +1,12 @@
 ---
 title: Christian Response to Dr. Jamal Badawi's "Jesus in the Qur'an and the Bible",
-tradition: islam
   Part II
+tradition: islam
 slug: christian-response-to-dr-jamal-badawis-jesus-in-the-quran-and-the-bible-part-ii
 category: christological-issues
 source: https://answeringislam.info/Shamoun/badawi-jesus2.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 4303
 readTime: 22
 subcategory: Christ in the Quran

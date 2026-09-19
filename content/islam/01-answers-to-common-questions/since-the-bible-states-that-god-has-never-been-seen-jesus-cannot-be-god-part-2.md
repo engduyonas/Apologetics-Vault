@@ -1,12 +1,12 @@
 ---
 title: Since the Bible states that God has never been seen, Jesus cannot be God [Part
-tradition: islam
   2]
+tradition: islam
 slug: since-the-bible-states-that-god-has-never-been-seen-jesus-cannot-be-god-part-2
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_seeing_god2.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 series: Since the Bible states that God has never been seen, Jesus cannot be God
 part: '2'
 wordCount: 2029

@@ -1,12 +1,12 @@
 ---
 title: Examining Jesus’ Divine Claims In Light of the Quranic View of Allah’s Names
-tradition: islam
   and Attributes
+tradition: islam
 slug: examining-jesus-divine-claims-in-light-of-the-quranic-view-of-allahs-names-and-attributes
 category: christological-issues
 source: https://answeringislam.info/Shamoun/jesus_divine_functions_quran.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 3051
 readTime: 15
 subcategory: Christ in the Quran

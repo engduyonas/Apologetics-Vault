@@ -1,16 +1,16 @@
 ---
 title: Doesn't Ezekiel 18 show that God does not require perfect obedience but expects
-tradition: islam
   us to sin?
+tradition: islam
 slug: doesnt-ezekiel-18-show-that-god-does-not-require-perfect-obedience-but-expects-us-to-sin
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_ez18.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 4736
 readTime: 24
 subcategory: Salvation & Atonement
-series: "Doesn't Studies"
+series: Doesn't Studies
 part: 1
 ---
 

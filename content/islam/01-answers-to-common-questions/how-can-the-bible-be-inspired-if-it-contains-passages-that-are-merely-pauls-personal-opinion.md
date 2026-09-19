@@ -1,12 +1,12 @@
 ---
 title: How can the Bible be inspired if it contains passages that are merely Paul's
-tradition: islam
   personal opinion?
+tradition: islam
 slug: how-can-the-bible-be-inspired-if-it-contains-passages-that-are-merely-pauls-personal-opinion
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_paul_inspiration.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 2609
 readTime: 13
 subcategory: Salvation & Atonement

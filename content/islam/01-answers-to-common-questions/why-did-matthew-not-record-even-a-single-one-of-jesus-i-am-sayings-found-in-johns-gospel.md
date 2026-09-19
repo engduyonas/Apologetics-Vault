@@ -1,16 +1,16 @@
 ---
 title: Why did Matthew not record even a single one of Jesus' "I AM" Sayings found
-tradition: islam
   in John's Gospel?
+tradition: islam
 slug: why-did-matthew-not-record-even-a-single-one-of-jesus-i-am-sayings-found-in-johns-gospel
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_mt_i_am.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 4903
 readTime: 25
 subcategory: Deity of Christ
-series: "Jesus' Studies"
+series: Jesus' Studies
 part: 4
 ---
 

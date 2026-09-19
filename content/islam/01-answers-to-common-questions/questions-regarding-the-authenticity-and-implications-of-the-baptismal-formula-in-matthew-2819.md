@@ -1,12 +1,12 @@
 ---
 title: Questions regarding the authenticity and implications of the baptismal formula
-tradition: islam
   in Matthew 28:19
+tradition: islam
 slug: questions-regarding-the-authenticity-and-implications-of-the-baptismal-formula-in-matthew-2819
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_mt28_19.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 5363
 readTime: 27
 subcategory: Salvation & Atonement

@@ -1,12 +1,12 @@
 ---
 title: Responding to a Muslim Apologist's Critique of the Trinity, Divine Love, and
-tradition: islam
   God as the Greatest Conceivable Being
+tradition: islam
 slug: responding-to-a-muslim-apologists-critique-of-the-trinity-divine-love-and-god-as-the-greatest-conceivable-being
 category: theological-issues
 source: https://answeringislam.info/authors/shamoun/trinity_love.html
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 10205
 readTime: 51
 subcategory: Trinity & Monotheism

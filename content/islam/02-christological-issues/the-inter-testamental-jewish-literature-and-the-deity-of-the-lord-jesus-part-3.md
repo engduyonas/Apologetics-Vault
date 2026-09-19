@@ -1,12 +1,12 @@
 ---
 title: The Inter-Testamental Jewish Literature and the Deity of the Lord Jesus [Part
-tradition: islam
   3]
+tradition: islam
 slug: the-inter-testamental-jewish-literature-and-the-deity-of-the-lord-jesus-part-3
 category: christological-issues
 source: https://answeringislam.info/authors/shamoun/jesus_greek_esther.html
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 series: The Inter-Testamental Jewish Literature and the Deity of the Lord Jesus
 part: '3'
 wordCount: 4039

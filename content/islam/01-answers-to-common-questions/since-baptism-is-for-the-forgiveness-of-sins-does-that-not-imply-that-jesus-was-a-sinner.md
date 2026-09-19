@@ -1,12 +1,12 @@
 ---
 title: Since Baptism is "for the forgiveness of sins", does that not imply that Jesus
-tradition: islam
   was a sinner?
+tradition: islam
 slug: since-baptism-is-for-the-forgiveness-of-sins-does-that-not-imply-that-jesus-was-a-sinner
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_jesus_baptism.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 6329
 readTime: 32
 subcategory: Salvation & Atonement

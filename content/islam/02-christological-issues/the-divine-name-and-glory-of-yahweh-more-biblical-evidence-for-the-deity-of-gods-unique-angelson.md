@@ -1,12 +1,12 @@
 ---
 title: The Divine Name and Glory of Yahweh – More Biblical Evidence for the Deity
-tradition: islam
   of God’s unique Angel/Son
+tradition: islam
 slug: the-divine-name-and-glory-of-yahweh-more-biblical-evidence-for-the-deity-of-gods-unique-angelson
 category: christological-issues
 source: https://answeringislam.info/Shamoun/name_glory_angel.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 8742
 readTime: 44
 subcategory: Christ's Deity & Identity

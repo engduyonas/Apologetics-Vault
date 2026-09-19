@@ -1,12 +1,12 @@
 ---
 title: Muhammad's Marriage to a Prepubescent Girl and its Moral Implications [Part
-tradition: islam
   2]
+tradition: islam
 slug: muhammads-marriage-to-a-prepubescent-girl-and-its-moral-implications-part-2
 category: analysis-of-muhammad
 source: https://answeringislam.info/Shamoun/prepubescent2.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 series: Muhammad's Marriage to a Prepubescent Girl and its Moral Implications
 part: '2'
 wordCount: 11696

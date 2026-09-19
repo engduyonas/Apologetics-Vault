@@ -1,0 +1,33 @@
+---
+title: Basic Breath Meditation Instructions
+slug: basic-breath-meditation-instructions
+tradition: eastern-traditions
+category: meditation-and-mental-development
+source: https://accesstoinsight.org/lib/authors/thanissaro/breathmed.html
+author: Thanissaro Bhikkhu
+sourceName: Access to Insight
+wordCount: 1101
+readTime: 6
+license: The text of this page ("Basic Breath Meditation Instructions", by Thanissaro
+  Bhikkhu) is licensed under a Creative Commons Attribution-NonCommercial 4.0 International
+  License. To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/.
+  Documents linked from this page may be subject to other restrictions.
+---
+
+The technique I'll be teaching is breath meditation. It's a good topic no matter what your religious background. As my teacher once said, the breath doesn't belong to Buddhism or Christianity or anyone at all. It's common property that anyone can meditate on. At the same time, of all the meditation topics there are, it's probably the most beneficial to the body, for when we're dealing with the breath, we're dealing not only with the air coming in and out of the lungs, but also with all the feelings of energy that course throughout the body with each breath. If you can learn to become sensitive to these feelings, and let them flow smoothly and unobstructed, you can help the body function more easily, and give the mind a handle for dealing with pain.
+
+So let's all meditate for a few minutes. Sit comfortably erect, in a balanced position. You don't have to be ramrod straight like a soldier. Just try not to lean forward or back, to the left or the right. Close your eyes and say to yourself, 'May I be truly happy and free from suffering.' This may sound like a strange, even selfish, way to start meditating, but there are good reasons for it. One, if you can't wish for your own happiness, there is no way that you can honestly wish for the happiness of others. Some people need to remind themselves constantly that they deserve happiness — we all deserve it, but if we don't believe it, we will constantly find ways to punish ourselves, and we will end up punishing others in subtle or blatant ways as well.
+
+Two, it's important to reflect on what true happiness is and where it can be found. A moment's reflection will show that you can't find it in the past or the future. The past is gone and your memory of it is undependable. The future is a blank uncertainty. So the only place we can really find happiness is in the present. But even here you have to know where to look. If you try to base your happiness on things that change — sights, sounds, sensations in general, people and things outside — you're setting yourself up for disappointment, like building your house on a cliff where there have been repeated landslides in the past. So true happiness has to be sought within. Meditation is thus like a treasure hunt: to find what has solid and unchanging worth in the mind, something that even death cannot touch.
+
+To find this treasure we need tools. The first tool is to do what we're doing right now: to develop good will for ourselves. The second is to spread that good will to other living beings. Tell yourself: 'All living beings, no matter who they are, no matter what they have done to you in the past — may they all find true happiness too.' If you don't cultivate this thought, and instead carry grudges into your meditation, that's all you'll be able to see when you look inside.
+
+Only when you have cleared the mind in this way, and set outside matters aside, are you ready to focus on the breath. Bring your attention to the sensation of breathing. Breathe in long and out long for a couple of times, focusing on any spot in the body where the breathing is easy to notice, and your mind feels comfortable focusing. This could be at the nose, at the chest, at the abdomen, or any spot at all. Stay with that spot, noticing how it feels as you breathe in and out. Don't force the breath, or bear down too heavily with your focus. Let the breath flow naturally, and simply keep track of how it feels. Savor it, as if it were an exquisite sensation you wanted to prolong. If your mind wanders off, simply bring it back. Don't get discouraged. If it wanders 100 times, bring it back 100 times. Show it that you mean business, and eventually it will listen to you.
+
+If you want, you can experiment with different kinds of breathing. If long breathing feels comfortable, stick with it. If it doesn't, change it to whatever rhythm feels soothing to the body. You can try short breathing, fast breathing, slow breathing, deep breathing, shallow breathing — whatever feels most comfortable to you right now...
+
+Once you have the breath comfortable at your chosen spot, move your attention to notice how the breathing feels in other parts of the body. Start by focusing on the area just below your navel. Breathe in and out, and notice how that area feels. If you don't feel any motion there, just be aware of the fact that there's no motion. If you do feel motion, notice the quality of the motion, to see if the breathing feels uneven there, or if there's any tension or tightness. If there's tension, think of relaxing it. If the breathing feels jagged or uneven, think of smoothing it out... Now move your attention over to the right of that spot — to the lower right-hand corner of the abdomen — and repeat the same process... Then over to the lower left-hand corner of the abdomen... Then up to the navel... right... left... to the solar plexus... right... left... the middle of the chest... right... left... to the base of the throat... right... left... to the middle of the head...[take several minutes for each spot]
+
+If you were meditating at home, you could continue this process through your entire body — over the head, down the back, out the arms & legs to the tips of your finger & toes — but since our time is limited, I'll ask you to return your focus now to any one of the spots we've already covered. Let your attention settle comfortably there, and then let your conscious awareness spread to fill the entire body, from the head down to the toes, so that you're like a spider sitting in the middle of a web: It's sitting in one spot, but it's sensitive to the entire web. Keep your awareness expanded like this — you have to work at this, for its tendency will be to shrink to a single spot — and think of the breath coming in & out your entire body, through every pore. Let your awareness simply stay right there for a while — there's no where else you have to go, nothing else you have to think about... And then gently come out of meditation.
+
+See also: "[A Guided Meditation](/lib/authors/thanissaro/guided)"

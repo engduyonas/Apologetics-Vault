@@ -1,12 +1,12 @@
 ---
 title: The Inter-Testamental Jewish Literature and the Deity of the Lord Jesus [Part
-tradition: islam
   2]
+tradition: islam
 slug: the-inter-testamental-jewish-literature-and-the-deity-of-the-lord-jesus-part-2
 category: christological-issues
 source: https://answeringislam.info/authors/shamoun/hen_metaphor.html
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 series: The Inter-Testamental Jewish Literature and the Deity of the Lord Jesus
 part: '2'
 wordCount: 1117

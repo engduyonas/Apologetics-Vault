@@ -1,16 +1,16 @@
 ---
 title: If being called God proves that Jesus is the Almighty wouldn't the same hold
-tradition: islam
   for Moses?
+tradition: islam
 slug: if-being-called-god-proves-that-jesus-is-the-almighty-wouldnt-the-same-hold-for-moses
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_moses_god.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 3609
 readTime: 18
 subcategory: Deity of Christ
-series: 'Since the Bible states that God has never been seen, Jesus cannot be God'
+series: Since the Bible states that God has never been seen, Jesus cannot be God
 part: 14
 ---
 

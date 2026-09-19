@@ -1,12 +1,12 @@
 ---
 title: Why did Jesus curse the fig tree for not bearing fruit, although it was not
-tradition: islam
   even fig season?
+tradition: islam
 slug: why-did-jesus-curse-the-fig-tree-for-not-bearing-fruit-although-it-was-not-even-fig-season
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_jesus_figtree_curse.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 2065
 readTime: 10
 subcategory: Deity of Christ

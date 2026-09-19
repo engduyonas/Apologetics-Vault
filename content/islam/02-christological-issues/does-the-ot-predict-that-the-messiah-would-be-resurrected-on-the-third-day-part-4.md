@@ -1,12 +1,12 @@
 ---
 title: Does the OT Predict that the Messiah Would be Resurrected on the Third Day?
-tradition: islam
   [Part 4]
+tradition: islam
 slug: does-the-ot-predict-that-the-messiah-would-be-resurrected-on-the-third-day-part-4
 category: christological-issues
 source: https://answeringislam.info/authors/shamoun/raised3rdday4.html
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 series: Does the OT Predict that the Messiah Would be Resurrected on the Third Day?
 part: '4'
 wordCount: 3292

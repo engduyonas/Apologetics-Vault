@@ -1,12 +1,12 @@
 ---
 title: Does the Quran really deny that a person can bear the sins of another? Pt.
-tradition: islam
   2
+tradition: islam
 slug: does-the-quran-really-deny-that-a-person-can-bear-the-sins-of-another-pt-2
 category: quranic-issues
 source: https://answeringislam.info/authors/shamoun/burden_bearing2.html
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 series: Does the Quran really deny that a person can bear the sins of another?
 part: '2'
 wordCount: 1694

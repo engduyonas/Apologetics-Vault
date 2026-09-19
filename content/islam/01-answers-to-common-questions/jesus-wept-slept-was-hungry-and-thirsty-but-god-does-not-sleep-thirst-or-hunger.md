@@ -1,16 +1,16 @@
 ---
 title: Jesus wept, slept, was hungry and thirsty, but God does not sleep, thirst or
-tradition: islam
   hunger.
+tradition: islam
 slug: jesus-wept-slept-was-hungry-and-thirsty-but-god-does-not-sleep-thirst-or-hunger
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_eat_sleep_weep.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 1807
 readTime: 9
 subcategory: Deity of Christ
-series: 'Since the Bible states that God has never been seen, Jesus cannot be God'
+series: Since the Bible states that God has never been seen, Jesus cannot be God
 part: 12
 ---
 

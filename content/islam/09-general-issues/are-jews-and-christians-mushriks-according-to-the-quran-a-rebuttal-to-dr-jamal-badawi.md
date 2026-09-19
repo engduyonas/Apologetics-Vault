@@ -1,12 +1,12 @@
 ---
 title: Are Jews and Christians Mushriks according to the Quran? A rebuttal to Dr.
-tradition: islam
   Jamal Badawi
+tradition: islam
 slug: are-jews-and-christians-mushriks-according-to-the-quran-a-rebuttal-to-dr-jamal-badawi
 category: general-issues
 source: https://answeringislam.info/Shamoun/badawi_mushrik.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 8771
 readTime: 44
 subcategory: Quran & Bible

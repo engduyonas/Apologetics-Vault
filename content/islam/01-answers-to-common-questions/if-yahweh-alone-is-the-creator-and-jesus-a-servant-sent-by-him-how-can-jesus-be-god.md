@@ -1,12 +1,12 @@
 ---
 title: If Yahweh alone is the Creator, and Jesus a servant sent by him, how can Jesus
-tradition: islam
   be God?
+tradition: islam
 slug: if-yahweh-alone-is-the-creator-and-jesus-a-servant-sent-by-him-how-can-jesus-be-god
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_yahweh_alone_created.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 1849
 readTime: 9
 subcategory: Deity of Christ

@@ -1,12 +1,12 @@
 ---
 title: Top Ten Reasons Why Shahid's Attacks on Christ's Deity Fail to Accomplish Their
-tradition: islam
   Purpose
+tradition: islam
 slug: top-ten-reasons-why-shahids-attacks-on-christs-deity-fail-to-accomplish-their-purpose
 category: christological-issues
 source: https://answeringislam.info/Shamoun/10_reasons.htm
-author: "Sam Shamoun"
-sourceName: "Answering Islam"
+author: Sam Shamoun
+sourceName: Answering Islam
 wordCount: 9521
 readTime: 48
 subcategory: Christ's Deity & Identity
