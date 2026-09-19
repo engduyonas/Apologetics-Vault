@@ -54,9 +54,9 @@ export const GUIDES: Record<string, Guide> = {
         note: "A close examination of Islam's central confession of faith.",
       },
       {
-        category: "blog-posts",
-        slug: "hear-and-disobey-another-quranic-blunder",
-        note: "A shorter, recent piece — the kind of close textual argument this section specializes in.",
+        category: "general-issues",
+        slug: "muhammad-as-al-amin-the-trustworthy",
+        note: "A well-known epithet for Muhammad, examined against the historical record.",
       },
     ],
   },
@@ -97,9 +97,9 @@ export const GUIDES: Record<string, Guide> = {
         note: "A test case for how the site handles questions of biblical historicity.",
       },
       {
-        category: "blog-posts",
-        slug: "filioque-petrine-roman-primacy",
-        note: "A shorter piece drawing on patristic sources — representative of the blog's more advanced material.",
+        category: "church-history-and-denominations",
+        slug: "the-reformation",
+        note: "Steps outside Shamoun's own writing into the site's public-domain reference material on church history.",
       },
       {
         category: "short-summaries",

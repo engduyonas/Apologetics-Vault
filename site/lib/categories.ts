@@ -134,15 +134,8 @@ export const CATEGORIES: Record<string, Category[]> = {
     },
     // 10-responses-to-authors intentionally has 0 scraped articles; the category
     // auto-hides via getCategoriesWithCounts()'s articleCount > 0 filter.
-    {
-      slug: "blog-posts",
-      folder: "13-blog-posts",
-      order: 13,
-      title: "Blog Posts",
-      description:
-        "Blog posts from Theology Sphere addressing Quranic and Muhammad-related topics.",
-      icon: "pen-tool",
-    },
+    // 13-blog-posts was retired as its own category — its articles were
+    // redistributed into the topical categories above by subcategory.
   ],
   "christian-theology": [
     {
@@ -213,15 +206,8 @@ export const CATEGORIES: Record<string, Category[]> = {
       description: "Concise summary articles on key theological points.",
       icon: "align-left",
     },
-    {
-      slug: "blog-posts",
-      folder: "13-blog-posts",
-      order: 9,
-      title: "Blog Posts",
-      description:
-        "Blog posts from Theology Sphere covering patristic theology and advanced topics.",
-      icon: "pen-tool",
-    },
+    // 13-blog-posts was retired as its own category — its articles were
+    // redistributed into the topical categories above by subcategory.
   ],
   mormonism: [
     {
@@ -335,6 +321,7 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Quran & the Bible", icon: "book" },
       { name: "Textual History", icon: "scroll" },
       { name: "Quran Stories & Figures", icon: "users" },
+      { name: "Quranic Analysis", icon: "scroll" },
       { name: "General Topics", icon: "file-text" },
     ],
     "analysis-of-muhammad": [
@@ -344,6 +331,7 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "False Prophecies", icon: "scroll" },
       { name: "Muhammad & Islamic Practice", icon: "globe" },
       { name: "Muhammad & Scripture", icon: "book" },
+      { name: "Muhammad & Islam", icon: "alert-triangle" },
       { name: "General Topics", icon: "file-text" },
     ],
     "general-issues": [
@@ -352,19 +340,6 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Apologetics & Defense", icon: "book-open" },
       { name: "Quran & Bible", icon: "scroll" },
       { name: "Women in Islam", icon: "users" },
-      { name: "General Topics", icon: "file-text" },
-    ],
-    "blog-posts": [
-      { name: "Christology", icon: "crown" },
-      { name: "Trinity & Godhead", icon: "book-open" },
-      { name: "Holy Spirit", icon: "wind" },
-      { name: "Atonement & Salvation", icon: "heart" },
-      { name: "Patristic Theology", icon: "landmark" },
-      { name: "Church & Sacraments", icon: "church" },
-      { name: "Biblical Studies", icon: "book" },
-      { name: "Quranic Analysis", icon: "scroll" },
-      { name: "Muhammad & Islam", icon: "alert-triangle" },
-      { name: "Rebuttals & Debates", icon: "message-square" },
       { name: "General Topics", icon: "file-text" },
     ],
   },
@@ -386,29 +361,25 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Worship of Christ", icon: "heart" },
       { name: "Son of Man & Preexistence", icon: "wind" },
       { name: "Shema & Monotheism", icon: "book" },
+      { name: "Christology", icon: "crown" },
       { name: "General Topics", icon: "file-text" },
     ],
     "theological-issues": [
       { name: "Trinity & Monotheism", icon: "book-open" },
       { name: "Salvation & Eschatology", icon: "heart" },
       { name: "OT Theology", icon: "book" },
+      { name: "Trinity & Godhead", icon: "book-open" },
+      { name: "Holy Spirit", icon: "wind" },
+      { name: "Atonement & Salvation", icon: "heart" },
       { name: "General Topics", icon: "file-text" },
+    ],
+    "biblical-issues": [
+      { name: "Biblical Studies", icon: "book" },
     ],
     "general-issues": [
       { name: "Rebuttals & Debates", icon: "message-square" },
       { name: "Apologetics & Defense", icon: "book-open" },
       { name: "Quran & Bible", icon: "scroll" },
-      { name: "General Topics", icon: "file-text" },
-    ],
-    "blog-posts": [
-      { name: "Christology", icon: "crown" },
-      { name: "Trinity & Godhead", icon: "book-open" },
-      { name: "Holy Spirit", icon: "wind" },
-      { name: "Atonement & Salvation", icon: "heart" },
-      { name: "Patristic Theology", icon: "landmark" },
-      { name: "Church & Sacraments", icon: "church" },
-      { name: "Biblical Studies", icon: "book" },
-      { name: "Rebuttals & Debates", icon: "message-square" },
       { name: "General Topics", icon: "file-text" },
     ],
     "church-history-and-denominations": [
@@ -417,6 +388,8 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Oriental Orthodox & Christological Councils", icon: "scroll" },
       { name: "Protestant Reformation & Denominations", icon: "book-open" },
       { name: "Ecumenical Councils", icon: "users" },
+      { name: "Patristic Theology", icon: "landmark" },
+      { name: "Church & Sacraments", icon: "church" },
     ],
   },
   "eastern-traditions": {

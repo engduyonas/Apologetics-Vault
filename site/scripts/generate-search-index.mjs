@@ -31,7 +31,6 @@ const CATEGORIES = {
     { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
     { slug: "responses-to-authors", folder: "10-responses-to-authors", title: "Responses to Muslim Authors" },
     { slug: "turning-the-tables", folder: "11-turning-the-tables", title: "Turning the Tables" },
-    { slug: "blog-posts", folder: "13-blog-posts", title: "Blog Posts" },
   ],
   "christian-theology": [
     { slug: "answers-to-common-questions", folder: "01-answers-to-common-questions", title: "Answers to Common Questions" },
@@ -42,7 +41,6 @@ const CATEGORIES = {
     { slug: "polemical-issues", folder: "08-polemical-issues", title: "Polemical Issues" },
     { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
     { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
-    { slug: "blog-posts", folder: "13-blog-posts", title: "Blog Posts" },
   ],
   mormonism: [
     { slug: "joseph-smith-and-lds-theology", folder: "01-joseph-smith-and-lds-theology", title: "Joseph Smith & LDS Theology" },
