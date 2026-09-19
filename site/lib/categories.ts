@@ -180,9 +180,18 @@ export const CATEGORIES: Record<string, Category[]> = {
       icon: "book",
     },
     {
+      slug: "church-history-and-denominations",
+      folder: "14-church-history-and-denominations",
+      order: 5,
+      title: "Church History & Denominations",
+      description:
+        "Doctrine and history across Catholic, Orthodox, and Protestant traditions, drawn from public-domain reference works.",
+      icon: "landmark",
+    },
+    {
       slug: "polemical-issues",
       folder: "08-polemical-issues",
-      order: 5,
+      order: 6,
       title: "Polemical Issues",
       description:
         "Cross-topic essays on Abraham, angels, and biblical interpretation.",
@@ -191,7 +200,7 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "general-issues",
       folder: "09-general-issues",
-      order: 6,
+      order: 7,
       title: "General Issues",
       description: "Broader topics in Christian apologetics and biblical ethics.",
       icon: "globe",
@@ -199,7 +208,7 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "short-summaries",
       folder: "12-short-summaries",
-      order: 7,
+      order: 8,
       title: "Short Summaries",
       description: "Concise summary articles on key theological points.",
       icon: "align-left",
@@ -207,7 +216,7 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "blog-posts",
       folder: "13-blog-posts",
-      order: 8,
+      order: 9,
       title: "Blog Posts",
       description:
         "Blog posts from Theology Sphere covering patristic theology and advanced topics.",
@@ -401,6 +410,13 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Biblical Studies", icon: "book" },
       { name: "Rebuttals & Debates", icon: "message-square" },
       { name: "General Topics", icon: "file-text" },
+    ],
+    "church-history-and-denominations": [
+      { name: "Roman Catholic", icon: "landmark" },
+      { name: "Eastern Orthodox", icon: "church" },
+      { name: "Oriental Orthodox & Christological Councils", icon: "scroll" },
+      { name: "Protestant Reformation & Denominations", icon: "book-open" },
+      { name: "Ecumenical Councils", icon: "users" },
     ],
   },
   "eastern-traditions": {

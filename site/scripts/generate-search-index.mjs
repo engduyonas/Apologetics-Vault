@@ -38,6 +38,7 @@ const CATEGORIES = {
     { slug: "christological-issues", folder: "02-christological-issues", title: "Christological Issues" },
     { slug: "theological-issues", folder: "03-theological-issues", title: "Theological Issues" },
     { slug: "biblical-issues", folder: "04-biblical-issues", title: "Biblical Issues" },
+    { slug: "church-history-and-denominations", folder: "14-church-history-and-denominations", title: "Church History & Denominations" },
     { slug: "polemical-issues", folder: "08-polemical-issues", title: "Polemical Issues" },
     { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
     { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
