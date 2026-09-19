@@ -1,10 +1,18 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getArticle, getArticlesByCategory, getSeriesArticles } from "@/lib/content";
+import {
+  getArticle,
+  getArticlesByCategory,
+  getSeriesArticles,
+  getRelatedArticles,
+} from "@/lib/content";
 import { getCategoryBySlug, CATEGORIES } from "@/lib/categories";
 import ReadingProgress from "@/components/ReadingProgress";
 import TableOfContents from "@/components/TableOfContents";
 import CategoryIcon from "@/components/CategoryIcon";
+import ArticleCard from "@/components/ArticleCard";
+import BookmarkButton from "@/components/BookmarkButton";
+import MarkAsReadOnView from "@/components/MarkAsReadOnView";
 import { ChevronRight, Clock, ExternalLink, ArrowLeft, ArrowRight } from "lucide-react";
 
 export function generateStaticParams() {
@@ -41,6 +49,8 @@ export default async function ArticlePage({ params }: Props) {
       nextArticle = seriesParts[currentIdx + 1];
   }
 
+  const relatedArticles = getRelatedArticles(article, 5);
+
   let headingIndex = 0;
   const htmlWithIds = article.htmlContent.replace(
     /<(h[23])>(.*?)<\/h[23]>/g,
@@ -53,6 +63,7 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <>
       <ReadingProgress />
+      <MarkAsReadOnView category={categorySlug} slug={slug} />
 
       <div className="px-6 lg:px-14 xl:px-20 py-10 flex gap-10">
         <article className="flex-1 min-w-0 mx-auto">
@@ -81,9 +92,24 @@ export default async function ArticlePage({ params }: Props) {
           <div className="bg-cream-50 dark:bg-warm-900 rounded-xl shadow-sm dark:shadow-warm-800/20 px-8 sm:px-12 lg:px-20 xl:px-28 py-12 lg:py-16 border border-cream-300/50 dark:border-warm-700/50">
             {/* Title block — centered like the prose column */}
             <header className="max-w-[58rem] mx-auto">
-              <h1 className="font-serif text-3xl sm:text-4xl font-bold text-warm-800 dark:text-cream-100 leading-tight tracking-tight mb-5">
-                {article.title}
-              </h1>
+              <div className="flex items-start justify-between gap-4 mb-5">
+                <h1 className="font-serif text-3xl sm:text-4xl font-bold text-warm-800 dark:text-cream-100 leading-tight tracking-tight">
+                  {article.title}
+                </h1>
+                <BookmarkButton
+                  size="md"
+                  article={{
+                    title: article.title,
+                    slug: article.slug,
+                    category: categorySlug,
+                    categoryLabel: category.title,
+                    readTime: article.readTime,
+                    subcategory: article.subcategory,
+                    series: article.series,
+                    part: article.part,
+                  }}
+                />
+              </div>
 
               {/* Meta */}
               <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-warm-500 dark:text-warm-400 pb-6 font-sans">
@@ -170,6 +196,29 @@ export default async function ArticlePage({ params }: Props) {
               ) : (
                 <div />
               )}
+            </div>
+          )}
+
+          {/* Related Articles */}
+          {relatedArticles.length > 0 && (
+            <div className="mt-12 pt-6 border-t border-cream-300 dark:border-warm-700 font-sans max-w-[58rem] mx-auto">
+              <h2 className="text-sm font-semibold text-warm-500 dark:text-warm-400 uppercase tracking-wide mb-2">
+                Related Articles
+              </h2>
+              <div>
+                {relatedArticles.map((a) => (
+                  <ArticleCard
+                    key={a.slug}
+                    title={a.title}
+                    slug={a.slug}
+                    category={a.category}
+                    readTime={a.readTime}
+                    series={a.series}
+                    part={a.part}
+                    subcategory={a.subcategory}
+                  />
+                ))}
+              </div>
             </div>
           )}
 

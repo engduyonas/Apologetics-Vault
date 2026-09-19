@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/satan_on_the_throne.html
 wordCount: 1533
 readTime: 8
 subcategory: Nature of Allah
-series: 'Allah's Studies'
+series: "Allah's Studies"
 part: 3
 ---
 

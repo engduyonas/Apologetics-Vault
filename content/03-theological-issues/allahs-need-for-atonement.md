@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/allah_needs_atonement.html
 wordCount: 1547
 readTime: 8
 subcategory: Nature of Allah
-series: 'Allah's Studies'
+series: "Allah's Studies"
 part: 2
 ---
 

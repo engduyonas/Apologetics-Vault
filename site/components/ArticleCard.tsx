@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { Clock } from "lucide-react";
+import BookmarkButton from "./BookmarkButton";
+import ReadIndicator from "./ReadIndicator";
 
 interface ArticleCardProps {
   title: string;
@@ -28,9 +30,10 @@ export default function ArticleCard({
       className="group flex items-center justify-between gap-4 py-3.5 px-3 -mx-3 rounded-md hover:bg-cream-200/60 dark:hover:bg-warm-800/60 transition-colors border-b border-cream-300/50 dark:border-warm-700/50 last:border-b-0"
     >
       <div className="min-w-0">
-        <h3 className="text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-base">
+        <h3 className="flex items-center gap-2 text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-base">
+          <ReadIndicator category={category} slug={slug} />
           {series && part && (
-            <span className="text-warm-400 dark:text-warm-500 text-sm font-medium mr-2 font-sans">
+            <span className="text-warm-400 dark:text-warm-500 text-sm font-medium font-sans">
               Pt. {part}
             </span>
           )}
@@ -49,10 +52,15 @@ export default function ArticleCard({
           )}
         </div>
       </div>
-      <span className="shrink-0 text-sm text-warm-400 dark:text-warm-500 flex items-center gap-1 font-sans tabular-nums">
-        <Clock className="w-3.5 h-3.5" />
-        {readTime}m
-      </span>
+      <div className="shrink-0 flex items-center gap-3">
+        <span className="text-sm text-warm-400 dark:text-warm-500 flex items-center gap-1 font-sans tabular-nums">
+          <Clock className="w-3.5 h-3.5" />
+          {readTime}m
+        </span>
+        <BookmarkButton
+          article={{ title, slug, category, categoryLabel: categoryLabel || category, readTime, series, part, subcategory }}
+        />
+      </div>
     </Link>
   );
 }

@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/allah_inheriting.html
 wordCount: 1873
 readTime: 9
 subcategory: Nature of Allah
-series: 'Allah's Studies'
+series: "Allah's Studies"
 part: 4
 ---
 

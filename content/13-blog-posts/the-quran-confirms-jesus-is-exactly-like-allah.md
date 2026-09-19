@@ -6,7 +6,7 @@ source: https://www.samshmnthelogy.net/post/the-quran-confirms-jesus-is-exactly-
 wordCount: 3202
 readTime: 16
 subcategory: Christology
-series: 'Quran Confirms Christ's Prehuman Existence & Incarnation'
+series: "Quran Confirms Christ's Prehuman Existence & Incarnation"
 part: 6
 ---
 

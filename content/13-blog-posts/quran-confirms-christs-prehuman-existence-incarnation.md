@@ -6,7 +6,7 @@ source: https://www.samshmnthelogy.net/post/quran-confirms-christ-s-prehuman-exi
 wordCount: 2559
 readTime: 13
 subcategory: Christology
-series: 'Quran Confirms Christ's Prehuman Existence & Incarnation'
+series: "Quran Confirms Christ's Prehuman Existence & Incarnation"
 part: 4
 ---
 

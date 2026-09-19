@@ -107,6 +107,16 @@ export const CATEGORIES: Category[] = [
       "Series applying Muslim argumentation standards back to Islamic sources.",
     icon: "rotate-ccw",
   },
+  // 10-responses-to-authors intentionally has 0 scraped articles; the category
+  // auto-hides via getCategoriesWithCounts()'s articleCount > 0 filter.
+  {
+    slug: "short-summaries",
+    folder: "12-short-summaries",
+    order: 12,
+    title: "Short Summaries",
+    description: "Concise summary articles on key theological points.",
+    icon: "align-left",
+  },
   {
     slug: "blog-posts",
     folder: "13-blog-posts",

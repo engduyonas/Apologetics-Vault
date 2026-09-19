@@ -1,6 +1,6 @@
 ---
 title: Revisiting The Issue of the Uncreated Quran Pt. 1
-slug: revisiting-the-issue-of-the-uncreated-quran-pt-1
+slug: revisiting-the-issue-of-the-uncreated-quran-pt-1-1
 category: blog-posts
 source: https://www.samshmnthelogy.net/post/revisiting-the-issue-of-the-uncreated-quran-pt-1-1
 series: Revisiting The Issue of the Uncreated Quran

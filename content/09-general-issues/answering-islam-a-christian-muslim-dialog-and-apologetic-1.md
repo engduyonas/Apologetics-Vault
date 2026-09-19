@@ -1,6 +1,6 @@
 ---
 title: Answering Islam,  A Christian-Muslim Dialog and Apologetic
-slug: answering-islam-a-christian-muslim-dialog-and-apologetic
+slug: answering-islam-a-christian-muslim-dialog-and-apologetic-1
 category: general-issues
 source: https://answeringislam.info/
 wordCount: 512

@@ -1,6 +1,6 @@
 ---
 title: Plurality in the Old Testament
-slug: plurality-in-the-old-testament
+slug: plurality-in-the-old-testament-1
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/plurality2.htm
 wordCount: 9069

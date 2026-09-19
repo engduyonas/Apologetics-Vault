@@ -6,7 +6,7 @@ source: https://www.samshmnthelogy.net/post/judaisms-views-on-the-messiah-s-preh
 wordCount: 5741
 readTime: 29
 subcategory: Christology
-series: 'Quran Confirms Christ's Prehuman Existence & Incarnation'
+series: "Quran Confirms Christ's Prehuman Existence & Incarnation"
 part: 5
 ---
 

@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { PanelLeftClose, PanelLeftOpen } from "lucide-react";
+import Link from "next/link";
+import { PanelLeftClose, PanelLeftOpen, Bookmark } from "lucide-react";
 import Sidebar from "./Sidebar";
 import MobileNav from "./MobileNav";
 import SearchBar from "./SearchBar";
@@ -67,6 +68,14 @@ export default function DesktopShell({
             <div className="flex-1 flex justify-center">
               <SearchBar />
             </div>
+            <Link
+              href="/reading-list"
+              className="p-2 rounded-lg hover:bg-cream-200 dark:hover:bg-warm-800 transition-colors"
+              aria-label="Reading list"
+              title="Reading list"
+            >
+              <Bookmark className="w-5 h-5 text-warm-500 dark:text-warm-400" />
+            </Link>
             <ThemeToggle />
           </div>
         </header>

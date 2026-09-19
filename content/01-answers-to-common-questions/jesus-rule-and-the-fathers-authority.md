@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/qa/father_authority.html
 wordCount: 2798
 readTime: 14
 subcategory: Deity of Christ
-series: 'Jesus' Studies'
+series: "Jesus' Studies"
 part: 3
 ---
 

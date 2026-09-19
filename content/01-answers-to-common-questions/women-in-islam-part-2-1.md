@@ -1,6 +1,6 @@
 ---
 title: Women in Islam [Part 2]
-slug: women-in-islam-part-2
+slug: women-in-islam-part-2-1
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/women_in_bible2.htm
 series: Women in Islam

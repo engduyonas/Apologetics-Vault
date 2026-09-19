@@ -1,6 +1,6 @@
 ---
 title: Jesus says that the Father is greater than he is, proving that he is not God.
-slug: jesus-says-that-the-father-is-greater-than-he-is-proving-that-he-is-not-god
+slug: jesus-says-that-the-father-is-greater-than-he-is-proving-that-he-is-not-god-1
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_only_god_good.htm
 wordCount: 2572

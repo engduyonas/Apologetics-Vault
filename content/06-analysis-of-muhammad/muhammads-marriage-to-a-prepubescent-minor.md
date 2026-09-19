@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/attained_puberty.html
 wordCount: 2123
 readTime: 11
 subcategory: Muhammad's Wives & Marriages
-series: 'Muhammad's Marriage to a Prepubescent Girl and its Moral Implications'
+series: "Muhammad's Marriage to a Prepubescent Girl and its Moral Implications"
 part: 3
 ---
 

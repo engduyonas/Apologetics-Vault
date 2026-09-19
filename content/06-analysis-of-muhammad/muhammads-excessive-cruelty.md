@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/cruelty.htm
 wordCount: 3623
 readTime: 18
 subcategory: Character & Morality
-series: 'Muhammad's Studies'
+series: "Muhammad's Studies"
 part: 2
 ---
 

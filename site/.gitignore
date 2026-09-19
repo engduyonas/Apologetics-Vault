@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated search index (run scripts/generate-search-index.mjs)
+/public/search-index.json

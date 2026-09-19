@@ -1,6 +1,6 @@
 ---
 title: 'Jesus Christ: The Eternally Reigning God'
-slug: jesus-christ-the-eternally-reigning-god
+slug: jesus-christ-the-eternally-reigning-god-1
 category: blog-posts
 source: https://www.samshmnthelogy.net/post/jesus-christ-the-eternally-reigning-god-1
 wordCount: 3700

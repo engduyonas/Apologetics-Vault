@@ -7,7 +7,7 @@ source: https://answeringislam.info/Shamoun/q_mt_i_am.htm
 wordCount: 4903
 readTime: 25
 subcategory: Deity of Christ
-series: 'Jesus' Studies'
+series: "Jesus' Studies"
 part: 4
 ---
 

@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/q_jesus_melchizedek.htm
 wordCount: 6062
 readTime: 30
 subcategory: Salvation & Atonement
-series: 'Doesn't Studies'
+series: "Doesn't Studies"
 part: 2
 ---
 

@@ -7,7 +7,7 @@ source: https://answeringislam.info/Shamoun/q_ez18.htm
 wordCount: 4736
 readTime: 24
 subcategory: Salvation & Atonement
-series: 'Doesn't Studies'
+series: "Doesn't Studies"
 part: 1
 ---
 

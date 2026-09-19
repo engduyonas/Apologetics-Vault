@@ -1,6 +1,6 @@
 ---
 title: If Jesus is God, how can God die?
-slug: if-jesus-is-god-how-can-god-die
+slug: if-jesus-is-god-how-can-god-die-1
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/q_jesus_tempted.htm
 wordCount: 1845

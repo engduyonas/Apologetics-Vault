@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/qa/spirit_god_of_jesus.html
 wordCount: 3102
 readTime: 16
 subcategory: Deity of Christ
-series: 'Jesus' Studies'
+series: "Jesus' Studies"
 part: 2
 ---
 

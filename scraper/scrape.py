@@ -394,6 +394,9 @@ def fetch_and_save(article, content_dir):
         slug = slugify(title)
         if not slug:
             slug = slugify(url.split("/")[-1].replace(".html", ""))
+        if not slug:
+            log_error(url, "Could not derive a slug (non-ASCII title and URL)")
+            return False
 
         series_name, part = detect_series(title)
 
@@ -420,8 +423,10 @@ def fetch_and_save(article, content_dir):
         file_path = os.path.join(folder_path, f"{slug}.md")
         counter = 1
         while os.path.exists(file_path):
-            file_path = os.path.join(folder_path, f"{slug}-{counter}.md")
+            slug = f"{slugify(title)}-{counter}"
+            file_path = os.path.join(folder_path, f"{slug}.md")
             counter += 1
+        frontmatter["slug"] = slug
 
         fm_str = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
         with open(file_path, "w", encoding="utf-8") as f:

@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/nightjourney.htm
 wordCount: 3479
 readTime: 17
 subcategory: Character & Morality
-series: 'Muhammad's Studies'
+series: "Muhammad's Studies"
 part: 1
 ---
 

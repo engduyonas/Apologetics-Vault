@@ -1,6 +1,6 @@
 ---
 title: On Serving Others Besides Allah — The Hypocrisy and Blasphemy of Islam
-slug: on-serving-others-besides-allah-the-hypocrisy-and-blasphemy-of-islam
+slug: on-serving-others-besides-allah-the-hypocrisy-and-blasphemy-of-islam-1
 category: answers-to-common-questions
 source: https://answeringislam.info/Shamoun/serve_besides_allah2.htm
 wordCount: 10102

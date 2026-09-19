@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/prepubescent.htm
 wordCount: 11764
 readTime: 59
 subcategory: Muhammad's Wives & Marriages
-series: 'Muhammad's Marriage to a Prepubescent Girl and its Moral Implications'
+series: "Muhammad's Marriage to a Prepubescent Girl and its Moral Implications"
 part: 4
 ---
 

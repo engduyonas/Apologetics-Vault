@@ -6,7 +6,7 @@ source: https://answeringislam.info/authors/shamoun/praised_by_allah.html
 wordCount: 1834
 readTime: 9
 subcategory: Deification of Muhammad
-series: 'Muhammad's Exaltation'
+series: "Muhammad's Exaltation"
 part: 1
 ---
 

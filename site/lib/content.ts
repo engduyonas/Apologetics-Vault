@@ -4,7 +4,12 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
-import { CATEGORIES, SUBCATEGORIES, getCategoryByFolder } from "./categories";
+import {
+  CATEGORIES,
+  SUBCATEGORIES,
+  getCategoryByFolder,
+  getCategoryBySlug,
+} from "./categories";
 
 const CONTENT_DIR = path.join(process.cwd(), "..", "content");
 
@@ -85,7 +90,8 @@ function parseArticleMeta(
       wordCount: data.wordCount || 0,
       readTime: data.readTime || 1,
     };
-  } catch {
+  } catch (err) {
+    console.warn(`Skipping unparseable article frontmatter: ${filePath}`, err);
     return null;
   }
 }
@@ -202,14 +208,91 @@ export function getSeriesArticles(
     });
 }
 
-export function searchArticles(query: string): ArticleMeta[] {
-  if (!query || query.trim().length < 2) return [];
-  const q = query.toLowerCase();
-  return getArticles().filter(
-    (a) =>
-      a.title.toLowerCase().includes(q) ||
-      (a.series && a.series.toLowerCase().includes(q))
+export function getRelatedArticles(
+  article: ArticleMeta,
+  limit = 5
+): ArticleMeta[] {
+  const categoryArticles = getArticlesByCategory(article.category).filter(
+    (a) => a.slug !== article.slug
   );
+
+  const sameSubcategory = article.subcategory
+    ? categoryArticles.filter((a) => a.subcategory === article.subcategory)
+    : [];
+  const sameSeries = article.series
+    ? categoryArticles.filter(
+        (a) => a.series === article.series && !sameSubcategory.includes(a)
+      )
+    : [];
+  const rest = categoryArticles.filter(
+    (a) => !sameSubcategory.includes(a) && !sameSeries.includes(a)
+  );
+
+  return [...sameSubcategory, ...sameSeries, ...rest].slice(0, limit);
+}
+
+export interface SearchDoc {
+  id: string;
+  title: string;
+  slug: string;
+  category: string;
+  categoryLabel: string;
+  subcategory?: string;
+  series?: string;
+  part?: string;
+  readTime: number;
+  excerpt: string;
+}
+
+function stripMarkdown(markdown: string): string {
+  return markdown
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/!\[.*?\]\(.*?\)/g, " ")
+    .replace(/\[(.*?)\]\(.*?\)/g, "$1")
+    .replace(/[#>*_`~]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function excerptOf(markdown: string, maxLength = 220): string {
+  const plain = stripMarkdown(markdown);
+  if (plain.length <= maxLength) return plain;
+  const truncated = plain.slice(0, maxLength);
+  const lastSpace = truncated.lastIndexOf(" ");
+  return `${truncated.slice(0, lastSpace > 0 ? lastSpace : maxLength)}…`;
+}
+
+export function getSearchIndex(): SearchDoc[] {
+  const files = getAllMarkdownFiles();
+  const docs: SearchDoc[] = [];
+
+  for (const { filePath, folder } of files) {
+    try {
+      const fileContent = fs.readFileSync(filePath, "utf-8");
+      const { data, content } = matter(fileContent);
+
+      const category = getCategoryByFolder(folder);
+      const categorySlug = category?.slug || data.category || "general-issues";
+      const slug = data.slug || path.basename(filePath, ".md");
+
+      docs.push({
+        id: `${categorySlug}/${slug}`,
+        title: data.title || slug,
+        slug,
+        category: categorySlug,
+        categoryLabel: getCategoryBySlug(categorySlug)?.title || categorySlug,
+        subcategory: data.subcategory,
+        series: data.series,
+        part: data.part?.toString(),
+        readTime: data.readTime || 1,
+        excerpt: excerptOf(content),
+      });
+    } catch (err) {
+      console.warn(`Skipping unparseable article in search index: ${filePath}`, err);
+    }
+  }
+
+  return docs;
 }
 
 export function getTotalStats() {

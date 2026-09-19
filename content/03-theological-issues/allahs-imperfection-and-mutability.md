@@ -6,7 +6,7 @@ source: https://answeringislam.info/Shamoun/imperfection.htm
 wordCount: 2010
 readTime: 10
 subcategory: Nature of Allah
-series: 'Allah's Studies'
+series: "Allah's Studies"
 part: 1
 ---
 

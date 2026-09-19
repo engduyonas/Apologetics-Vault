@@ -6,7 +6,7 @@ source: https://www.samshmnthelogy.net/post/a-prophecy-that-proves-muhammad-s-a-
 wordCount: 2592
 readTime: 13
 subcategory: Biblical Studies
-series: 'A Prophecy that Proves Muhammad's A Fraud'
+series: "A Prophecy that Proves Muhammad's A Fraud"
 part: 3
 ---
 

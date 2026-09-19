@@ -7,7 +7,7 @@ source: https://answeringislam.info/Shamoun/q_mk_12_29.htm
 wordCount: 7904
 readTime: 40
 subcategory: Deity of Christ
-series: 'Jesus' Studies'
+series: "Jesus' Studies"
 part: 1
 ---
 

@@ -6,7 +6,7 @@ source: https://www.samshmnthelogy.net/post/rabbis-on-messiah-s-divine-prehuman-
 wordCount: 2331
 readTime: 12
 subcategory: Christology
-series: 'Quran Confirms Christ's Prehuman Existence & Incarnation'
+series: "Quran Confirms Christ's Prehuman Existence & Incarnation"
 part: 3
 ---
 
