@@ -19,6 +19,7 @@ const TRADITIONS = [
   { slug: "judaism", title: "Judaism" },
   { slug: "eastern-traditions", title: "Eastern Traditions" },
   { slug: "mormonism", title: "Mormonism" },
+  { slug: "atheism-secularism", title: "Atheism & Secularism" },
 ];
 
 const CATEGORIES = {
@@ -67,6 +68,15 @@ const CATEGORIES = {
     { slug: "sutta-translations", folder: "06-sutta-translations", title: "Sutta Translations" },
     { slug: "monastic-life-and-the-sangha", folder: "07-monastic-life-and-the-sangha", title: "Monastic Life & the Sangha" },
     { slug: "teachers-and-traditions", folder: "08-teachers-and-traditions", title: "Teachers & Traditions" },
+  ],
+  "atheism-secularism": [
+    { slug: "arguments-for-atheism", folder: "01-arguments-for-atheism", title: "Arguments for Atheism" },
+    { slug: "critiques-of-theistic-arguments", folder: "02-critiques-of-theistic-arguments", title: "Critiques of Theistic Arguments" },
+    { slug: "secular-ethics-and-morality", folder: "03-secular-ethics-and-morality", title: "Secular Ethics & Morality" },
+    { slug: "faith-reason-and-agnosticism", folder: "04-faith-reason-and-agnosticism", title: "Faith, Reason & Agnosticism" },
+    { slug: "biblical-criticism", folder: "05-biblical-criticism", title: "Biblical Criticism" },
+    { slug: "church-state-and-society", folder: "06-church-state-and-society", title: "Church, State & Society" },
+    { slug: "death-mind-and-the-afterlife", folder: "07-death-mind-and-the-afterlife", title: "Death, Mind & the Afterlife" },
   ],
 };
 

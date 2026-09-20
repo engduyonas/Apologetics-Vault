@@ -47,6 +47,14 @@ export const TRADITIONS: Tradition[] = [
       "Examination of Joseph Smith's claims and foundational LDS doctrine, drawn from Sam Shamoun's work.",
     icon: "landmark",
   },
+  {
+    slug: "atheism-secularism",
+    order: 6,
+    title: "Atheism & Secularism",
+    description:
+      "Nontheistic arguments, critiques of theistic arguments, secular ethics, and skeptical biblical criticism, drawn from the Secular Web.",
+    icon: "brain",
+  },
 ];
 
 export interface Category {
@@ -376,6 +384,64 @@ export const CATEGORIES: Record<string, Category[]> = {
       description:
         "Essays and commentary from featured authors and Thai Forest tradition teachers.",
       icon: "user",
+    },
+  ],
+  "atheism-secularism": [
+    {
+      slug: "arguments-for-atheism",
+      folder: "01-arguments-for-atheism",
+      order: 1,
+      title: "Arguments for Atheism",
+      description: "The positive case for nontheism, and what it means to live without belief in God.",
+      icon: "sparkles",
+    },
+    {
+      slug: "critiques-of-theistic-arguments",
+      folder: "02-critiques-of-theistic-arguments",
+      order: 2,
+      title: "Critiques of Theistic Arguments",
+      description: "Responses to cosmological, design, and miracle arguments, and the problem of evil.",
+      icon: "scale",
+    },
+    {
+      slug: "secular-ethics-and-morality",
+      folder: "03-secular-ethics-and-morality",
+      order: 3,
+      title: "Secular Ethics & Morality",
+      description: "Grounding morality without God, and whether atheists bear a burden of proof.",
+      icon: "heart",
+    },
+    {
+      slug: "faith-reason-and-agnosticism",
+      folder: "04-faith-reason-and-agnosticism",
+      order: 4,
+      title: "Faith, Reason & Agnosticism",
+      description: "Agnosticism, the reliability of faith as a path to knowledge, and logical reasoning.",
+      icon: "help-circle",
+    },
+    {
+      slug: "biblical-criticism",
+      folder: "05-biblical-criticism",
+      order: 5,
+      title: "Biblical Criticism",
+      description: "Skeptical analysis of biblical inconsistencies, errancy, and the Gospels.",
+      icon: "scroll",
+    },
+    {
+      slug: "church-state-and-society",
+      folder: "06-church-state-and-society",
+      order: 6,
+      title: "Church, State & Society",
+      description: "Secularism in public life, and the myth of America as a Christian nation.",
+      icon: "landmark",
+    },
+    {
+      slug: "death-mind-and-the-afterlife",
+      folder: "07-death-mind-and-the-afterlife",
+      order: 7,
+      title: "Death, Mind & the Afterlife",
+      description: "Secular treatments of near-death experiences and the case against immortality.",
+      icon: "wind",
     },
   ],
 };
