@@ -1,14 +1,13 @@
 ---
 title: The Mormon Dilemma
-tradition: islam
+tradition: mormonism
 slug: the-mormon-dilemma
-category: analysis-of-muhammad
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/the-mormon-dilemma
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 2052
 readTime: 10
-subcategory: Muhammad & Islam
 series: Mormon Studies
 part: 4
 ---

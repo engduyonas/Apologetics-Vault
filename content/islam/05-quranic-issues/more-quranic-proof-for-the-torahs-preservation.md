@@ -1,14 +1,14 @@
 ---
 title: MORE QURANIC PROOF FOR THE TORAH’S PRESERVATION
-tradition: christian-theology
+tradition: islam
 slug: more-quranic-proof-for-the-torahs-preservation
-category: biblical-issues
+category: quranic-issues
 source: https://www.samshmnthelogy.net/post/more-quranic-proof-for-the-torah-s-preservation
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 2740
 readTime: 14
-subcategory: Biblical Studies
+subcategory: Quran & the Bible
 ---
 
 # MORE QURANIC PROOF FOR THE TORAH’S PRESERVATION

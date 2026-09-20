@@ -1,6 +1,6 @@
 ---
 title: More of Muhammad's Violation of Islamic Monotheism
-tradition: christian-theology
+tradition: islam
 slug: more-of-muhammads-violation-of-islamic-monotheism
 category: theological-issues
 source: https://answeringislam.info/authors/shamoun/muhammad_shirk.html
@@ -8,7 +8,7 @@ author: Sam Shamoun
 sourceName: Answering Islam
 wordCount: 5895
 readTime: 29
-subcategory: Trinity & Monotheism
+subcategory: Islamic Theology Critiqued
 series: Monotheism Studies
 part: 3
 ---

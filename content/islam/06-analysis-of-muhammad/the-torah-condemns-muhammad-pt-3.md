@@ -1,8 +1,8 @@
 ---
 title: THE TORAH CONDEMNS MUHAMMAD PT. 3
-tradition: christian-theology
+tradition: islam
 slug: the-torah-condemns-muhammad-pt-3
-category: biblical-issues
+category: analysis-of-muhammad
 source: https://www.samshmnthelogy.net/post/the-torah-condemns-muhammad-pt-3
 author: Sam Shamoun
 sourceName: Theology Sphere
@@ -10,7 +10,7 @@ series: THE TORAH CONDEMNS MUHAMMAD
 part: '3'
 wordCount: 1477
 readTime: 7
-subcategory: Biblical Studies
+subcategory: Muhammad & Scripture
 ---
 
 # THE TORAH CONDEMNS MUHAMMAD PT. 3

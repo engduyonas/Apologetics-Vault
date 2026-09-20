@@ -1,14 +1,13 @@
 ---
 title: WHO IS THE ELOHIM OF MORMONISM?
-tradition: christian-theology
+tradition: mormonism
 slug: who-is-the-elohim-of-mormonism
-category: biblical-issues
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/who-is-the-elohim-of-mormonism
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 2629
 readTime: 13
-subcategory: Biblical Studies
 series: WHO IS THE ELOHIM OF MORMONISM?
 part: 3
 ---

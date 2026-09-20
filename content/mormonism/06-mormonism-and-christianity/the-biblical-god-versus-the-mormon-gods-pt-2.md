@@ -1,8 +1,8 @@
 ---
 title: THE BIBLICAL GOD VERSUS THE MORMON GODS PT. 2
-tradition: islam
+tradition: mormonism
 slug: the-biblical-god-versus-the-mormon-gods-pt-2
-category: analysis-of-muhammad
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/the-biblical-god-versus-the-mormon-gods-pt-2
 author: Sam Shamoun
 sourceName: Theology Sphere
@@ -10,7 +10,6 @@ series: THE BIBLICAL GOD VERSUS THE MORMON GODS
 part: '2'
 wordCount: 2352
 readTime: 12
-subcategory: Muhammad & Islam
 ---
 
 # THE BIBLICAL GOD VERSUS THE MORMON GODS PT. 2

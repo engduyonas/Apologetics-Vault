@@ -1,14 +1,13 @@
 ---
 title: 'The Mormon Jesus: The Uncreated Father and Son?'
-tradition: christian-theology
+tradition: mormonism
 slug: the-mormon-jesus-the-uncreated-father-and-son
-category: christological-issues
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/the-mormon-jesus-the-uncreated-father-and-son
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 5101
 readTime: 26
-subcategory: Christology
 series: Jesus Studies
 part: 35
 ---

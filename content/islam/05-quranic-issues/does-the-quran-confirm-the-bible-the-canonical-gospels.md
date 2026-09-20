@@ -1,14 +1,14 @@
 ---
 title: Does the Quran confirm the Bible & the Canonical Gospels?
-tradition: christian-theology
+tradition: islam
 slug: does-the-quran-confirm-the-bible-the-canonical-gospels
-category: biblical-issues
+category: quranic-issues
 source: https://www.samshmnthelogy.net/post/does-the-quran-confirm-the-bible-and-the-canonical-gospels
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 3285
 readTime: 16
-subcategory: Biblical Studies
+subcategory: Quran & the Bible
 series: New Testament
 part: 1
 ---

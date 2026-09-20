@@ -1,14 +1,13 @@
 ---
 title: THE BIBLICAL GOD VERSUS THE MORMON GODS
-tradition: islam
+tradition: mormonism
 slug: the-biblical-god-versus-the-mormon-gods
-category: analysis-of-muhammad
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/the-biblical-god-versus-the-mormon-gods
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 7171
 readTime: 36
-subcategory: Muhammad & Islam
 series: THE BIBLICAL GOD VERSUS THE MORMON GODS
 part: 3
 ---

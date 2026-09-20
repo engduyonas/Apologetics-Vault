@@ -1,14 +1,13 @@
 ---
 title: NOTES FOR MORMON DEBATE
-tradition: islam
+tradition: mormonism
 slug: notes-for-mormon-debate
-category: analysis-of-muhammad
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/notes-for-mormon-debate
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 1136
 readTime: 6
-subcategory: Muhammad & Islam
 series: Mormon Studies
 part: 2
 ---

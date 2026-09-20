@@ -1,14 +1,13 @@
 ---
 title: MORMON GOD VERSUS THE TRUE GOD
-tradition: islam
+tradition: mormonism
 slug: mormon-god-versus-the-true-god
-category: analysis-of-muhammad
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/mormon-god-versus-the-true-god
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 1751
 readTime: 9
-subcategory: Muhammad & Islam
 series: THE BIBLICAL GOD VERSUS THE MORMON GODS
 part: 4
 ---

@@ -1,8 +1,8 @@
 ---
 title: WHO IS THE ELOHIM OF MORMONISM? PT. 2
-tradition: christian-theology
+tradition: mormonism
 slug: who-is-the-elohim-of-mormonism-pt-2
-category: biblical-issues
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/who-is-the-elohim-of-mormonism-pt-2
 author: Sam Shamoun
 sourceName: Theology Sphere
@@ -10,7 +10,6 @@ series: WHO IS THE ELOHIM OF MORMONISM?
 part: '2'
 wordCount: 4954
 readTime: 25
-subcategory: Biblical Studies
 ---
 
 # WHO IS THE ELOHIM OF MORMONISM? PT. 2

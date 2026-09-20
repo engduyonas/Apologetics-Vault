@@ -1,14 +1,14 @@
 ---
 title: 'Muhammad: The Torah’s Upholder & Defender'
-tradition: christian-theology
+tradition: islam
 slug: muhammad-the-torahs-upholder-defender
-category: biblical-issues
+category: analysis-of-muhammad
 source: https://www.samshmnthelogy.net/post/muhammad-the-torah-s-upholder-defender
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 1369
 readTime: 7
-subcategory: Biblical Studies
+subcategory: Muhammad & Scripture
 series: THE TORAH CONDEMNS MUHAMMAD
 part: 4
 ---

@@ -1,14 +1,13 @@
 ---
 title: Joseph Smith the Binitarian
-tradition: christian-theology
+tradition: mormonism
 slug: joseph-smith-the-binitarian
-category: christological-issues
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/joseph-smith-the-binitarian
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 2524
 readTime: 13
-subcategory: Christology
 ---
 
 # Joseph Smith the Binitarian

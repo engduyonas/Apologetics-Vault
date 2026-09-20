@@ -1,14 +1,13 @@
 ---
 title: THE MORMON SATAN & PREMORTALITY
-tradition: islam
+tradition: mormonism
 slug: the-mormon-satan-premortality
-category: analysis-of-muhammad
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/the-mormon-satan-premortality
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 5661
 readTime: 28
-subcategory: Muhammad & Islam
 series: Mormon Studies
 part: 3
 ---

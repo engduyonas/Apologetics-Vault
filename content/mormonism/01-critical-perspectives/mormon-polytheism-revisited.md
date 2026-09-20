@@ -1,14 +1,13 @@
 ---
 title: MORMON POLYTHEISM REVISITED
-tradition: islam
+tradition: mormonism
 slug: mormon-polytheism-revisited
-category: analysis-of-muhammad
+category: critical-perspectives
 source: https://www.samshmnthelogy.net/post/mormon-polytheism-revisited
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 4023
 readTime: 20
-subcategory: Muhammad & Islam
 series: Mormon Studies
 part: 1
 ---

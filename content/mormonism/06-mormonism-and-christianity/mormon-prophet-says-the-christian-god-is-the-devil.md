@@ -1,14 +1,13 @@
 ---
 title: Mormon Prophet Says the Christian God is the Devil!
-tradition: christian-theology
+tradition: mormonism
 slug: mormon-prophet-says-the-christian-god-is-the-devil
-category: christological-issues
+category: mormonism-and-christianity
 source: https://www.samshmnthelogy.net/post/mormon-prophet-says-the-christian-god-is-the-devil
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 786
 readTime: 4
-subcategory: Christology
 series: Deity of Christ
 part: 15
 ---

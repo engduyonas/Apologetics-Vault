@@ -1,8 +1,8 @@
 ---
 title: A Prophecy that Proves Muhammad's A Fraud Pt. 1
-tradition: christian-theology
+tradition: islam
 slug: a-prophecy-that-proves-muhammads-a-fraud-pt-1
-category: biblical-issues
+category: analysis-of-muhammad
 source: https://www.samshmnthelogy.net/post/a-prophecy-that-proves-muhammad-s-a-fraud-pt-1
 author: Sam Shamoun
 sourceName: Theology Sphere
@@ -10,7 +10,7 @@ series: A Prophecy that Proves Muhammad's A Fraud
 part: '1'
 wordCount: 1624
 readTime: 8
-subcategory: Biblical Studies
+subcategory: False Prophecies
 ---
 
 # A Prophecy that Proves Muhammad's A Fraud Pt. 1

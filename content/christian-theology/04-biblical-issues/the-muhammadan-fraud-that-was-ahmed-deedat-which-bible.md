@@ -2,13 +2,13 @@
 title: 'The Muhammadan Fraud That Was Ahmed Deedat: Which Bible?'
 tradition: christian-theology
 slug: the-muhammadan-fraud-that-was-ahmed-deedat-which-bible
-category: general-issues
+category: biblical-issues
 source: https://www.samshmnthelogy.net/post/the-muhammadan-fraud-that-was-ahmed-deedat-which-bible
 author: Sam Shamoun
 sourceName: Theology Sphere
 wordCount: 1669
 readTime: 8
-subcategory: Rebuttals & Debates
+subcategory: Biblical Studies
 series: Named Opponents
 part: 4
 ---
