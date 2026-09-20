@@ -15,7 +15,7 @@ export default function HomePage() {
       {/* Hero */}
       <div className="text-center mb-14">
         <h1 className="text-4xl sm:text-5xl font-bold text-warm-800 dark:text-cream-100 mb-4 font-serif">
-          Apologetics Vault
+          Fluent Faith
         </h1>
         <p className="text-lg text-warm-500 dark:text-warm-400 max-w-xl mx-auto leading-relaxed">
           A personal study library for knowing the Christian faith more

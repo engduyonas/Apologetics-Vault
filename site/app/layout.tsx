@@ -14,7 +14,7 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: "Apologetics Vault",
+  title: "Fluent Faith",
   description:
     "A personal study library for knowing the Christian faith more deeply, and being able to explain and defend it fluently.",
 };

@@ -44,14 +44,14 @@ export default function Sidebar({
           className="flex items-center gap-3"
         >
           <div className="w-8 h-8 rounded-lg bg-slate-700 dark:bg-slate-600 flex items-center justify-center text-white font-bold text-xs tracking-tight">
-            AV
+            FF
           </div>
           <div>
             <h1 className="font-bold text-warm-800 dark:text-cream-100 text-sm leading-tight">
-              Apologetics
+              Fluent
             </h1>
             <p className="text-[10px] text-warm-500 dark:text-warm-400 leading-tight">
-              Vault
+              Faith
             </p>
           </div>
         </Link>
