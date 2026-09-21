@@ -1,0 +1,25 @@
+---
+title: The Correct Reference of Alpha and Omega With God
+slug: the-correct-reference-of-alpha-and-omega-with-god
+tradition: judaism
+category: trinity-and-monotheism
+source: https://jewsforjudaism.org/knowledge/articles/new-testament-refutations-trinity-doctrine-part-19
+author: Jews for Judaism
+sourceName: Jews for Judaism
+wordCount: 729
+readTime: 4
+---
+
+Continued from [Part 18](https://jewsforjudaism.org/knowledge/articles/new-testament-refutations-trinity-doctrine-part-18/)
+
+In Revelation, the title __the Alpha and the Omega__ is applied in different verses to refer to either God or Jesus in their own respective ways. Therefore, the title can be applied to either one of them or to both of them.
+
+It is unnecessary to make the two of them into “ _one God_ ” in order to explain this phrase. In the [New Testament](http://jewsforjudaism.org/knowledge/audio/session-5-christian-proof-texts-new-testament-contradictions-rabbi-kravitz/), the titles “ _Lord_ ,” “ _Savior_ ,” and “ _King of kings and Lord of lords_ ” apply to both God and Jesus respectively (cf. **1 Timothy 6:14-16** where the title is attributed to God with **Revelation 17:14, 19:16** where it is said to apply to Jesus). As with “ _Lord_ ,” “[ _Savior_](http://jewsforjudaism.org/news/jewish-homes-beverly-hills-get-message/)” and “ _King of kings and Lord of lords_ ,” the title __the Alpha and the Omega__ is thought by the author of the Book of Revelation to fit both. God is the beginning and the end of all things because he is uncreated and eternal: the first and the last, the beginning and the end. The title __the Alpha and the Omega__ is applied to Jesus based on the New Testament belief that the pre-incarnate being that was later called Jesus was the first and last thing created directly by God and that the incarnate Jesus was the first and last being resurrected directly by God. Once created, Jesus became the intermediary between God and His creation. In this depiction, Jesus is the firstborn from the dead and all others will be raised by him at the end of the ages when God will judge the world through him.
+
+But, the title __the Alpha and the Omega__ does not yet belong to Jesus. The author has only seen things transpire in a vision. At his expected second coming Jesus supposedly will attain this title from God who has held it heretofore. Then there will be “ _a new heaven and a new earth_ ” (**21:1**), “ _the holy city, new Jerusalem, coming down out of heaven from God_ ” (**21:2**), Jesus dwelling among “ _his peoples_ ” (**21:3**), and no more tears, death, mourning, crying, or pain (**21:4**). However, what is significant concerning the trinitarian claim is that the relationship between God and Jesus is clearly stated throughout the Book of Revelation as being of two completely separate beings (**21:22**). The “[ _Holy Spirit_](http://jewsforjudaism.org/knowledge/articles/writer-goes-from-hollywood-to-holywood/)” is not even mentioned in this book.
+
+The events of this last book of the New Testament which supposedly contain “ _the revelation of Jesus Christ . . . must shortly take place_ ” (**1:1**), that is, sometime around the end of the first century C.E.—not __now__ in our own time. One New Testament author expressed the expectation succinctly: “ _The end of all things is at hand [literally “has come near”]_ ” (**1 Peter 4:7**). Jesus supposedly exclaims: “ _I also will keep you from the hour of testing, that [hour] which is about to come upon the whole world. . . . I am coming quickly, hold fast what you have, in order that no one take your crown_ ” (**Revelation 3:10-11**). Indeed, in **Revelation 22:7** , 12 the subject of verse 13 (__the Alpha and the Omega__) says he is “coming quickly.” The contexts in which the word __tacheos__ 11 is used in the Book of Revelation show that an imminent sudden return of Jesus was expected by its author. The earthly concept of time, that is, the speeds of everyday life are too slow in the divine sense of distance and duration. The psalmist expressed this in saying that to God, a thousand years is like an earthly day that has already passed (**Psalms 90:4**). It is a fleeting moment for God relates to the concept of time in eternal terms. Man could not relate to a day of a thousand years; but he can relate to one of twenty-four hours. As a result, “ _quickly_ ” used as a promised time interval to humans, must be understood in its simplest earthly definition as occurring in the near future otherwise it is used deceptively. Since Jesus did not come “ _quickly_ ,” within the timeframe designated by this book itself, this visionary experience (**1:2, 22:8**) is either false prophecy or the text can not be speaking about Jesus in any form.
+
+© [Gerald Sigal](https://smile.amazon.com/Gerald-Sigal/e/B001KINB4S/ref=sr_ntt_srch_lnk_1?qid=1498065208&sr=8-1&_fs=64fc06d8-2432-46f4-980c-cec7cb1f7e85)
+
+[Continued](https://jewsforjudaism.org/knowledge/articles/new-testament-refutations-of-the-trinity-doctrine-part-20/)…

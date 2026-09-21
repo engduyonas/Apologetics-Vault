@@ -1,0 +1,67 @@
+---
+title: 'Imitating God: The basis of Jewish Morality'
+slug: imitating-god-the-basis-of-jewish-morality
+tradition: judaism
+category: jewish-identity-and-practice
+source: https://jewsforjudaism.org/knowledge/articles/imitating-god-the-basis-of-jewish-morality
+author: Jews for Judaism
+sourceName: Jews for Judaism
+wordCount: 2159
+readTime: 11
+---
+
+This article was written by Joseph B. Soloveichik. We find out about the basis of Jewish morality. 
+
+Some modern scholars claim that Judaism has no binding dogmas and that it is concerned solely with deeds. They regard Judaism as a purely rational and this-worldly faith which is unencumbered by a complex theology and is primarily humanistic in its purpose. This understanding, however, is simplistic and er­roneous. We do have principles of Jewish faith, ikkare hayahadut, which are implicit in the Torah and have been formulated and codified in the Talmud and by later scholars.(1) In addition, the deeds prescribed by our faith are both ritualistic and humanistic.
+
+The lifestyle of the religious Jew is based on certain underly­ing theological assumptions about God and His role in history. Clearly, the belief that He is the Creator and Sustainer of the universe, Who revealed His Law to Israel at Mt. Sinai, has profound practical implications for the Jew and for all humanity. That man is accountable to God for his deeds and that he is ex­pected to realize a spiritual purpose in his life transform him from a highly developed animal into a transcendental being. Most certainly, then, Judaism does affirm basic faith principles.
+
+Unlike many 5 faiths, however, Judaism does not regard these faith convictions as redemptive in and of themselves. Judaism is a mitzvah-oriented faith which insists that one's re­ligious convictions be translated into virtuous deeds. Without the underpinnings of faith, there can be no motivation or ra­tionale to live a life of religious observance. We are not content, however, to have faith confessions remain theoretical. Instead, they become moral challenges and exhortations to man. They ex­press themselves through norms of human behavior and are endowed with practical significance, stimulating us either to do or to abstain, to engage or to withdraw. A faith conviction may be theologically or philosophically significant, but what is primary is the moral principle and practice that emerges from it.
+
+Beyond the clearly prescribed legal precepts of the Torah there are vast areas in which one's moral duty is not precisely defined. Here, the basic guide of the Torah is to emulate Godly ways, hitdamut la'£l-imitatio Dei. The Talmud states:
+
+Why does it say (**Deut. 13: 5**): "_One should walk after God_ "? Is it possible to walk after the Shekhinah? Is He not like a consuming fire (**ibid., 4:24**)? Rather, it means that one should imitate His ways. As God clothed Adam and Eve (**Gen. 3:21**), so should we clothe the naked; as He visited the ailing (**Rashi, Gen. 18: 1**), so should we visit the sick; as He comforted Isaac after Abraham's death (**Rashi, Gen. 25: 11**), so should we comfort mourners; as He buried Moses (**Deut. 34:6**), so should we care for the dignity of the dead (**Sotah 14a**). (2)
+
+#### **Our conception of God is thus translated into a code of human behavior.**
+
+Maimonides clearly illustrates this point. He writes (**Hil. Yesode Hatorah 7: 1**) that it is a fundamental principle of our faith to accept that God does speak to man through prophecy,(3) and he immediately converts this article of faith into a moral challenge: it is the ultimate duty of man to make himself worthy of prophecy, for God will not communicate with "_trees and stones_." He adds: "_And prophecy will not be bestowed except upon one who possesses the very greatest wisdom, is of the highest ethical character... who is master of his impulses. And emotions, and has broad and incisive understanding, etc_." In his Guide for the Perplexed (2.32), the ideal of prophecy is even further developed. By describing the qualities which invite God's prophetic communication, Maimonides sets forth a human ideal and model towards which all should aspire. Thus, an article of faith becomes a moral exhortation.
+
+#### **The Creation Chapter as a Moral Lesson**
+
+The convertibility of faith principles into moral directives may be implicit in the Creation story of Genesis 1. Why does the Torah devote an entire chapter to the story of creation when. actually, all that emerges is a story which is unclear, incomplete, enigmatic, half-told, and half-concealed? The mystery of creation is thereby magnified, rather than dispelled. Even the chronology of creation as indicated in the text cannot be taken literally, as Rashi and others have indicated.(4)
+
+#### **Nahmanides adds:**
+
+The process of creation is a deep mystery, not to be under­stood from the verses, and it cannot truly be known except through the tradition going back to Moses, our teacher, who received it from the mouth of the Almighty, and those who know it are obligated to conceal it…(5) There is no great need of these narratives to inform us that God is the Creator. .. For people who believe in the Torah, it would suffice without these verses. They would believe in the general statement mentioned in the Decalogue, "_for in six days God made heaven and earth, the sea and all that is in them, and rested on the seventh day_ ," and the knowl­edge of the process of creation would remain with in­dividuals as a tradition from Moses, who received the law on Sinai together with the Oral Law.(6)
+
+(In the opening sentence of Rashi's commentary on the Torah, R. Yitzhak is quoted as asking the same question. Rashi, how­ever, answers it differently.)
+
+Perhaps this elaborate emphasis in the Book of Genesis on God's creation was meant to be converted into a moral challenge to man, that as God created, so should man. The foundation of our morality is: "_And you shall walk in His ways_ " (**Deut. 28:9**), (7) that we imitate God. Man, like God, is often faced with tohu vavohu (utter desolation) and he does not know where to begin. He doubts his ability to say Yehi or ("_let there be light_ "). It seems that the world can never be illuminated, such is the prevailing gloom (Hoshekh). Yet man is bidden by the principle of imitatio Dei to create, to be a shutaf (partner) in Yetzirah, fashioning form out of chaos. Of course, man does not create ex nihilo, as did God, though at times it seems to man that his task is as formidable as if it were yesh me'ayin (from absolute nothing).
+
+Man must be creative in both the material (eretz) and the spiritual (shamayim) realms. There are diseases to conquer (**verapo yerape, Ex. 21: 19**), rivers to control, miseries to extirpate (**ve­khivshuha, Gen. 1:28**). Conquering and settling Eretz Yisrael, kibbush veyishuv ha'aretz, are also mitzvot of yetzirah. The Torah tells us that particular territories were assigned to each nation, not only to the Jews, for them to develop ccording to their creative genius, while Eretz Yisrael was assigned to the Jews (**Deut. 32:8,9**). (8)
+
+There is also the mandate to be creative in the spiritual realm. To build a yeshivah in inhospitable territory is a form of Yehi or ("_Let there be light_ ," **Gen. 1:3**). Indeed, education in fulfill­ment of "_And you shall teach them diligently to your children_ " (**Deut. 6:7**) (9) is creativity par excellence. A formless, undirected child is transformed into a refined Torah scholar. An un­disciplined child, without any identity, a tohu vavohu, is gradual­ly changed into a spiritual personality. Introducing a child to the Biblical narratives about Abraham and Sarah, and later on to a Talmudic discourse such as hazamah and hakhashah (dealing with the exposure of false witnesses) is an act of fashion­ing a soul, the highest level of yetzirah. This is similar to God's creation for He, too, is called hamelammed Torah le'ammo Yis­rael, "_Who teaches the Torah to His people Israel_ " (Morning Blessings). This is the spiritual dimension of parenthood, even as peru urevu (the commandment to bear children) is physical yetzirah.
+
+Thus Genesis 1 challenges man to create, to transform wilder­ness into productive life; thereby, an article of faith becomes a moral principle.
+
+#### **The Midrash as a Moral Lesson**
+
+Our basic premise that faith concepts are convertible into moral principles may also be implicit in many Midrashim. For example, in **Bereshit Rabbah 3: 9** , Rabbi Abbahu depicts God as not only creating (beri' ah), but also as recreating, rebuilding after destructions (yetzirah). Rabbi Abbahu taught the principle of multiple creations: "_And there was evening and there was morning, the first day_ " (since the sun was not yet created, how could there be morning?). Says Rabbi Abbahu: This indicates a time arrangement prior to this [Biblical] creation; that God built [previous] worlds and destroyed them, built worlds and destroyed them, until He said, "_This world pleases Me and the others did not please Me_." (10) Apparently, regarding earlier worlds, we may paraphrase "_And God sawall that He created and proclaimed them not good_ ," a judgment which sufficed to make them disappear. Here we have God not only creating, as in the Biblical text, but also recreating, rebuilding after destruc­tions. (11)
+
+#### **What does Rabbi Abbahu teach?**
+
+Surely it makes no sense to ascribe to an omniscient God, the En Sol (Infinite), the need to experiment before achieving His ideal. God could immedi­ately have created a ki tov world (worthy of His approval). Only man needs experiment because of his difficulty in translating mental conceptions into physical realities. Like Edison and other scientists in their experiments, he tries various approaches before he achieves satisfactory goals. This is the nature of the scientific method; it cannot be otherwise because man is finite and im­perfect. But this surely does not apply to God.
+
+Rabbi Abbahu apparently wanted to teach the concept of multiple creations, that our world came into being in various stages. His description of the process, however, of God's dis­pleasure with previous worlds and His final satisfaction with this world was intended to provide man with a moral lesson and was not to be understood literally. As God creates and recreates (actually refashions, yetzirah not beri'ah), so too, should man be ready to rebuild and reconstruct, even as previous structures collapse. Thus, even a rabbinic concept of faith may be translated into a norm of human behavior.
+
+To build initially is difficult, but to rebuild is even more chal­lenging. One can erect structures if one has the basic talent, commitment, and raw materials, but to reconstruct after the des­truction of previous achievements is most difficult. Energies, re­sources, sleepless nights, endless devotion painstakingly expended are all gone to waste, uprooted as if by a hurricane. But we are bidden to start over again with faith and resourcefulness, as God did. Rebuilding a business after bankruptcy is much harder than building it initially. The Torah clearly conveys this point: "_And if your brother becomes poor... then you shall uphold him_ " (**Lev. 25.35**). Rashi adds: "_Do not forsake him so that he falls down altogether, when it would be difficult to raise him, but uphold him from the very moment when he starts falling_." (12) To restore a person after his collapse is most difficult.
+
+This is precisely what we are continually called upon to do in Jewish history, to resist succumbing after total destructions and instead continually to rebuild new worlds, even as God did. The State of Israel itself was erected out of the ashes of the Holocaust. The revival of Torah in Israel and America after its annihilation in Eastern Europe was an act of recreation. To the verse, "_the sun rises and the sun sets_ " (**Eccles. 1:5**), the Midrash adds, "_before the sun of this [settlement] sets, the sun of the other rises_." (13) Our sages understood the recreative prin­ciple as applying not only to individuals but also to worlds and settlements of the Jewish people.
+
+The Talmud tells us (**Yev. 62b**) that, after Rabbi Akiba's twenty-four thousand pupils died either in battle or through a plague in the brief period between Passover and Lag Ba'Omer, the world seemed desolate. All the energies, discipline, com­mitment, knowledge, and hashkafah which Rabbi Akiba had im­planted in these pupils over many years were destroyed in a three-week period. A sense of total shock numbed all of Jewry at the loss of such vast intellectual and spiritual resources. It was a case of tohu vavohu. Rabbi Akiba, though then an old man, we are told, rebuilt Torah Jewry and restored the crown of Torah to its previous glory. We do not know precisely how he did it, but the fact that we today are still studying his teach­ings testifies that he imitated God, in the manner described by Rabbi Abbahu. (14)
+
+This, then, is what the Torah requires of man: to act, to create and, where necessary, to recreate, even as did the Divine Creator.
+
+**Excerpted from “Reflections of the Rav by Abraham R. Besdin.**
+
+Joseph Ber (Yosef Dov) Soloveitchik (Hebrew: ???? ?? ????????'??) (1903 - 1993) was a great Talmudist and modern Jewish philosopher. "_The Rav_ ," as he came to be known, ordained close to 2,000 rabbis over the course of almost half a century.

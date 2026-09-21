@@ -1,0 +1,25 @@
+---
+title: The Council of My Nation - Idolatry - Introduction
+slug: the-council-of-my-nation-idolatry-introduction
+tradition: judaism
+category: trinity-and-monotheism
+source: https://jewsforjudaism.org/knowledge/articles/council-nation-idolatry-introduction
+author: Jews for Judaism
+sourceName: Jews for Judaism
+wordCount: 723
+readTime: 4
+---
+
+So how does scripture expect us to identify an idol? Christians will be quick to bring up verses which seem to indicate plurality within God, or passages which seem to indicate that God seems to take on a specific form. We will get to these passages soon, but we will not begin with these passages.
+
+For not one of these passages was written with the explicit purpose of defining the law of idolatry. None of these passages begin by telling us that they are about to describe who it is that we are to worship. Wherever scripture directly addresses the issue of [idolatry](http://jewsforjudaism.org/knowledge/articles/council-nation-idolatry-exalted-king-exalted-nation/) and who it is that we are to worship, the message is unmistakably clear. **Deuteronomy 4:9-20** directly addresses the issue of idolatry. Moses reminds the Jewish people that they saw no form at the Sinai revelation. And it is on this basis that they are not to worship anything else but the God that they were taught to worship at Sinai. The [Ten Commandments](http://jewsforjudaism.org/tag/ten-commandments/) open with the words “ _I am the Lord your God who took you out of the land of Egypt from the house of bondage, you shall have no other gods before Me_.” (**Exodus 20:2,3, Deuteronomy 5:6,7**.) Anyone aside from the One who took us out of Egypt is “ _another_ _god_ ”. When scripture exhorts us to punish idolaters or people who attempt to persuade us to worship idols, the idol is identified with the terms “ _that which neither you nor your fathers have known_ ”, or “ _that which I have not commanded_ ” (**Deuteronomy 13:7, 17:3**.) The Jewish people are expected to know God, and to have been instructed by God guiding them in their worship. A god that the Jewish people never heard about from their fathers is “ _another_ _god_ ”. This was the direct purpose of the Sinai revelation as stated in **Exodus 20:19,20** and **Deuteronomy 4:35** – that the Jewish people know God and by process of elimination, know who is not God. When God encourages the Jewish people to worship Him, He identifies Himself as the One who took you out of Egypt (**Deuteronomy** **6:12,13**) or simply “ _your_ _God_ ” (**Deuteronomy 10:12-20, 11:13,22, 26:16-19, 30:20 Joshua 22:5, 23:8**) implying the God we know and are familiar with. None of these verses leave any room for worship of a man whom our fathers never met. These verses are both direct and commanding. None of the verses that are presented to support the Christian position are directly addressing the issue of the identity of the One we are to worship, and none of them are commanding us to worship anything. On the basis of these direct commandments, we must firmly reject any theology which seems to contradict these passages. Obedience to God’s command demands it.
+
+The scriptural passages brought forth by the Christian to justify their theology fall under several categories. There are verses which seem to point to an “[ _incarnation_](http://jewsforjudaism.org/knowledge/video/judaism-reincarnation-get-second-chance-life/)” of God, in other words God seems to appear as an angel or as a man. There are verses which speak of God in a plural manner implying plurality within God. And there are verses which speak of God in anthropomorphic terms, describing God’s actions in human terminology. Finally there are passages which attribute divine names to the Messiah seemingly indicating that the [Messiah](http://jewsforjudaism.org/knowledge/video/question-oral-law-oral-torah-7-judaism-messiah-rabbi-immanuel-schochet-zl/) is more than a mere human.
+
+Before we get into the body of the discussion please allow me to share some feelings here. My brother, I ask you to step back and realize what it is that we are discussing. After everything is said and done [Christianity](http://jewsforjudaism.org/knowledge/video/isaiah-53-humiliating-death-messiah-jesus-part-8-jews-jewish-christianity/) is pointing to a man, and calling him “ _God_ ”. Whichever way you philosophize about it – that is the message of Christianity. Does this need to be discussed? Is this discussion not the height of insolence towards God? Did God take us out of Egypt and grant us the revelation at Sinai so that we can have such a discussion? It is only my love for you as a brother, as a fellow child of Abraham Isaac and Jacob, God’s beloved, that induces me to go through this painful discussion.
+
+Originally posted on: [https://yourphariseefriend.wor...](https://yourphariseefriend.wordpress.com/the-council-of-my-nation/)
+
+Check out the other parts to this series [here ](https://jewsforjudaism.org/?s=council+of+my+nation)
+
+Have any queries or questions? Email us at ask@jewsforjudaism.org
