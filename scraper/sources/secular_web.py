@@ -83,6 +83,41 @@ SEED = [
 
     ("library/modern/keith-augustine-immortality/", "The Case Against Immortality", "Keith Augustine", "07-death-mind-and-the-afterlife", "death-mind-and-the-afterlife", None),
     ("library/modern/nde-historian-answers-critic/", None, "Internet Infidels", "07-death-mind-and-the-afterlife", "death-mind-and-the-afterlife", None),
+
+    # --- Expansion batch ---
+    ("library/modern/theodore-drange-definition/", "Atheism, Agnosticism, Noncognitivism", "Theodore M. Drange", "01-arguments-for-atheism", "arguments-for-atheism", None),
+    ("library/modern/theodore-drange-defending/", "On Defending Atheism", "Theodore M. Drange", "01-arguments-for-atheism", "arguments-for-atheism", None),
+    ("library/modern/jeff-lowder-ipnegep/", "Is a Sound Argument for the Nonexistence of a God Even Possible?", "Jeffery Jay Lowder", "01-arguments-for-atheism", "arguments-for-atheism", None),
+    ("library/modern/metaphysical-naturalism-intro/", "Metaphysical Naturalism?", "Jeffery Jay Lowder", "01-arguments-for-atheism", "arguments-for-atheism", None),
+
+    ("library/modern/theodore-drange-tuning/", "The Fine-Tuning Argument", "Theodore M. Drange", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/theodore-drange-wager/", "Pascal's Wager Refuted", "Theodore M. Drange", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/theodore-drange-incompatible/", "Incompatible-Properties Arguments: A Survey", "Theodore M. Drange", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/theodore-drange-miracles/", "Science and Miracles", "Theodore M. Drange", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/theodore-drange-aeanb/", "The Arguments From Evil and Nonbelief", "Theodore M. Drange", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/theodore-drange-nonbelief/", "Nonbelief as Support for Atheism", "Theodore M. Drange", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/paul-draper-naturalism/", "In Defense of Sensible Naturalism", "Paul Draper", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/paul-draper-evil/", "Natural Selection and the Problem of Evil", "Paul Draper", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/paul-draper-no-design/", "Collins' Case for Cosmic Design", "Paul Draper", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/evan-fales-mystical/", "Do Mystics See God?", "Evan Fales", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/michael-martin-holy-spirit/", "Craig's Holy Spirit Epistemology", "Michael Martin", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+    ("library/modern/jeff-lowder-pain-and-pleasure/", "In Defense of an Evidential Argument from Evil: A Reply to William Lane Craig", "Jeffery Jay Lowder", "02-critiques-of-theistic-arguments", "critiques-of-theistic-arguments", None),
+
+    ("library/modern/theodore-drange-whymoral/", "Why Be Moral? (Drange)", "Theodore M. Drange", "03-secular-ethics-and-morality", "secular-ethics-and-morality", None),
+    ("library/modern/jeff-lowder-martin-reply/", "Reply to Martin on Atheism and Morality", "Jeffery Jay Lowder", "03-secular-ethics-and-morality", "secular-ethics-and-morality", None),
+    ("library/modern/review-of-michael-martins-atheism-morality-and-meaning/", None, "Jeffery Jay Lowder", "03-secular-ethics-and-morality", "secular-ethics-and-morality", None),
+
+    ("library/modern/theodore-drange-creationism/", "Can Creationism Be Scientific?", "Theodore M. Drange", "04-faith-reason-and-agnosticism", "faith-reason-and-agnosticism", None),
+    ("library/modern/evan-fales-despair/", "Despair, Optimism, and Rebellion", "Evan Fales", "04-faith-reason-and-agnosticism", "faith-reason-and-agnosticism", None),
+    ("library/modern/review-of-true-reason-confronting-the-irrationality-of-the-new-atheism/", None, "Gregory W. Dawes", "04-faith-reason-and-agnosticism", "faith-reason-and-agnosticism", None),
+    ("library/modern/taner-edis-totality/", "Review of Totality Beliefs and the Religious Imagination", "Taner Edis", "04-faith-reason-and-agnosticism", "faith-reason-and-agnosticism", None),
+
+    ("library/modern/theodore-drange-bible/", "The Argument from the Bible", "Theodore M. Drange", "05-biblical-criticism", "biblical-criticism", None),
+    ("library/modern/jeff-lowder-mckinsey/", "How Not to Argue Against the Historicity and Resurrection of Jesus", "Jeffery Jay Lowder", "05-biblical-criticism", "biblical-criticism", None),
+    ("library/modern/independent-confirmation-and-the-historicity-of-jesus/", None, "Jeffery Jay Lowder", "05-biblical-criticism", "biblical-criticism", None),
+
+    ("library/modern/in-defense-of-the-original-secular-pledge-of-allegiance/", None, "Jeffery Jay Lowder", "06-church-state-and-society", "church-state-and-society", None),
+    ("library/modern/is-atheism-presumptuous-a-reply-to-paul-copan/", None, "Jeffery Jay Lowder", "06-church-state-and-society", "church-state-and-society", None),
 ]
 
 
