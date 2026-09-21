@@ -4,5 +4,6 @@ site/.next/
 site/node_modules/
 scraper/__pycache__/
 scraper/venv/
+scraper/sources/.ccel_cache/
 *.pyc
 .env
