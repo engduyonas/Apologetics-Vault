@@ -77,6 +77,42 @@ SEED = [
     ("lib/thai/chah/index", "08-teachers-and-traditions", "teachers-and-traditions", None),
     ("lib/thai/index", "08-teachers-and-traditions", "teachers-and-traditions", None),
     ("lib/thai/fuang/index", "08-teachers-and-traditions", "teachers-and-traditions", None),
+
+    # --- Expansion batch ---
+    ("lib/authors/nyanaponika/godidea", "01-core-teachings", "core-teachings", None),
+    ("lib/authors/bodhi/bps-essay_20", "01-core-teachings", "core-teachings", None),
+    ("lib/authors/bodhi/response", "01-core-teachings", "core-teachings", None),
+
+    ("lib/authors/nyanaponika/wheel121", "02-meditation-and-mental-development", "meditation-and-mental-development", None),
+    ("tipitaka/mn/mn.118.than", "02-meditation-and-mental-development", "meditation-and-mental-development", None),
+    ("lib/authors/bodhi/bps-essay_45", "02-meditation-and-mental-development", "meditation-and-mental-development", None),
+
+    ("lib/authors/bodhi/wheel282", "03-ethics-and-conduct", "ethics-and-conduct", None),
+    ("lib/authors/bodhi/bps-essay_13", "03-ethics-and-conduct", "ethics-and-conduct", None),
+    ("lib/authors/nyanaponika/wheel006", "03-ethics-and-conduct", "ethics-and-conduct", None),
+    ("tipitaka/an/an03/an03.065.than", "03-ethics-and-conduct", "ethics-and-conduct", None),
+
+    ("lib/authors/nyanaponika/kammafruit", "04-kamma-and-rebirth", "kamma-and-rebirth", None),
+    ("lib/authors/bodhi/bps-essay_06", "04-kamma-and-rebirth", "kamma-and-rebirth", None),
+    ("tipitaka/sn/sn12/sn12.002.than", "04-kamma-and-rebirth", "kamma-and-rebirth", None),
+
+    ("lib/authors/nyanaponika/wheel048", "05-not-self-and-liberation", "not-self-and-liberation", None),
+    ("lib/authors/nyanaponika/whyend", "05-not-self-and-liberation", "not-self-and-liberation", None),
+    ("tipitaka/mn/mn.008.nypo", "05-not-self-and-liberation", "not-self-and-liberation", None),
+
+    ("tipitaka/dn/dn.02.0.than", "06-sutta-translations", "sutta-translations", "Digha Nikaya"),
+    ("tipitaka/mn/mn.001.than", "06-sutta-translations", "sutta-translations", "Majjhima Nikaya"),
+    ("tipitaka/mn/mn.019.than", "06-sutta-translations", "sutta-translations", "Majjhima Nikaya"),
+    ("tipitaka/sn/sn07/sn07.006.than", "06-sutta-translations", "sutta-translations", "Samyutta Nikaya"),
+    ("tipitaka/kn/dhp/dhp.01.than", "06-sutta-translations", "sutta-translations", "Khuddaka Nikaya"),
+    ("tipitaka/kn/dhp/dhp.05.than", "06-sutta-translations", "sutta-translations", "Khuddaka Nikaya"),
+
+    ("lib/authors/bodhi/bl071", "07-monastic-life-and-the-sangha", "monastic-life-and-the-sangha", None),
+    ("lib/authors/nyanaponika/wheel090", "07-monastic-life-and-the-sangha", "monastic-life-and-the-sangha", None),
+
+    ("lib/authors/bodhi/bam", "08-teachers-and-traditions", "teachers-and-traditions", None),
+    ("lib/authors/bodhi/bps-essay_40", "08-teachers-and-traditions", "teachers-and-traditions", None),
+    ("lib/authors/thanissaro/toh", "08-teachers-and-traditions", "teachers-and-traditions", None),
 ]
 
 
