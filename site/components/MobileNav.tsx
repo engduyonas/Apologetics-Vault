@@ -11,10 +11,18 @@ interface SidebarCategory {
   articleCount: number;
 }
 
+interface SidebarTradition {
+  slug: string;
+  title: string;
+  icon: string;
+}
+
 export default function MobileNav({
-  categories,
+  traditions,
+  categoriesByTradition,
 }: {
-  categories: SidebarCategory[];
+  traditions: SidebarTradition[];
+  categoriesByTradition: Record<string, SidebarCategory[]>;
 }) {
   const [open, setOpen] = useState(false);
 
@@ -43,7 +51,8 @@ export default function MobileNav({
               <X className="w-5 h-5 text-warm-500" />
             </button>
             <Sidebar
-              categories={categories}
+              traditions={traditions}
+              categoriesByTradition={categoriesByTradition}
               onNavigate={() => setOpen(false)}
             />
           </div>

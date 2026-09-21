@@ -1,32 +1,150 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
-import { Suspense } from "react";
-import ArticleCard from "@/components/ArticleCard";
-import { Search } from "lucide-react";
+import { useSearchParams, useRouter, usePathname } from "next/navigation";
+import { Suspense, useEffect, useMemo, useState } from "react";
+import MiniSearch from "minisearch";
+import Link from "next/link";
+import { Search, Clock, X } from "lucide-react";
+import CategoryIcon from "@/components/CategoryIcon";
+import { TRADITIONS, CATEGORIES } from "@/lib/categories";
+import type { SearchDoc } from "@/lib/content";
 
-interface SearchArticle {
-  title: string;
-  slug: string;
-  category: string;
-  categoryLabel: string;
-  readTime: number;
-  series?: string;
-  part?: string;
-  subcategory?: string;
+function highlight(text: string, terms: string[]) {
+  if (terms.length === 0) return text;
+  const pattern = new RegExp(
+    `(${terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")})`,
+    "gi"
+  );
+  const parts = text.split(pattern);
+  return parts.map((part, i) =>
+    terms.some((t) => part.toLowerCase() === t.toLowerCase()) ? (
+      <mark
+        key={i}
+        className="bg-slate-200/70 dark:bg-slate-700/50 text-warm-800 dark:text-cream-100 rounded-sm"
+      >
+        {part}
+      </mark>
+    ) : (
+      <span key={i}>{part}</span>
+    )
+  );
 }
 
-function Results({ articles }: { articles: SearchArticle[] }) {
+function Results() {
   const searchParams = useSearchParams();
+  const router = useRouter();
+  const pathname = usePathname();
   const q = searchParams.get("q") || "";
+  const traditionFilter = searchParams.get("tradition") || "";
+  const categoryFilter = searchParams.get("category") || "";
 
-  const results = q.trim().length >= 2
-    ? articles.filter(
-        (a) =>
-          a.title.toLowerCase().includes(q.toLowerCase()) ||
-          (a.series && a.series.toLowerCase().includes(q.toLowerCase()))
-      )
-    : [];
+  const [docs, setDocs] = useState<SearchDoc[] | null>(null);
+  const [index, setIndex] = useState<MiniSearch<SearchDoc> | null>(null);
+  const [error, setError] = useState(false);
+
+  useEffect(() => {
+    fetch("/search-index.json")
+      .then((res) => {
+        if (!res.ok) throw new Error("failed to load search index");
+        return res.json();
+      })
+      .then((data: SearchDoc[]) => {
+        setDocs(data);
+        const mini = new MiniSearch<SearchDoc>({
+          idField: "id",
+          fields: ["title", "excerpt", "series"],
+          storeFields: [
+            "title",
+            "slug",
+            "tradition",
+            "traditionLabel",
+            "category",
+            "categoryLabel",
+            "subcategory",
+            "series",
+            "part",
+            "readTime",
+            "excerpt",
+          ],
+          searchOptions: {
+            boost: { title: 3, series: 1.5 },
+            fuzzy: 0.15,
+            prefix: true,
+          },
+        });
+        mini.addAll(data);
+        setIndex(mini);
+      })
+      .catch(() => setError(true));
+  }, []);
+
+  const baseHits = useMemo(() => {
+    if (!index || q.trim().length < 2) return [];
+    return index.search(q.trim());
+  }, [index, q]);
+
+  const traditionFilteredHits = useMemo(
+    () =>
+      traditionFilter
+        ? baseHits.filter((h) => h.tradition === traditionFilter)
+        : baseHits,
+    [baseHits, traditionFilter]
+  );
+
+  const results = useMemo(
+    () =>
+      categoryFilter
+        ? traditionFilteredHits.filter((h) => h.category === categoryFilter)
+        : traditionFilteredHits,
+    [traditionFilteredHits, categoryFilter]
+  );
+
+  const availableTraditions = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const h of baseHits) {
+      counts.set(h.tradition, (counts.get(h.tradition) || 0) + 1);
+    }
+    return TRADITIONS.filter((t) => counts.has(t.slug)).map((t) => ({
+      ...t,
+      count: counts.get(t.slug)!,
+    }));
+  }, [baseHits]);
+
+  const availableCategories = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const h of traditionFilteredHits) {
+      counts.set(h.category, (counts.get(h.category) || 0) + 1);
+    }
+    const pool = traditionFilter
+      ? CATEGORIES[traditionFilter] ?? []
+      : Object.values(CATEGORIES).flat();
+    return pool
+      .filter((c) => counts.has(c.slug))
+      .map((c) => ({ ...c, count: counts.get(c.slug)! }));
+  }, [traditionFilteredHits, traditionFilter]);
+
+  const terms = q.trim().length >= 2 ? q.trim().split(/\s+/) : [];
+
+  function setTraditionFilter(slug: string) {
+    const params = new URLSearchParams(searchParams.toString());
+    if (slug === traditionFilter) {
+      params.delete("tradition");
+    } else {
+      params.set("tradition", slug);
+    }
+    params.delete("category");
+    router.push(`${pathname}?${params.toString()}`);
+  }
+
+  function setCategoryFilter(slug: string) {
+    const params = new URLSearchParams(searchParams.toString());
+    if (slug === categoryFilter) {
+      params.delete("category");
+    } else {
+      params.set("category", slug);
+    }
+    router.push(`${pathname}?${params.toString()}`);
+  }
 
   return (
     <div className="max-w-6xl mx-auto px-6 lg:px-10 py-8">
@@ -34,59 +152,135 @@ function Results({ articles }: { articles: SearchArticle[] }) {
         Search Results
       </h1>
 
-      {q ? (
-        <p className="text-warm-500 dark:text-warm-400 mb-6">
-          {results.length} result{results.length !== 1 ? "s" : ""} for &quot;
-          <span className="font-medium text-warm-700 dark:text-cream-200">
-            {q}
-          </span>
-          &quot;
-        </p>
-      ) : (
+      {!q ? (
         <p className="text-warm-500 dark:text-warm-400 mb-6">
           Type a query in the search bar above.
         </p>
-      )}
-
-      {results.length > 0 ? (
-        <div>
-          {results.map((article) => (
-            <ArticleCard
-              key={`${article.category}/${article.slug}`}
-              title={article.title}
-              slug={article.slug}
-              category={article.category}
-              categoryLabel={article.categoryLabel}
-              readTime={article.readTime}
-              series={article.series}
-              part={article.part}
-              subcategory={article.subcategory}
-            />
-          ))}
-        </div>
-      ) : q ? (
-        <div className="text-center py-16">
-          <Search className="w-12 h-12 mx-auto text-cream-300 dark:text-warm-600 mb-4" />
-          <p className="text-warm-500 dark:text-warm-400">
-            No articles matching your search. Try a different query.
+      ) : error ? (
+        <p className="text-warm-500 dark:text-warm-400 mb-6">
+          Couldn&apos;t load the search index. Try refreshing the page.
+        </p>
+      ) : !docs ? (
+        <p className="text-warm-500 dark:text-warm-400 mb-6">Loading…</p>
+      ) : (
+        <>
+          <p className="text-warm-500 dark:text-warm-400 mb-4">
+            {results.length} result{results.length !== 1 ? "s" : ""} for &quot;
+            <span className="font-medium text-warm-700 dark:text-cream-200">
+              {q}
+            </span>
+            &quot;
           </p>
-        </div>
-      ) : null}
+
+          {availableTraditions.length > 1 && (
+            <div className="flex flex-wrap gap-2 mb-2">
+              {availableTraditions.map((t) => (
+                <button
+                  key={t.slug}
+                  onClick={() => setTraditionFilter(t.slug)}
+                  className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium transition-colors ${
+                    traditionFilter === t.slug
+                      ? "bg-slate-700 dark:bg-slate-600 text-white"
+                      : "bg-cream-200 dark:bg-warm-800 text-warm-600 dark:text-warm-400 hover:bg-cream-300 dark:hover:bg-warm-700"
+                  }`}
+                >
+                  <CategoryIcon icon={t.icon} className="w-3 h-3" />
+                  {t.title}
+                  <span className="tabular-nums opacity-70">{t.count}</span>
+                  {traditionFilter === t.slug && <X className="w-3 h-3" />}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {availableCategories.length > 1 && (
+            <div className="flex flex-wrap gap-2 mb-6">
+              {availableCategories.map((c) => (
+                <button
+                  key={c.slug}
+                  onClick={() => setCategoryFilter(c.slug)}
+                  className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium transition-colors ${
+                    categoryFilter === c.slug
+                      ? "bg-slate-700 dark:bg-slate-600 text-white"
+                      : "bg-cream-200 dark:bg-warm-800 text-warm-600 dark:text-warm-400 hover:bg-cream-300 dark:hover:bg-warm-700"
+                  }`}
+                >
+                  <CategoryIcon icon={c.icon} className="w-3 h-3" />
+                  {c.title}
+                  <span className="tabular-nums opacity-70">{c.count}</span>
+                  {categoryFilter === c.slug && <X className="w-3 h-3" />}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {results.length > 0 ? (
+            <div className="space-y-1">
+              {results.map((r) => (
+                <Link
+                  key={r.id}
+                  href={`/${r.tradition}/${r.category}/${r.slug}`}
+                  className="group block py-3.5 px-3 -mx-3 rounded-md hover:bg-cream-200/60 dark:hover:bg-warm-800/60 transition-colors border-b border-cream-300/50 dark:border-warm-700/50 last:border-b-0"
+                >
+                  <div className="flex items-center justify-between gap-4">
+                    <h3 className="text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-base min-w-0">
+                      {highlight(r.title as string, terms)}
+                    </h3>
+                    <span className="shrink-0 text-sm text-warm-400 dark:text-warm-500 flex items-center gap-1 font-sans tabular-nums">
+                      <Clock className="w-3.5 h-3.5" />
+                      {r.readTime}m
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2 mt-1.5 flex-wrap">
+                    {availableTraditions.length > 1 && (
+                      <span className="text-xs px-2 py-0.5 rounded bg-slate-100/50 dark:bg-slate-900/10 text-slate-700 dark:text-slate-400 font-sans">
+                        {r.traditionLabel}
+                      </span>
+                    )}
+                    <span className="text-xs px-2 py-0.5 rounded bg-cream-200 dark:bg-warm-800 text-warm-500 dark:text-warm-400 font-sans">
+                      {r.categoryLabel}
+                    </span>
+                    {r.subcategory && (
+                      <span className="text-xs px-2 py-0.5 rounded bg-slate-100/50 dark:bg-slate-900/10 text-slate-700 dark:text-slate-400 font-sans">
+                        {r.subcategory}
+                      </span>
+                    )}
+                  </div>
+                  {r.excerpt && (
+                    <p className="text-sm text-warm-500 dark:text-warm-400 mt-1.5 leading-snug line-clamp-2">
+                      {highlight(r.excerpt as string, terms)}
+                    </p>
+                  )}
+                </Link>
+              ))}
+            </div>
+          ) : q.trim().length >= 2 ? (
+            <div className="text-center py-16">
+              <Search className="w-12 h-12 mx-auto text-cream-300 dark:text-warm-600 mb-4" />
+              <p className="text-warm-500 dark:text-warm-400">
+                No articles matching your search. Try a different query.
+              </p>
+            </div>
+          ) : null}
+        </>
+      )}
     </div>
   );
 }
 
-export default function SearchResults({ articles }: { articles: SearchArticle[] }) {
+export default function SearchResults() {
   return (
-    <Suspense fallback={
-      <div className="max-w-6xl mx-auto px-6 lg:px-10 py-8">
-        <h1 className="text-2xl font-bold text-warm-800 dark:text-cream-50 mb-2 font-serif">
-          Search Results
-        </h1>
-        <p className="text-warm-500 dark:text-warm-400 mb-6">Loading...</p>
-      </div>
-    }>
-      <Results articles={articles} />
+    <Suspense
+      fallback={
+        <div className="max-w-6xl mx-auto px-6 lg:px-10 py-8">
+          <h1 className="text-2xl font-bold text-warm-800 dark:text-cream-50 mb-2 font-serif">
+            Search Results
+          </h1>
+          <p className="text-warm-500 dark:text-warm-400 mb-6">Loading...</p>
+        </div>
+      }
+    >
+      <Results />
     </Suspense>
   );
 }

@@ -10,7 +10,7 @@ import os
 import re
 import sys
 
-CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content")
+CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "islam")
 
 # ── Shared keyword lists ────────────────────────────────────────────────────
 

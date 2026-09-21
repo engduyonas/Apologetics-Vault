@@ -17,7 +17,7 @@ import re
 import sys
 from collections import defaultdict
 
-CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content")
+CONTENT_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "islam")
 
 STOP_WORDS = {
     "a", "an", "the", "of", "in", "on", "to", "and", "or", "for", "is",
@@ -218,7 +218,8 @@ def get_field(fm_text, field):
 def set_field(fm_text, field, value):
     """Set or add a field in raw frontmatter text."""
     needs_quotes = any(c in value for c in ":{}[],'\"&*?|>!%@`#")
-    quoted = f"'{value}'" if needs_quotes else value
+    escaped = value.replace("'", "''")
+    quoted = f"'{escaped}'" if needs_quotes else value
 
     lines = fm_text.split("\n")
     for i, line in enumerate(lines):

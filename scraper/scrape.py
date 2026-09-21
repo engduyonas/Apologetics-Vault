@@ -23,7 +23,7 @@ from categories import (
     slugify,
 )
 
-CONTENT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content")
+CONTENT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content", "islam")
 ERRORS_LOG = os.path.join(os.path.dirname(__file__), "errors.log")
 
 OLD_INDEX = "https://answeringislam.info/Shamoun/index.htm"
@@ -394,14 +394,27 @@ def fetch_and_save(article, content_dir):
         slug = slugify(title)
         if not slug:
             slug = slugify(url.split("/")[-1].replace(".html", ""))
+        if not slug:
+            log_error(url, "Could not derive a slug (non-ASCII title and URL)")
+            return False
 
         series_name, part = detect_series(title)
+
+        if "answeringislam.info" in url:
+            source_name = "Answering Islam"
+        elif "samshmnthelogy.net" in url:
+            source_name = "Theology Sphere"
+        else:
+            source_name = "Answering Islam"
 
         frontmatter = {
             "title": title,
             "slug": slug,
+            "tradition": "islam",
             "category": category,
             "source": url,
+            "author": "Sam Shamoun",
+            "sourceName": source_name,
         }
         if series_name:
             frontmatter["series"] = series_name
@@ -420,8 +433,10 @@ def fetch_and_save(article, content_dir):
         file_path = os.path.join(folder_path, f"{slug}.md")
         counter = 1
         while os.path.exists(file_path):
-            file_path = os.path.join(folder_path, f"{slug}-{counter}.md")
+            slug = f"{slugify(title)}-{counter}"
+            file_path = os.path.join(folder_path, f"{slug}.md")
             counter += 1
+        frontmatter["slug"] = slug
 
         fm_str = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
         with open(file_path, "w", encoding="utf-8") as f:

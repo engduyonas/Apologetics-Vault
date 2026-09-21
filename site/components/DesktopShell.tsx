@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { PanelLeftClose, PanelLeftOpen } from "lucide-react";
+import Link from "next/link";
+import { PanelLeftClose, PanelLeftOpen, Bookmark, Flag, Map } from "lucide-react";
 import Sidebar from "./Sidebar";
 import MobileNav from "./MobileNav";
 import SearchBar from "./SearchBar";
@@ -14,11 +15,19 @@ interface SidebarCategory {
   articleCount: number;
 }
 
+interface SidebarTradition {
+  slug: string;
+  title: string;
+  icon: string;
+}
+
 export default function DesktopShell({
-  categories,
+  traditions,
+  categoriesByTradition,
   children,
 }: {
-  categories: SidebarCategory[];
+  traditions: SidebarTradition[];
+  categoriesByTradition: Record<string, SidebarCategory[]>;
   children: React.ReactNode;
 }) {
   const [collapsed, setCollapsed] = useState(false);
@@ -32,7 +41,8 @@ export default function DesktopShell({
         }`}
       >
         <Sidebar
-          categories={categories}
+          traditions={traditions}
+          categoriesByTradition={categoriesByTradition}
           collapseButton={
             <button
               onClick={() => setCollapsed(true)}
@@ -54,7 +64,7 @@ export default function DesktopShell({
         {/* Top bar */}
         <header className="sticky top-0 z-20 border-b border-cream-300 dark:border-warm-700 bg-cream-100/80 dark:bg-warm-900/80 backdrop-blur-md">
           <div className="flex items-center px-6 py-3 w-full gap-4">
-            <MobileNav categories={categories} />
+            <MobileNav traditions={traditions} categoriesByTradition={categoriesByTradition} />
             {collapsed && (
               <button
                 onClick={() => setCollapsed(false)}
@@ -67,6 +77,30 @@ export default function DesktopShell({
             <div className="flex-1 flex justify-center">
               <SearchBar />
             </div>
+            <Link
+              href="/guide"
+              className="p-2 rounded-lg hover:bg-cream-200 dark:hover:bg-warm-800 transition-colors"
+              aria-label="Start here"
+              title="Start here"
+            >
+              <Map className="w-5 h-5 text-warm-500 dark:text-warm-400" />
+            </Link>
+            <Link
+              href="/review"
+              className="p-2 rounded-lg hover:bg-cream-200 dark:hover:bg-warm-800 transition-colors"
+              aria-label="Review list"
+              title="Review list"
+            >
+              <Flag className="w-5 h-5 text-warm-500 dark:text-warm-400" />
+            </Link>
+            <Link
+              href="/reading-list"
+              className="p-2 rounded-lg hover:bg-cream-200 dark:hover:bg-warm-800 transition-colors"
+              aria-label="Reading list"
+              title="Reading list"
+            >
+              <Bookmark className="w-5 h-5 text-warm-500 dark:text-warm-400" />
+            </Link>
             <ThemeToggle />
           </div>
         </header>

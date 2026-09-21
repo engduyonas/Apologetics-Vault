@@ -1,13 +1,15 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import { ChevronDown } from "lucide-react";
+import { ChevronDown, Search } from "lucide-react";
 import CategoryIcon from "./CategoryIcon";
+import ReadIndicator from "./ReadIndicator";
 
 interface ArticleItem {
   title: string;
   slug: string;
+  tradition: string;
   category: string;
   readTime: number;
   subcategory?: string;
@@ -39,9 +41,21 @@ export default function SubcategoryAccordion({
   const [openSections, setOpenSections] = useState<Record<string, boolean>>(
     initialOpen ? { [initialOpen]: true } : {}
   );
+  const [filter, setFilter] = useState("");
+  const q = filter.trim().toLowerCase();
 
   const toggle = (name: string) =>
     setOpenSections((prev) => ({ ...prev, [name]: !prev[name] }));
+
+  const matchesFilter = (a: ArticleItem) => a.title.toLowerCase().includes(q);
+
+  const totalMatches = useMemo(() => {
+    if (!q) return 0;
+    return (
+      articles.filter(matchesFilter).length +
+      ungrouped.filter(matchesFilter).length
+    );
+  }, [q, articles, ungrouped]);
 
   const renderArticles = (items: ArticleItem[]) => {
     const seriesMap = new Map<string, ArticleItem[]>();
@@ -110,11 +124,34 @@ export default function SubcategoryAccordion({
   };
 
   return (
-    <div className="space-y-2">
+    <div>
+      <div className="relative mb-4">
+        <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-warm-400 dark:text-warm-500" />
+        <input
+          type="text"
+          value={filter}
+          onChange={(e) => setFilter(e.target.value)}
+          placeholder="Filter articles in this category..."
+          className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-cream-300 dark:border-warm-600 bg-cream-50 dark:bg-warm-800 text-warm-800 dark:text-cream-200 placeholder-warm-400 dark:placeholder-warm-500 focus:outline-none focus:ring-2 focus:ring-slate-500/50 dark:focus:ring-slate-600/40 text-sm"
+        />
+        {q && (
+          <span className="absolute right-3 top-1/2 -translate-y-1/2 text-xs text-warm-400 dark:text-warm-500 tabular-nums">
+            {totalMatches} match{totalMatches !== 1 ? "es" : ""}
+          </span>
+        )}
+      </div>
+
+      {q && totalMatches === 0 ? (
+        <p className="text-center text-warm-400 dark:text-warm-500 py-10 text-sm">
+          No articles match &quot;{filter.trim()}&quot;.
+        </p>
+      ) : (
+        <div className="space-y-2">
       {subcategories.map((sub) => {
-        const subArticles = articles.filter((a) => a.subcategory === sub.name);
+        const allSubArticles = articles.filter((a) => a.subcategory === sub.name);
+        const subArticles = q ? allSubArticles.filter(matchesFilter) : allSubArticles;
         if (subArticles.length === 0) return null;
-        const isOpen = openSections[sub.name] ?? false;
+        const isOpen = q ? true : openSections[sub.name] ?? false;
 
         return (
           <div
@@ -122,7 +159,7 @@ export default function SubcategoryAccordion({
             className="rounded-lg border border-cream-300/50 dark:border-warm-700/50 overflow-hidden"
           >
             <button
-              onClick={() => toggle(sub.name)}
+              onClick={() => !q && toggle(sub.name)}
               className={`w-full flex items-center gap-3 px-5 py-4 text-left transition-colors ${
                 isOpen
                   ? "bg-slate-50/50 dark:bg-slate-900/10"
@@ -163,46 +200,54 @@ export default function SubcategoryAccordion({
         );
       })}
 
-      {ungrouped.length > 0 && (
-        <div className="rounded-lg border border-cream-300/50 dark:border-warm-700/50 overflow-hidden">
-          <button
-            onClick={() => toggle("__ungrouped__")}
-            className={`w-full flex items-center gap-3 px-4 py-3 text-left transition-colors ${
-              openSections["__ungrouped__"]
-                ? "bg-slate-50/50 dark:bg-slate-900/10"
-                : "hover:bg-cream-200/40 dark:hover:bg-warm-800/40"
-            }`}
-          >
-            <CategoryIcon
-              icon="file-text"
-              className={`w-4 h-4 shrink-0 ${
-                openSections["__ungrouped__"]
-                  ? "text-slate-600 dark:text-slate-400"
-                  : "text-warm-400 dark:text-warm-500"
-              }`}
-            />
-            <span className={`flex-1 text-base font-medium ${
-              openSections["__ungrouped__"]
-                ? "text-slate-800 dark:text-slate-300"
-                : "text-warm-700 dark:text-cream-200"
-            }`}>
-              Other
-            </span>
-            <span className="text-xs text-warm-400 dark:text-warm-500 tabular-nums mr-2">
-              {ungrouped.length}
-            </span>
-            <ChevronDown
-              className={`w-4 h-4 text-warm-400 dark:text-warm-500 transition-transform duration-150 ${
-                openSections["__ungrouped__"] ? "rotate-180" : ""
-              }`}
-            />
-          </button>
+      {(() => {
+        const filteredUngrouped = q ? ungrouped.filter(matchesFilter) : ungrouped;
+        if (filteredUngrouped.length === 0) return null;
+        const isUngroupedOpen = q ? true : openSections["__ungrouped__"] ?? false;
 
-          {openSections["__ungrouped__"] && (
-            <div className="px-4 pb-4 pt-2">
-              {renderArticles(ungrouped)}
-            </div>
-          )}
+        return (
+          <div className="rounded-lg border border-cream-300/50 dark:border-warm-700/50 overflow-hidden">
+            <button
+              onClick={() => !q && toggle("__ungrouped__")}
+              className={`w-full flex items-center gap-3 px-4 py-3 text-left transition-colors ${
+                isUngroupedOpen
+                  ? "bg-slate-50/50 dark:bg-slate-900/10"
+                  : "hover:bg-cream-200/40 dark:hover:bg-warm-800/40"
+              }`}
+            >
+              <CategoryIcon
+                icon="file-text"
+                className={`w-4 h-4 shrink-0 ${
+                  isUngroupedOpen
+                    ? "text-slate-600 dark:text-slate-400"
+                    : "text-warm-400 dark:text-warm-500"
+                }`}
+              />
+              <span className={`flex-1 text-base font-medium ${
+                isUngroupedOpen
+                  ? "text-slate-800 dark:text-slate-300"
+                  : "text-warm-700 dark:text-cream-200"
+              }`}>
+                Other
+              </span>
+              <span className="text-xs text-warm-400 dark:text-warm-500 tabular-nums mr-2">
+                {filteredUngrouped.length}
+              </span>
+              <ChevronDown
+                className={`w-4 h-4 text-warm-400 dark:text-warm-500 transition-transform duration-150 ${
+                  isUngroupedOpen ? "rotate-180" : ""
+                }`}
+              />
+            </button>
+
+            {isUngroupedOpen && (
+              <div className="px-4 pb-4 pt-2">
+                {renderArticles(filteredUngrouped)}
+              </div>
+            )}
+          </div>
+        );
+      })()}
         </div>
       )}
     </div>
@@ -213,17 +258,18 @@ function ArticleRow({
   article,
   showPart,
 }: {
-  article: { title: string; slug: string; category: string; readTime: number; part?: string };
+  article: { title: string; slug: string; tradition: string; category: string; readTime: number; part?: string };
   showPart?: boolean;
 }) {
   return (
     <a
-      href={`/${article.category}/${article.slug}`}
+      href={`/${article.tradition}/${article.category}/${article.slug}`}
       className="group flex items-center justify-between gap-4 py-3 px-3 -mx-3 rounded-md hover:bg-cream-200/60 dark:hover:bg-warm-800/60 transition-colors border-b border-cream-300/30 dark:border-warm-700/30 last:border-b-0"
     >
-      <span className="text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-[1.05rem]">
+      <span className="flex items-center gap-2 text-warm-800 dark:text-cream-200 group-hover:text-slate-800 dark:group-hover:text-slate-400 transition-colors leading-snug text-[1.05rem]">
+        <ReadIndicator tradition={article.tradition} category={article.category} slug={article.slug} />
         {showPart && article.part && (
-          <span className="text-warm-400 dark:text-warm-500 text-sm font-medium mr-2 font-sans">
+          <span className="text-warm-400 dark:text-warm-500 text-sm font-medium font-sans">
             Pt. {article.part}
           </span>
         )}

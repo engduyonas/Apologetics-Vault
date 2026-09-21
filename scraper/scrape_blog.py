@@ -14,7 +14,7 @@ import requests
 from bs4 import BeautifulSoup
 from categories import CATEGORY_FOLDER_MAP, slugify, detect_series
 
-CONTENT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content")
+CONTENT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content", "islam")
 BLOG_FOLDER = os.path.join(CONTENT_DIR, CATEGORY_FOLDER_MAP["blog-posts"])
 SLUGS_FILE = os.path.join(os.path.dirname(__file__), "all_blog_slugs.txt")
 BASE = "https://www.samshmnthelogy.net/post/"
