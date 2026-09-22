@@ -8,9 +8,9 @@ author: Justin Martyr
 sourceName: Christian Classics Ethereal Library
 wordCount: 23045
 readTime: 115
-subcategory: Patristic Theology
 license: Public Domain (CCEL plain-text edition). May be used for personal, educational,
   or non-profit purposes per ccel.org/about/copyright.html.
+subcategory: Patristic Theology
 ---
 
 Introductory Note to the Writings of Justin Martyr

@@ -12,7 +12,7 @@ export const TRADITIONS: Tradition[] = [
     order: 1,
     title: "Christian Theology",
     description:
-      "Christian doctrine on its own terms — Christology, the Trinity, biblical reliability, church history, and patristic theology.",
+      "The faith on its own terms — why it's true, who Christ is, core doctrine, church history, and how to explain and defend it.",
     icon: "cross",
   },
   {
@@ -155,9 +155,27 @@ export const CATEGORIES: Record<string, Category[]> = {
   ],
   "christian-theology": [
     {
+      slug: "why-christianity",
+      folder: "15-why-christianity",
+      order: 1,
+      title: "Why Christianity",
+      description:
+        "The positive case for the faith — evidence for the resurrection, the reliability of the Gospels, fulfilled prophecy, and arguments for God's existence.",
+      icon: "sparkles",
+    },
+    {
+      slug: "who-is-christ",
+      folder: "16-who-is-christ",
+      order: 2,
+      title: "Who Is Christ",
+      description:
+        "The life, teachings, miracles, and significance of Jesus — a direct look at Christ himself, apart from any controversy.",
+      icon: "cross",
+    },
+    {
       slug: "answers-to-common-questions",
       folder: "01-answers-to-common-questions",
-      order: 1,
+      order: 3,
       title: "Answers to Common Questions",
       description:
         "Responses to common questions and objections raised about Christian doctrine.",
@@ -166,23 +184,32 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "christological-issues",
       folder: "02-christological-issues",
-      order: 2,
+      order: 4,
       title: "Christological Issues",
-      description: "The deity, nature, and identity of Jesus Christ.",
+      description: "The deity, nature, and identity of Jesus Christ, defended against comparative and polemical challenges.",
       icon: "crown",
     },
     {
       slug: "theological-issues",
       folder: "03-theological-issues",
-      order: 3,
+      order: 5,
       title: "Theological Issues",
       description: "The Trinity, salvation, and Christian theology proper.",
       icon: "book-open",
     },
     {
+      slug: "systematic-theology",
+      folder: "17-systematic-theology",
+      order: 6,
+      title: "Systematic Theology",
+      description:
+        "A structured walk through core Christian doctrine — God, humanity and sin, salvation, the church, and last things.",
+      icon: "book-open",
+    },
+    {
       slug: "biblical-issues",
       folder: "04-biblical-issues",
-      order: 4,
+      order: 7,
       title: "Biblical Issues",
       description:
         "Biblical inspiration, canon, textual criticism, and scriptural authority.",
@@ -191,33 +218,42 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "church-history-and-denominations",
       folder: "14-church-history-and-denominations",
-      order: 5,
+      order: 8,
       title: "Church History & Denominations",
       description:
-        "Doctrine and history across Catholic, Orthodox, and Protestant traditions, drawn from public-domain reference works.",
+        "Doctrine, history, and culture across Catholic, Orthodox, and Protestant traditions, drawn from public-domain reference works and primary sources.",
       icon: "landmark",
     },
     {
-      slug: "polemical-issues",
-      folder: "08-polemical-issues",
-      order: 6,
-      title: "Polemical Issues",
+      slug: "sharing-and-defending-the-faith",
+      folder: "18-sharing-and-defending-the-faith",
+      order: 9,
+      title: "Sharing & Defending the Faith",
       description:
-        "Cross-topic essays on Abraham, angels, and biblical interpretation.",
+        "Practical apologetics — how to articulate, explain, and defend the faith in conversation.",
       icon: "message-square",
     },
     {
       slug: "general-issues",
       folder: "09-general-issues",
-      order: 7,
+      order: 10,
       title: "General Issues",
       description: "Broader topics in Christian apologetics and biblical ethics.",
       icon: "globe",
     },
     {
+      slug: "polemical-issues",
+      folder: "08-polemical-issues",
+      order: 11,
+      title: "Polemical Issues",
+      description:
+        "Cross-topic essays on Abraham, angels, and biblical interpretation.",
+      icon: "alert-triangle",
+    },
+    {
       slug: "short-summaries",
       folder: "12-short-summaries",
-      order: 8,
+      order: 12,
       title: "Short Summaries",
       description: "Concise summary articles on key theological points.",
       icon: "align-left",

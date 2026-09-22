@@ -8,9 +8,9 @@ author: Polycarp
 sourceName: Christian Classics Ethereal Library
 wordCount: 3174
 readTime: 16
-subcategory: Patristic Theology
 license: Public Domain (CCEL plain-text edition). May be used for personal, educational,
   or non-profit purposes per ccel.org/about/copyright.html.
+subcategory: Patristic Theology
 ---
 
 Introductory Note to the Epistle of Polycarp to the Philippians

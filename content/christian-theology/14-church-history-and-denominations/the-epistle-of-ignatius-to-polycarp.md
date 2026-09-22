@@ -8,9 +8,9 @@ author: Ignatius of Antioch
 sourceName: Christian Classics Ethereal Library
 wordCount: 2728
 readTime: 14
-subcategory: Patristic Theology
 license: Public Domain (CCEL plain-text edition). May be used for personal, educational,
   or non-profit purposes per ccel.org/about/copyright.html.
+subcategory: Patristic Theology
 series: The Epistles of Ignatius
 part: 7
 ---

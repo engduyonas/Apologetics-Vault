@@ -51,6 +51,21 @@ VOLUME_URL = {
     "anf01": "https://ccel.org/ccel/s/schaff/anf01/cache/anf01.txt",
     "npnf201": "https://ccel.org/ccel/s/schaff/npnf201/cache/npnf201.txt",
     "npnf204": "https://ccel.org/ccel/s/schaff/npnf204/cache/npnf204.txt",
+    "orthodoxy": "https://ccel.org/ccel/c/chesterton/orthodoxy/cache/orthodoxy.txt",
+    "incarnation": "https://ccel.org/ccel/a/athanasius/incarnation/cache/incarnation.txt",
+    "theology1": "https://ccel.org/ccel/h/hodge/theology1/cache/theology1.txt",
+}
+VOLUME_SOURCE_PAGE = {
+    "orthodoxy": "https://ccel.org/ccel/chesterton/orthodoxy",
+    "incarnation": "https://ccel.org/ccel/athanasius/incarnation",
+    "theology1": "https://ccel.org/ccel/hodge/theology1",
+}
+# Some volumes (e.g. Hodge) repeat every chapter title in a table of
+# contents before the real text -- searches would match the ToC line
+# first. Trim everything before this marker so title-based searches only
+# see the real chapter text.
+VOLUME_SKIP_TOC_BEFORE = {
+    "theology1": "INTRODUCTION.",
 }
 
 # (volume, title, author, start_line_marker, end_line_marker_or_None, folder, category, subcategory)
@@ -102,6 +117,94 @@ SEED = [
     ("anf01", "The Second Apology of Justin Martyr", "Justin Martyr",
      "The Second Apology of Justin for the Christians", "Dialogue of Justin, Philosopher and Martyr",
      "14-church-history-and-denominations", "church-history-and-denominations", "Patristic Theology"),
+
+    # --- Why Christianity: G.K. Chesterton, Orthodoxy (1908) ---
+    ("orthodoxy", "Introduction in Defence of Everything Else", "G.K. Chesterton",
+     "I. INTRODUCTION IN DEFENCE", "II. THE MANIAC",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Maniac", "G.K. Chesterton",
+     "II. THE MANIAC", "III. THE SUICIDE OF THOUGHT",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Suicide of Thought", "G.K. Chesterton",
+     "III. THE SUICIDE OF THOUGHT", "IV. THE ETHICS OF ELFLAND",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Ethics of Elfland", "G.K. Chesterton",
+     "IV. THE ETHICS OF ELFLAND", "V. THE FLAG OF THE WORLD",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Flag of the World", "G.K. Chesterton",
+     "V. THE FLAG OF THE WORLD", "VI. THE PARADOXES OF CHRISTIANITY",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Paradoxes of Christianity", "G.K. Chesterton",
+     "VI. THE PARADOXES OF CHRISTIANITY", "VII. THE ETERNAL REVOLUTION",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Eternal Revolution", "G.K. Chesterton",
+     "VII. THE ETERNAL REVOLUTION", "VIII. THE ROMANCE OF ORTHODOXY",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "The Romance of Orthodoxy", "G.K. Chesterton",
+     "VIII. THE ROMANCE OF ORTHODOXY", "IX. AUTHORITY AND THE ADVENTURER",
+     "15-why-christianity", "why-christianity", None),
+    ("orthodoxy", "Authority and the Adventurer", "G.K. Chesterton",
+     "IX. AUTHORITY AND THE ADVENTURER", None,
+     "15-why-christianity", "why-christianity", None),
+
+    # --- Who Is Christ: Athanasius, On the Incarnation ---
+    ("incarnation", "On the Incarnation: Creation and the Fall", "Athanasius",
+     "Chapter 1", "Chapter 2",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: The Divine Dilemma and Its Solution", "Athanasius",
+     "Chapter 2", "Chapter 3",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: The Divine Dilemma, Continued", "Athanasius",
+     "Chapter 3", "Chapter 4",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: The Death of Christ", "Athanasius",
+     "Chapter 4", "Chapter 5",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: The Resurrection", "Athanasius",
+     "Chapter 5", "Chapter 6",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: Refutation of the Jews", "Athanasius",
+     "Chapter 6", "Chapter 7",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: Refutation of the Gentiles", "Athanasius",
+     "Chapter 7", "Chapter 8",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: Refutation of the Gentiles, Continued", "Athanasius",
+     "Chapter 8", "Chapter 9",
+     "16-who-is-christ", "who-is-christ", None),
+    ("incarnation", "On the Incarnation: Conclusion", "Athanasius",
+     "Chapter 9", None,
+     "16-who-is-christ", "who-is-christ", None),
+
+    # --- Systematic Theology: Charles Hodge, Systematic Theology Vol. I ---
+    ("theology1", "On Method", "Charles Hodge",
+     "ON METHOD", "THEOLOGY", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Nature of Theology", "Charles Hodge",
+     "THEOLOGY", "RATIONALISM", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Protestant Rule of Faith", "Charles Hodge",
+     "THE PROTESTANT RULE OF FAITH", "PART I.", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Origin of the Idea of God", "Charles Hodge",
+     "ORIGIN OF THE IDEA OF GOD", "THEISM.", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "Theism", "Charles Hodge",
+     "THEISM.", "ANTI-THEISTIC THEORIES", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Knowledge of God", "Charles Hodge",
+     "THE KNOWLEDGE OF GOD", "NATURE AND ATTRIBUTES OF GOD", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Nature and Attributes of God: The Divine Being", "Charles Hodge",
+     "NATURE AND ATTRIBUTES OF GOD", "§ 8. Knowledge.", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Nature and Attributes of God: Knowledge, Will, Power, and Moral Perfections", "Charles Hodge",
+     "§ 8. Knowledge.", "The Trinity.", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Trinity", "Charles Hodge",
+     "The Trinity.", "THE DIVINITY OF CHRIST", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Divinity of Christ", "Charles Hodge",
+     "THE DIVINITY OF CHRIST", "THE HOLY SPIRIT", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Holy Spirit", "Charles Hodge",
+     "THE HOLY SPIRIT", "THE DECREES OF GOD", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "The Decrees of God", "Charles Hodge",
+     "THE DECREES OF GOD", "CREATION.", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "Creation", "Charles Hodge",
+     "CREATION.", "PROVIDENCE", "17-systematic-theology", "systematic-theology", None),
+    ("theology1", "Providence", "Charles Hodge",
+     "PROVIDENCE", "MIRACLES", "17-systematic-theology", "systematic-theology", None),
 ]
 
 IGNATIUS_LETTERS = [
@@ -225,6 +328,13 @@ def scrape_one(volume, title, author, start_marker, end_marker, folder, category
     try:
         text = fetch_volume(volume)
         lines = text.split("\n")
+        if volume in VOLUME_SKIP_TOC_BEFORE:
+            marker = VOLUME_SKIP_TOC_BEFORE[volume]
+            # exact (non-stripped) match -- the marker also appears
+            # indented inside the table of contents itself
+            skip_idx = next((i for i, l in enumerate(lines) if l == marker), None)
+            if skip_idx is not None:
+                lines = lines[skip_idx:]
 
         start_idx = find_line(lines, start_marker)
         if start_idx is None:
@@ -252,14 +362,15 @@ def scrape_one(volume, title, author, start_marker, end_marker, folder, category
             "slug": slug,
             "tradition": "christian-theology",
             "category": category,
-            "source": f"https://ccel.org/ccel/schaff/{volume}.html",
+            "source": VOLUME_SOURCE_PAGE.get(volume, f"https://ccel.org/ccel/schaff/{volume}.html"),
             "author": author,
             "sourceName": SOURCE_NAME,
             "wordCount": word_count,
             "readTime": max(1, round(word_count / 200)),
-            "subcategory": subcategory,
             "license": LICENSE,
         }
+        if subcategory:
+            frontmatter["subcategory"] = subcategory
         if title in SERIES_NAME:
             frontmatter["series"] = SERIES_NAME[title]
             frontmatter["part"] = SERIES_PART[title]

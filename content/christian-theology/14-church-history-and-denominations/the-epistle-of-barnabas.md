@@ -8,9 +8,9 @@ author: Pseudo-Barnabas
 sourceName: Christian Classics Ethereal Library
 wordCount: 11060
 readTime: 55
-subcategory: Patristic Theology
 license: Public Domain (CCEL plain-text edition). May be used for personal, educational,
   or non-profit purposes per ccel.org/about/copyright.html.
+subcategory: Patristic Theology
 ---
 
 Introductory Note to the Epistle of Barnabas

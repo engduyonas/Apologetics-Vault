@@ -8,9 +8,9 @@ author: Mathetes
 sourceName: Christian Classics Ethereal Library
 wordCount: 5101
 readTime: 26
-subcategory: Patristic Theology
 license: Public Domain (CCEL plain-text edition). May be used for personal, educational,
   or non-profit purposes per ccel.org/about/copyright.html.
+subcategory: Patristic Theology
 ---
 
 Introductory Note to the Epistle of Mathetes to Diognetus

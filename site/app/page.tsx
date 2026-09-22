@@ -21,13 +21,27 @@ export default function HomePage() {
           A personal study library for knowing the Christian faith more
           deeply, and being able to explain and defend it fluently.
         </p>
-        <Link
-          href="/guide"
-          className="inline-flex items-center gap-2 mt-6 px-4 py-2 rounded-lg bg-slate-700 dark:bg-slate-600 text-white text-sm font-medium hover:bg-slate-800 dark:hover:bg-slate-500 transition-colors"
-        >
-          <Map className="w-4 h-4" />
-          New here? Start with a guided tour
-        </Link>
+        <div className="flex flex-wrap items-center justify-center gap-3 mt-6">
+          <Link
+            href="/christian-theology/why-christianity"
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-700 dark:bg-slate-600 text-white text-sm font-medium hover:bg-slate-800 dark:hover:bg-slate-500 transition-colors"
+          >
+            Why Christianity?
+          </Link>
+          <Link
+            href="/christian-theology/who-is-christ"
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-cream-100 dark:bg-warm-800 text-warm-800 dark:text-cream-100 text-sm font-medium border border-cream-300 dark:border-warm-700 hover:bg-cream-200 dark:hover:bg-warm-700 transition-colors"
+          >
+            Who Is Christ?
+          </Link>
+          <Link
+            href="/guide"
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-cream-100 dark:bg-warm-800 text-warm-800 dark:text-cream-100 text-sm font-medium border border-cream-300 dark:border-warm-700 hover:bg-cream-200 dark:hover:bg-warm-700 transition-colors"
+          >
+            <Map className="w-4 h-4" />
+            Guided tour
+          </Link>
+        </div>
       </div>
 
       {/* Stats (Christian Theology) */}
