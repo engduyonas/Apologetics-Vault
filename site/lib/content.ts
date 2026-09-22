@@ -98,7 +98,7 @@ function parseArticleMeta(
       title: data.title || slug,
       slug,
       tradition: data.tradition || tradition,
-      category: category?.slug || data.category || "general-issues",
+      category: category?.slug || data.category || "why-christianity",
       folder,
       source: data.source || "",
       author: data.author || "",
@@ -171,7 +171,7 @@ export async function getArticle(
     title: data.title || slug,
     slug,
     tradition: data.tradition || tradition,
-    category: catMeta?.slug || data.category || "general-issues",
+    category: catMeta?.slug || data.category || "why-christianity",
     folder: category.folder,
     source: data.source || "",
     author: data.author || "",
@@ -329,7 +329,7 @@ export function getSearchIndex(): SearchDoc[] {
 
       const traditionSlug = data.tradition || tradition;
       const category = getCategoryByFolder(traditionSlug, folder);
-      const categorySlug = category?.slug || data.category || "general-issues";
+      const categorySlug = category?.slug || data.category || "why-christianity";
       const slug = data.slug || path.basename(filePath, ".md");
 
       docs.push({

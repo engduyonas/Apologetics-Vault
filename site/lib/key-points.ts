@@ -68,14 +68,14 @@ export const KEY_POINTS: Record<string, string[]> = {
     "Revelation 7:10 even directs worship-language salvation ascriptions jointly 'to our God... and to the Lamb.'",
     "Key move: distinguish 'savior' as a mere title (used loosely of agents) from 'Savior' as a functional claim (forgiving sin, granting eternal life) — only the latter, applied to Jesus, entails deity.",
   ],
-  "christian-theology/christological-issues/ot-appearances-of-christ-as-the-angel-of-god": [
+  "christian-theology/who-is-christ/ot-appearances-of-christ-as-the-angel-of-god": [
     "The 'Angel of the LORD' in the OT is repeatedly identified as God himself, not a created angel (Gen 16:7-13, 22:11-16; Exod 3:2-6; Judg 6:11-24; 13:20-22; Zech 1:11-12, 3:1-6, 12:8).",
     "Evidence for deity: he forgives sin (Zech 3:4, a divine prerogative), accepts worship, speaks as 'the LORD' in the first person, and is called 'God' directly by those who encounter him (Hagar: 'the God who sees me').",
     "Yet he's also distinct FROM Yahweh in some texts (he speaks TO the LORD, Zech 1:12, 3:1-2) — an early OT glimpse of plurality-within-unity in God (a seed of Trinitarian doctrine).",
     "Evangelical scholarship (Enns, Lindsey, Feinberg) identifies this figure as the preincarnate Christ — noting the Angel of the LORD never appears again after the incarnation, since the Son now appears in the flesh instead.",
     "Strong, source-dense article for defending Christ's pre-existence and deity directly from the Hebrew Bible, independent of NT claims.",
   ],
-  "christian-theology/theological-issues/is-gabriel-really-the-holy-spirit": [
+  "christian-theology/systematic-theology/is-gabriel-really-the-holy-spirit": [
     "Responds to a Muslim apologist's claim that the Quran identifies Gabriel and 'the Spirit' as the same entity, based on verses (2:97, 16:102, 26:193) about revelation being 'sent down.'",
     "Counters that the Quran itself uses the verbs for 'sending down' (nazzala) and 'casting' (alqa) interchangeably and in parallel constructions about angels, undermining the argument that different verbs must mean different agents.",
     "Q. 77:5's 'those who cast the Reminder' is shown, via classical tafsirs (Jalalayn, Ibn Abbas, Ibn Kathir), to refer to angels (plural) bringing revelation — implying multiple agents of revelation, not one single Spirit=Gabriel entity.",
@@ -89,14 +89,14 @@ export const KEY_POINTS: Record<string, string[]> = {
     "The cumulative case: 'Scripture' status in the apostolic mind wasn't fixed to a closed OT canon — it extended dynamically to what God was producing through his apostles/associates in real time.",
     "Good reference article for Bible-inspiration objections generally, not just the Islamic angle — the internal NT self-testimony case applies broadly.",
   ],
-  "christian-theology/polemical-issues/the-apostles-of-christ-messengers-of-god-or-mere-disciples": [
+  "christian-theology/why-christianity/the-apostles-of-christ-messengers-of-god-or-mere-disciples": [
     "Surah 36:13-29 tells of three unnamed 'messengers' sent to Antioch; multiple major Islamic sources (Tafsir al-Jalalayn, Tanwir al-Miqbas/Ibn Abbas, al-Tabari, al-Suyuti, and even sources Ibn Kathir cites while disagreeing) identify these three as Peter, John, and Paul — sent as Jesus's apostles.",
     "Article's apologetic point: several authoritative, mainstream Islamic exegetical traditions themselves affirm the apostles functioned as divinely-sent 'messengers' on par with prophets — which Muslims can appeal to when trying to argue apostolic authority is a Quranic category too.",
     "Useful for turning a Quranic narrative into common ground: the Quran's own commentators treat Peter, Paul, and John as legitimate messengers of Christ's mission, which — turned back on the objector — implies the Quran itself doesn't uniformly deny apostolic derivative authority.",
     "This is a heavily source-quoted, comparative-religion-style article (long, dense with named classical Muslim scholars) — best used as a reference on what classical tafsir literature says about Surah 36:13, not a quick-read piece.",
     "Complements the Trinity/deity-of-Christ cluster by showing apostolic authority has some (contested) Quranic and tafsir-based grounding.",
   ],
-  "christian-theology/general-issues/the-historicity-of-jonah-examined": [
+  "christian-theology/why-christianity/the-historicity-of-jonah-examined": [
     "Objection 1 (geographic/miracle 'error'): critics claim Jonah's fish supposedly vomited him at Nineveh, which is inland with no sea access — but the text (Jonah 2:10, 3:1-3) never says this; it says 'dry land,' and a second, later call from God sends him TO Nineveh afterward, implying he landed elsewhere (possibly near Tarshish/Spain per 1:3).",
     "Objection 2 (moral): critics call the OT's God unforgiving/genocidal for commanding conquest of Canaanite peoples.",
     "Response: Deuteronomy 9:4 and Leviticus 18 specify the conquered nations were judged for entrenched, specific abominations (incest, bestiality, child sacrifice to Molech) — this is framed as judicial punishment, not arbitrary ethnic violence.",

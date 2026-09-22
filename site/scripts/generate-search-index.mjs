@@ -38,14 +38,10 @@ const CATEGORIES = {
     { slug: "why-christianity", folder: "15-why-christianity", title: "Why Christianity" },
     { slug: "who-is-christ", folder: "16-who-is-christ", title: "Who Is Christ" },
     { slug: "answers-to-common-questions", folder: "01-answers-to-common-questions", title: "Answers to Common Questions" },
-    { slug: "christological-issues", folder: "02-christological-issues", title: "Christological Issues" },
-    { slug: "theological-issues", folder: "03-theological-issues", title: "Theological Issues" },
     { slug: "systematic-theology", folder: "17-systematic-theology", title: "Systematic Theology" },
     { slug: "biblical-issues", folder: "04-biblical-issues", title: "Biblical Issues" },
     { slug: "church-history-and-denominations", folder: "14-church-history-and-denominations", title: "Church History & Denominations" },
     { slug: "sharing-and-defending-the-faith", folder: "18-sharing-and-defending-the-faith", title: "Sharing & Defending the Faith" },
-    { slug: "general-issues", folder: "09-general-issues", title: "General Issues" },
-    { slug: "polemical-issues", folder: "08-polemical-issues", title: "Polemical Issues" },
     { slug: "short-summaries", folder: "12-short-summaries", title: "Short Summaries" },
   ],
   mormonism: [
@@ -148,7 +144,7 @@ function main() {
 
           const traditionSlug = data.tradition || tradition;
           const category = getCategoryByFolder(traditionSlug, folder);
-          const categorySlug = category?.slug || data.category || "general-issues";
+          const categorySlug = category?.slug || data.category || "why-christianity";
           const slug = data.slug || path.basename(file, ".md");
 
           docs.push({

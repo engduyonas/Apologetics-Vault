@@ -160,7 +160,7 @@ export const CATEGORIES: Record<string, Category[]> = {
       order: 1,
       title: "Why Christianity",
       description:
-        "The positive case for the faith — evidence for the resurrection, the reliability of the Gospels, fulfilled prophecy, and arguments for God's existence.",
+        "The case for the faith — evidence for the resurrection, the reliability of the Gospels, fulfilled prophecy, arguments for God's existence, and broader apologetics against other worldviews.",
       icon: "sparkles",
     },
     {
@@ -169,7 +169,7 @@ export const CATEGORIES: Record<string, Category[]> = {
       order: 2,
       title: "Who Is Christ",
       description:
-        "The life, teachings, miracles, and significance of Jesus — a direct look at Christ himself, apart from any controversy.",
+        "The deity, nature, life, teachings, and significance of Jesus Christ — from direct treatments of who he is to his defense against comparative and polemical challenges.",
       icon: "cross",
     },
     {
@@ -182,34 +182,18 @@ export const CATEGORIES: Record<string, Category[]> = {
       icon: "help-circle",
     },
     {
-      slug: "christological-issues",
-      folder: "02-christological-issues",
-      order: 4,
-      title: "Christological Issues",
-      description: "The deity, nature, and identity of Jesus Christ, defended against comparative and polemical challenges.",
-      icon: "crown",
-    },
-    {
-      slug: "theological-issues",
-      folder: "03-theological-issues",
-      order: 5,
-      title: "Theological Issues",
-      description: "The Trinity, salvation, and Christian theology proper.",
-      icon: "book-open",
-    },
-    {
       slug: "systematic-theology",
       folder: "17-systematic-theology",
-      order: 6,
+      order: 4,
       title: "Systematic Theology",
       description:
-        "A structured walk through core Christian doctrine — God, humanity and sin, salvation, the church, and last things.",
+        "Core Christian doctrine — God, the Trinity, salvation, the church, and last things — from structured textbook treatments to doctrine defended against objections.",
       icon: "book-open",
     },
     {
       slug: "biblical-issues",
       folder: "04-biblical-issues",
-      order: 7,
+      order: 5,
       title: "Biblical Issues",
       description:
         "Biblical inspiration, canon, textual criticism, and scriptural authority.",
@@ -218,7 +202,7 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "church-history-and-denominations",
       folder: "14-church-history-and-denominations",
-      order: 8,
+      order: 6,
       title: "Church History & Denominations",
       description:
         "Doctrine, history, and culture across Catholic, Orthodox, and Protestant traditions, drawn from public-domain reference works and primary sources.",
@@ -227,39 +211,25 @@ export const CATEGORIES: Record<string, Category[]> = {
     {
       slug: "sharing-and-defending-the-faith",
       folder: "18-sharing-and-defending-the-faith",
-      order: 9,
+      order: 7,
       title: "Sharing & Defending the Faith",
       description:
         "Practical apologetics — how to articulate, explain, and defend the faith in conversation.",
       icon: "message-square",
     },
     {
-      slug: "general-issues",
-      folder: "09-general-issues",
-      order: 10,
-      title: "General Issues",
-      description: "Broader topics in Christian apologetics and biblical ethics.",
-      icon: "globe",
-    },
-    {
-      slug: "polemical-issues",
-      folder: "08-polemical-issues",
-      order: 11,
-      title: "Polemical Issues",
-      description:
-        "Cross-topic essays on Abraham, angels, and biblical interpretation.",
-      icon: "alert-triangle",
-    },
-    {
       slug: "short-summaries",
       folder: "12-short-summaries",
-      order: 12,
+      order: 8,
       title: "Short Summaries",
       description: "Concise summary articles on key theological points.",
       icon: "align-left",
     },
     // 13-blog-posts was retired as its own category — its articles were
     // redistributed into the topical categories above by subcategory.
+    // christological-issues, theological-issues, general-issues, and
+    // polemical-issues were retired and merged into who-is-christ,
+    // systematic-theology, and why-christianity respectively.
   ],
   judaism: [
     {
@@ -544,7 +514,7 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Rebuttals", icon: "message-square" },
       { name: "General Topics", icon: "file-text" },
     ],
-    "christological-issues": [
+    "who-is-christ": [
       { name: "Christ's Deity & Identity", icon: "crown" },
       { name: "Messianic Prophecies", icon: "scroll" },
       { name: "NT Christology", icon: "book-open" },
@@ -555,7 +525,7 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
       { name: "Christology", icon: "crown" },
       { name: "General Topics", icon: "file-text" },
     ],
-    "theological-issues": [
+    "systematic-theology": [
       { name: "Trinity & Monotheism", icon: "book-open" },
       { name: "Salvation & Eschatology", icon: "heart" },
       { name: "OT Theology", icon: "book" },
@@ -567,7 +537,7 @@ export const SUBCATEGORIES: Record<string, Record<string, Subcategory[]>> = {
     "biblical-issues": [
       { name: "Biblical Studies", icon: "book" },
     ],
-    "general-issues": [
+    "why-christianity": [
       { name: "Rebuttals & Debates", icon: "message-square" },
       { name: "Apologetics & Defense", icon: "book-open" },
       { name: "Quran & Bible", icon: "scroll" },

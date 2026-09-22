@@ -72,12 +72,12 @@ export const GUIDES: Record<string, Guide> = {
         note: "A common objection to the deity of Christ, and the case for why it doesn't hold up — a good entry point.",
       },
       {
-        category: "christological-issues",
+        category: "who-is-christ",
         slug: "ot-appearances-of-christ-as-the-angel-of-god",
         note: "Moves from the general question of Christ's deity into a specific, concrete line of evidence for it.",
       },
       {
-        category: "theological-issues",
+        category: "systematic-theology",
         slug: "is-gabriel-really-the-holy-spirit",
         note: "A question at the intersection of Christology and the doctrine of the Trinity.",
       },
@@ -87,12 +87,12 @@ export const GUIDES: Record<string, Guide> = {
         note: "Addresses the reliability and self-understanding of the Bible, foundational to everything argued from it.",
       },
       {
-        category: "polemical-issues",
+        category: "why-christianity",
         slug: "the-apostles-of-christ-messengers-of-god-or-mere-disciples",
         note: "A close look at how the New Testament itself frames the apostles' role and authority.",
       },
       {
-        category: "general-issues",
+        category: "why-christianity",
         slug: "the-historicity-of-jonah-examined",
         note: "A test case for how the site handles questions of biblical historicity.",
       },
