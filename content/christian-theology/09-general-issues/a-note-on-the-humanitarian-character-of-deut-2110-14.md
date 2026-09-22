@@ -2,7 +2,7 @@
 title: A note on the humanitarian character of Deut 21.10-14
 tradition: christian-theology
 slug: a-note-on-the-humanitarian-character-of-deut-2110-14
-category: christological-issues
+category: general-issues
 source: https://www.samshmnthelogy.net/post/a-note-on-the-humanitarian-character-of-deut-21-10-14
 author: Sam Shamoun
 sourceName: Theology Sphere

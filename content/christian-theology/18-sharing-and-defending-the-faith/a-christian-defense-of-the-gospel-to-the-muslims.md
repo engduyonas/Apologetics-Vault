@@ -2,7 +2,7 @@
 title: A Christian Defense of the Gospel to the Muslims
 tradition: christian-theology
 slug: a-christian-defense-of-the-gospel-to-the-muslims
-category: general-issues
+category: sharing-and-defending-the-faith
 source: https://answeringislam.info/Shamoun/defense.htm
 author: Sam Shamoun
 sourceName: Answering Islam

@@ -2,7 +2,7 @@
 title: Exploring the Intersection of Faith and Reason
 tradition: christian-theology
 slug: exploring-the-intersection-of-faith-and-reason
-category: general-issues
+category: why-christianity
 source: https://www.samshmnthelogy.net/post/exploring-the-intersection-of-faith-and-reason
 author: Sam Shamoun
 sourceName: Theology Sphere

@@ -2,7 +2,7 @@
 title: When Was Christ Crucified?
 tradition: christian-theology
 slug: when-was-christ-crucified
-category: christological-issues
+category: biblical-issues
 source: https://www.samshmnthelogy.net/post/when-was-christ-crucified
 author: Sam Shamoun
 sourceName: Theology Sphere

@@ -2,7 +2,7 @@
 title: The New Testament Documents and the Historicity of the Resurrection
 tradition: christian-theology
 slug: the-new-testament-documents-and-the-historicity-of-the-resurrection
-category: general-issues
+category: why-christianity
 source: https://answeringislam.info/Shamoun/documents.htm
 author: Sam Shamoun
 sourceName: Answering Islam

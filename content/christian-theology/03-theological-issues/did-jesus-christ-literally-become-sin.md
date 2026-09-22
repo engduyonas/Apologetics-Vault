@@ -2,7 +2,7 @@
 title: Did Jesus Christ Literally Become Sin?
 tradition: christian-theology
 slug: did-jesus-christ-literally-become-sin
-category: christological-issues
+category: theological-issues
 source: https://www.samshmnthelogy.net/post/did-jesus-christ-literally-become-sin
 author: Sam Shamoun
 sourceName: Theology Sphere

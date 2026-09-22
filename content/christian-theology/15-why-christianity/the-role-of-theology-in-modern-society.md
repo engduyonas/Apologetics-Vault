@@ -2,7 +2,7 @@
 title: The Role of Theology in Modern Society
 tradition: christian-theology
 slug: the-role-of-theology-in-modern-society
-category: general-issues
+category: why-christianity
 source: https://www.samshmnthelogy.net/post/the-role-of-theology-in-modern-society
 author: Sam Shamoun
 sourceName: Theology Sphere

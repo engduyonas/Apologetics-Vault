@@ -2,7 +2,7 @@
 title: Signing of the Cross in Early Christianity Pt. 2
 tradition: christian-theology
 slug: signing-of-the-cross-in-early-christianity-pt-2
-category: christological-issues
+category: church-history-and-denominations
 source: https://www.samshmnthelogy.net/post/signing-of-the-cross-in-early-christianity-pt-2
 author: Sam Shamoun
 sourceName: Theology Sphere

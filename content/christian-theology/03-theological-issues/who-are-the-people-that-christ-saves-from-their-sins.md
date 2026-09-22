@@ -2,7 +2,7 @@
 title: Who Are The People That Christ Saves From Their Sins?
 tradition: christian-theology
 slug: who-are-the-people-that-christ-saves-from-their-sins
-category: christological-issues
+category: theological-issues
 source: https://answeringislam.info/authors/shamoun/people_saved.html
 author: Sam Shamoun
 sourceName: Answering Islam

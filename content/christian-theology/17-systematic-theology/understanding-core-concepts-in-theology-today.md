@@ -2,7 +2,7 @@
 title: Understanding Core Concepts in Theology Today
 tradition: christian-theology
 slug: understanding-core-concepts-in-theology-today
-category: general-issues
+category: systematic-theology
 source: https://www.samshmnthelogy.net/post/understanding-core-concepts-in-theology-today
 author: Sam Shamoun
 sourceName: Theology Sphere
